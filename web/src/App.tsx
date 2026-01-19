@@ -11,6 +11,29 @@ function clamp(n: number, min: number, max: number) {
   return Math.min(max, Math.max(min, n))
 }
 
+function shuffleQuestionOptions(
+  q: QuizQuestion,
+  seed: number,
+): QuizQuestion {
+  const items = q.options.map((option, originalIndex) => ({
+    option,
+    rationale: q.rationales[originalIndex] ?? '',
+    originalIndex,
+  }))
+
+  const shuffled = shuffle(items, seed)
+  const newCorrectAnswerIndex = shuffled.findIndex(
+    (x) => x.originalIndex === q.correctAnswerIndex,
+  )
+
+  return {
+    ...q,
+    options: shuffled.map((x) => x.option),
+    rationales: shuffled.map((x) => x.rationale),
+    correctAnswerIndex: newCorrectAnswerIndex,
+  }
+}
+
 function App() {
   const issues = useMemo(() => validateQuestions(questions), [])
   const categories = useMemo(() => {
@@ -26,6 +49,8 @@ function App() {
     clamp(20, 1, questions.length),
   )
   const [shouldShuffle, setShouldShuffle] = useState<boolean>(true)
+  const [shouldShuffleAnswers, setShouldShuffleAnswers] =
+    useState<boolean>(true)
 
   const [quizQuestions, setQuizQuestions] = useState<QuizQuestion[]>([])
   const [currentIndex, setCurrentIndex] = useState<number>(0)
@@ -65,7 +90,11 @@ function App() {
     const ordered = shouldShuffle ? shuffle(pool, seed) : [...pool]
     const picked = ordered.slice(0, count)
 
-    setQuizQuestions(picked)
+    const prepared = shouldShuffleAnswers
+      ? picked.map((q) => shuffleQuestionOptions(q, seed ^ q.id))
+      : picked
+
+    setQuizQuestions(prepared)
     setCurrentIndex(0)
     setAnswers({})
     setScreen('quiz')
@@ -185,6 +214,33 @@ function App() {
                     <span
                       className={`inline-block h-5 w-5 transform rounded-full bg-white shadow-sm transition ${
                         shouldShuffle ? 'translate-x-5' : 'translate-x-0.5'
+                      }`}
+                    />
+                  </button>
+                </div>
+
+                <div className="mt-3 flex items-center justify-between gap-3 rounded-xl border border-slate-200 bg-white/60 px-4 py-3">
+                  <div>
+                    <div className="text-sm font-medium">
+                      Losowa kolejność odpowiedzi (A/B/C/D)
+                    </div>
+                    <div className="text-xs text-slate-600">
+                      Dzięki temu poprawna odpowiedź nie jest „prawie zawsze A”
+                    </div>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => setShouldShuffleAnswers((v) => !v)}
+                    className={`relative inline-flex h-6 w-11 items-center rounded-full border transition ${
+                      shouldShuffleAnswers
+                        ? 'border-emerald-500/70 bg-emerald-500/30'
+                        : 'border-slate-300 bg-slate-200'
+                    }`}
+                    aria-pressed={shouldShuffleAnswers}
+                  >
+                    <span
+                      className={`inline-block h-5 w-5 transform rounded-full bg-white shadow-sm transition ${
+                        shouldShuffleAnswers ? 'translate-x-5' : 'translate-x-0.5'
                       }`}
                     />
                   </button>
