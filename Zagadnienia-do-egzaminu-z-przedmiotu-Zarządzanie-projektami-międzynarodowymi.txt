@@ -1,0 +1,148 @@
+﻿Zagadnienia do egzaminu z przedmiotu Zarządzanie projektami międzynarodowymi:
+* Pojęcie organizacja, zarzadzanie, otoczenie, synergia
+* Pojęcie projekt i jego istotne atrybuty, zarządzanie projektami, podstawowe parametry trójkąta projektowego,
+* Pojęcie program, portfel projektów, zarządzanie programem, zarzadzanie portfelem,
+* Kryteria ewaluacji projektu przyjęte przez Komisję Europejską 
+* Pojęcie oceny, oceny projektu
+* Wyjaśnienie kryteriów oceny projektów: cel, czas, koszt, jakość, efekty strategiczne, efekty społeczne
+* Metody oceny ex ante projektu np. studium wykonalności
+* Metody oceny ex post projektu - Metoda rozszerzona
+* Cechy podejścia zwinnego.
+* Porównanie tradycyjnego i adaptacyjnego zarządzania projektami
+* Prawne uwarunkowania realizacji projektów.
+* Pojęcia związane ze specyfiką projektów europejskich
+Wydatki kwalifikowalne, Wydatki niekwalifikowalne, 
+Zakaz podwójnego finansowania 
+Konkurs otwarty, zamknięty
+Elastyczne finansowanie - (cross - financing)
+Indykatywny wykaz
+Projekty twarde, miękkie
+
+
+
+
+Organizacja projektowa wyróżnia się następującymi cechami:
+• Podejściem holistycznym (całościowym) do wykonywanych projektów,
+• Elastycznością organizacyjną,
+• Procesem rozwiązywania problemów zorientowanym na osiąganie celów,
+• Stosowaniem metod, technik i metodyk zarządzania projektami,
+• Standaryzacją procedur i dokumentów,
+• Ciągłym doskonaleniem procesów (robienie rzeczy we właściwy sposób oraz robienia właściwych rzeczy),
+• Gromadzeniem i upowszechnianiem baz wiedzy projektowej poprzez tworzenie Biur Wsparcia Projektów, 
+• Korzystaniem z zaawansowanej wiedzy interdyscyplinarnej,
+• Wykorzystaniem doświadczenia projektowego  w celu tworzenia "nowej wiedzy",
+Project Management Institute(PMI), definiuje projekt jako "tymczasowe przedsięwzięcie podjęte w celu stworzenia unikatowego produktu lub usługi"[PMI, 2008, s. 5]
+• Program to grupa projektów powiązanych, zarządzanych i koordynowanych w taki sposób, aby osiągnąć  korzyści niemożliwe do osiągnięcia w przypadku indywidualnego zarządzania każdym projektem. (PMI 2008)
+• Zarządzanie programem to scentralizowane, skoordynowane zarządzanie skierowane na osiągnięcie celów i korzyści strategicznych danego programu.
+• Portfel projektów (multiproject management) to zbiór projektów lub programów oraz innych działań, które zostały zgrupowane razem, aby ułatwić efektywne zarządzanie i osiągnięcie celów strategicznych. Portfel projektów realizowany jest w ramach jednej organizacji. Projekty tworzące portfel mogą być powiązane lub niepowiązane ze sobą. Projekty wykonywane równolegle w ramach portfela konkurują o ograniczone zasoby organizacji.
+• Zarządzanie projektem polega na zastosowaniu wiedzy, umiejętności, narzędzi i technik w celu zaspokojenia potrzeb udziałowców projektu.
+• W metodyce zarządzania projektami europejskimi projekt definiowany jest jako zbiór czynności podejmowanych do osiągnięcia jasno określonych celów w wyznaczonym czasie  i za pomocą przeznaczonego  na jego wykonanie budżetu. Ponadto projekt cechuje się:
+•  jednoznacznie określonymi grupami docelowymi i beneficjentami ostatecznymi,
+•  sprecyzowanymi rozwiązaniami w zakresie koordynacji, zarządzania i finansowania,
+• systemem monitorowania i ewaluacji projektu,
+•  uzasadnieniem ekonomicznym jednoznacznie wskazującym na korzyści projektu.
+
+Ryzyko wg. PMI (Project Management Institute) oznacza niepewność  co do wystąpienia  zdarzenia lub warunku, które jeśli wystąpią, będą miały  istotnie pozytywny lub negatywny wpływ  na przebieg projektu.
+Project Management Body of Knowledge (PMBOK) definiuje zarządzanie ryzykiem w projekcie jako proces składający się z  identyfikowania, analizowania i reagowania na niepewność poprzez ocenę i monitorowanie ryzyka dla całego cyklu życia projektu. Takie podejście wpływa na maksymalizację efektów i minimalizowanie strat realizowanego projektu.
+Programy operacyjne wdrażane są przez:
+• Instytucję Zarządzającą (IZ),  która jest odpowiedzialna za całość programu
+• Instytucja Pośrednicząca (np. ministerstwa, urzędy marszałkowskie) podlegająca IZ odpowiedzialna za poszczególne Priorytety
+• Instytucja Pośrednicząca Drugiego Stopnia (IP2), Instytucja Wdrażająca (IW ) odpowiedzialna za kontakty z beneficjentami
+Alokacja to całkowita kwota środków unijnych planowana do wydania w ramach programu
+
+Koszty:
+Kwalifikowane (struktura kosztów zawarta jest w dokumentacji projektu i jest w całości lub częściowo pokryta z funduszu)
+Niekwalifikowane (beneficjent jest zobowiązany pokryć ze środków własnych np. koszt zakupu gruntu, nieruchomości, sprzętu, podatek VAT)
+Zakaz podwójnego finansowania  oznacza niedozwolone zrefundowanie tego samego wydatku jednocześnie ze środków krajowych i funduszy strukturalnych UE (np. podatek VAT od towarów i usług może być wydatkiem kwalifikowanym gdy podlega zwrotowi w myśl przepisów krajowych)
+Rodzaje projektów:
+• twarde (infrastrukturalne) - przedsięwzięcia o charakterze inwestycyjnym (wniosek aplikacyjny wymaga załączenia studium wykonalności lub biznesplanu)
+Studium wykonalności dotyczy informacji na  temat projektu jego otoczenia  instytucjonalnego, prawnego, finansowego...
+• miękkie związane z inwestycją w człowieka (składa się sam wniosek aplikacyjny)
+Konkurs otwarty  to ogłoszenie naboru wniosków przez instytucję wdrażającą w trybie publicznym i powszechnym oraz ciągłym tzn. do wyczerpania środków.
+Konkurs zamknięty  nabór projektów jest ograniczony terminem (pomiędzy datą ogłoszenia naboru a ostateczną datą składania wniosków nie może upłynąć mniej niż 30 dni)
+Indykatywny wykaz indywidualnych projektów kluczowych obejmuje najważniejsze projekty inwestycyjne, które nie konkurują o środki finansowe z pozostałymi projektami i podlegają procedurze oceny jak pozostałe projekty.
+
+
+Prawne uwarunkowania wsparcia realizacji projektów w świetle prawa Unii Europejskiej oraz prawa polskiego
+• Projekty są realizowane przez osoby fizyczne, osoby prawne oraz jednostki organizacyjne niebędące osobami prawnymi, którym ustawa przyznaje zdolność prawną w rozumieniu działu I i II, tytułu II Kodeksu cywilnego [Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny, t.j. Dz.U. 2018, poz. 1025 ze zm.] (tzw. ułomne osoby prawne). 
+• Projekty są dofinansowywane z państwowych lub regionalnych programów wsparcia, a od chwili wejścia Polski do Unii Europejskiej także z Funduszy europejskich. W większości wsparcie finansowe projektów dotyczy sektora mikro-, małych i średnich przedsiębiorstw, a także młodych przedsiębiorców. 
+• Konstytucji RP, artykuł 5, w którym ustrojodawca stanowi, że: Rzeczpospolita Polska strzeże niepodległości i nienaruszalności swojego terytorium, zapewnia wolności i prawa człowieka i obywatela oraz bezpieczeństwo obywateli, strzeże dziedzictwa narodowego oraz zapewnia ochronę środowiska, kierując się zasadą zrównoważonego rozwoju" [Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r., Dz. U. z 1997 r., nr 78, poz. 483 ze zm.]. 
+• Zasada zrównoważonego rozwoju jest tzw. normą programową polskiej Konstytucji która składa się z trzech podstawowych aspektów: ekonomicznego, społecznego oraz ekologicznego 
+• Konstytucji RP, artykuł 5, w którym ustrojodawca stanowi, że: Rzeczpospolita Polska strzeże niepodległości i nienaruszalności swojego terytorium, zapewnia wolności i prawa człowieka i obywatela oraz bezpieczeństwo obywateli, strzeże dziedzictwa narodowego oraz zapewnia ochronę środowiska, kierując się zasadą zrównoważonego rozwoju" [Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r., Dz. U. z 1997 r., nr 78, poz. 483 ze zm.]. 
+• Zasada zrównoważonego rozwoju jest tzw. normą programową polskiej Konstytucji która składa się z trzech podstawowych aspektów: ekonomicznego, społecznego oraz ekologicznego 
+• Można zatem stwierdzić, że wspieranie projektów, realizowanych przez sektor mikro-, małych i średnich przedsiębiorstw jest zgodne z polską konstytucją, ponieważ zasada zrównoważonego rozwoju obejmuje równomierny rozwój ekonomiczny i społeczny. 
+• Co zgodne jest z art. 20 Konstytucji RP, w którym określono społeczną gospodarkę rynkową opartą "na wolności działalności gospodarczej, własności prywatnej oraz solidarności, dialogu i współpracy partnerów społecznych" jako podstawę "ustroju gospodarczego Rzeczypospolitej Polskiej" [ Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r., Dz. U. z 1997 r., nr 78, poz. 483 ze zm.].
+• Wspieranie przez państwo realizacji projektów jest zgodne także z zasadą równości wyrażoną w art. 32 ust. 1 Konstytucji RP, ponieważ w Polsce obowiązuje równość w znaczeniu materialnym, a zatem "znajdujących się w takiej samej lub podobnej sytuacji faktycznej" prawo powinno traktować tak samo lub podobnie, a "znajdujących się w odmiennej sytuacji faktycznej" prawo powinno traktować odmiennie [Sarnecki, 2014, s. 157. Za Orzeczenie Trybunału Konstytucyjnego z 9.3.1988, sygn. U 7/87, OTK 1988, nr 1, poz. 1.]
+
+Podstawowym wsparciem projektów ze strony Unii Europejskiej są europejskie fundusze strukturalne i inwestycyjne tj.: 
+• Europejski Fundusz Rozwoju Regionalnego (EFRR) - głównym celem funduszu jest wsparcie zrównoważonego rozwoju w regionach Unii Europejskiej, 
+• Europejski Fundusz Społeczny (EFS) - głównym celem funduszu jest wsparcie realizowanych w Europie projektów, dotyczących zatrudnienia oraz inwestycja w kapitał ludzki Europy (pracowników, młodych ludzi, osoby poszukujące pracy), 
+• Fundusz Spójności (FS) - głównym celem funduszu jest wsparcie projektów w dziedzinie transportu i ochrony środowiska w krajach, w których dochód narodowy brutto (DNB) na mieszkańca jest niższy niż 90 proc. średniej unijnej, 
+• Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) - głównym celem funduszu jest wsparcie obszarów wiejskich UE poprzez pomoc w rozwiązywaniu konkretnych problemów europejskich wsi, 
+• Europejski Fundusz Morski i Rybacki (EFMR) - głównym celem funduszu jest wsparcie udzielone rybakom w przejściu na zrównoważone praktyki połowowe, jak również społecznościom zamieszkującym obszary przybrzeżne w dywersyfikacji lokalnej
+• wsparcie projektów z funduszy unijnych w Polsce stało się możliwe po dokonaniu zmian związanych, z dostosowaniem modelu samorządu terytorialnego do standardów międzynarodowych ujętych w Europejskiej Karcie Samorządu Lokalnego, w której zostały określone zasady funkcjonowania samorządów lokalnych w odniesieniu do demokratycznych państw Europy [Europejska Karta Samorządu Lokalnego sporządzona w Strasburgu w dniu 15 października 1985 roku, Dz.U. z 1994 r. nr 124, poz. 607].
+Termin prakseologia pochodzi od greckich słów: praksis co oznacza czynność, działanie oraz logos czyli nauka, stad prakseologia jest nauką zajmującą się działaniem, które posiada walory "dobrej roboty", o których pisze Tadeusz Kotarbiński w dziele pt. Traktat o dobrej robocie. Prakseologia jest nauką o charakterze interdyscyplinarnym
+• Związek prakseologii z innymi dziedzinami polega na wyznaczaniu drogi optymalizacji podejmowanych działań sprawnościowych np. w obszarach ekonomii, zarządzania, inżynierii, psychologii.
+• Zatem ogólnie można stwierdzić, że prakseologia zajmuje się działaniami celowymi oraz sposobami osiągania celów. W prakseologii ważne są najkorzystniejsze powiązania pomiędzy celami i środkami, które do nich wiodą. 
+Kategoria sprawności jest najbardziej ogólną oceną działań, która zawiera inne kategorie, będące szczegółowymi kategoriami oceny. Do podstawowych kategorii ocen zalicza się:
+• Skuteczność (effectiveness) jest postacią sprawności w sensie uniwersalnym oraz syntetycznym. Pojęcie skuteczności jest bezwymiarowe i zasadniczo związane z realizacją celów działań.
+• korzystność (profitabillity). Korzystność jest wielkością mianowaną (wymiarową), definiowaną w jednostkach cenności. O działaniu korzystnym można mówić wówczas, gdy osiągnięty wynik użyteczny jest wyższy niż poniesiony koszt działania (wysiłek). 
+• Kolejną postacią sprawności w sensie uniwersalnym jest ekonomiczność (economy). Ekonomiczność jest parametrem bezwymiarowym, związanym z tymi samymi wielkościami, które występują w definicji korzystności. Ekonomiczność wyrażona jest stosunkiem wyniku użytecznego (W) do kosztów działania (K).
+Uzasadnienie biznesowe jest podstawowym dokumentem oceny projektu zarówno w każdej fazie jak i w przeprowadzeniu oceny końcowej projektu. Wydana pozytywna ocena, przygotowanych dokumentów projektu, przez Komitet Sterujący umożliwia przystąpienie do realizacji projektu. Ponadto w ocenie projektu pomocne są raporty opracowane po wykonaniu ważnych zadań lub danego etapu 
+Metodyka PCM (Project cycle Management) ma charakter rozwojowy jednak dopiero w latach 80.XX wieku zwrócono uwagę na znaczenie oceny w realizacji projektu i ostatecznie uzupełniono ją o u fazę ewaluacji. Metodyka PCM służy  do przygotowania, realizacji i oceny projektów finansowanych ze środków Unii Europejskiej. Opracowana metodyka PCM składa się z pięciu następujących faz:
+1. Programowanie
+2. Identyfikacja 
+3. Formułowanie 
+4. Finansowanie
+5. Wdrażanie 
+6. Ewaluacja i audyt.
+Kryteriami ewaluacji projektu przyjętymi przez Komisję Europejską są:
+• Zgodność (relevance) celu/ów projektu ze zidentyfikowanymi potrzebami oraz priorytetami ma wpływ na decyzję o podjęciu wykonania projektu. Ocena negatywna wynikająca z braku powiązania potrzeb z celami projektu ma wpływ na wstrzymanie jego realizacji. 
+• Skuteczność (effectiveness) dotyczy oceny działań i rezultatów, które przyczyniły się do osiągnięcia celu/ów określonych w projekcie jak również w jakim stopniu zabezpieczono potrzeby beneficjentów.
+• Efektywność (efficiency) osiągnięcia celu/ów projektu przy racjonalnym gospodarowaniu niezbędnymi zasobami. Analiza efektywność umożliwia ocenę jakości bieżącego zarządzania (czasem, kosztem, jakością). Efektywność działań w projekcie koncentruje się na ocenie stosunku poniesionych nakładów do uzyskanych wyników.
+• Wpływ (impact) oceniany w zakresie osiągnięcia celów projektu również w szerszym wymiarze pozytywnego lub negatywnego oddziaływania na otoczenie. W ocenie uwzględnia się szerszy zakres osiągniętych efektów zarówno planowanych jak i tych nieoczekiwanych.
+• Zbalansowanie (sustainability) dotyczy oddziaływania i utrzymania osiągniętych efektów projektu, w dłuższym okresie czasu, czyli również po jego zamknięciu. Ocenie podlegają cele, działania oraz wykorzystane zasoby w kontekście adekwatności środków bądź ich przeszacowania. 
+Ocena projektu to systematyczne monitorowanie i ocena cząstkowa określonych parametrów projektu w ustalonych chwilach czasu przy uwzględnieniu faz jego realizacji. Natomiast celem oceny projektu jest podjęcie bieżących działań korygujących względem przyjętych celów cząstkowych, a także sformułowanie wniosków i zaleceń przyczyniających się do sprawnej realizacji projektów w przyszłości 
+Do oceny sprawności realizacji projektu wykorzystano podejście prakseologiczne uwzględniając nie tylko ocenę przed działaniem (ex ante) oraz po działaniu (ex post) lecz również ocenę bieżącą (on-line) i ocenę bieżącą predykcyjną (on-line prediction). W ocenie ex post sprawności realizacji projektu zaproponowano rozróżnienie na: 
+• obligatoryjną ocenę projektu dokonaną bezpośrednio po jego zakończeniu (w momencie zakończenia projektu), którą określono jako ocenę ex post immediate (łac. immediate - oznacza bezpośrednio), 
+• możliwą dodatkową ocenę projektu odroczoną w czasie, która może być dokonana nie wcześniej niż po upływie roku od zakończenia projektu, którą określono jako ex post finale (łac. finale - oznacza końcowy). Dodatkowa ocena ex post finale pozwala po czasie ocenić trwałość tzw. parametrów miękkich tj. jakość, efekty strategiczne oraz społeczne. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W fazie 1 - wstępnej - projektu  ważna jest identyfikacja potrzeby, która jest następnie skonkretyzowana w jego celu/ach. Cele projektu wyznaczają podejmowane działania i są podstawowym kryterium oceny projektu.  Do oceny ex ante projektu można wykorzystać metody kompleksowe (wielowymiarowe), umożliwiające podjęcie decyzji o przystąpieniu do realizacji projektu lub jego zaniechaniu. Do metod tych należy zaliczyć studium wykonalności (Feasibility study). Wykonalność dotyczy uzasadnienia celowości realizacji projektu analizowanej w zakresie możliwości systemowych, prawnych, ekonomicznych, technologicznych, czasowych, operacyjnych oraz zasobowych. Ponadto analiza wykonalności uwzględnia relacje biznesowe. 
+
+
+
+Zwinne podejście oparte m.in. na iteracyjnym i inkrementalnym budowaniu rezultatów projektu, które cechuje:
+• regularnie dostarczane przyrosty działającego oprogramowania;
+• krótkie (dzienne, tygodniowe, miesięczne) okresy adaptacyjnych iteracji;
+• cykl życia projektu składający się z adaptacyjnych iteracji zwykle o tym samym czasie trwania (ang. time-boxing);
+• stosowanie spriorytetyzowanego dokumentu przedstawiającego zakres prac do wykonania w ramach poszczególnych iteracji (tzw. backlog);
+• stosowanie planowania iteracyjnego - deklaracja pracy do wykonania na podstawie elementów backloga przypisywanych do danej iteracji;
+• planowanie zakresu projektu oparte na identyfikacji funkcjonalności produktu; 
+• troska o testowanie i najwyższą jakość przekazywanych przyrostów;
+• wymagania, projektowanie i sam produkt powstaje w miarę ewoluowania projektu;
+• stałe zaangażowanie przedstawicieli klienta, użytkowników w projekt, m.in. poprzez uczestniczenie w okresowych i końcowych demonstracjach produktu; przedstawiciel klienta współpracuje z zespołem i dostarcza mu wiedzę odnośnie do pożądanych kierunków rozwoju produktu i istniejących ograniczeń projektu; 
+Tradycyjne zarządzanie projektamiAdaptacyjna struktura projektuJeden cyklWiele cykliZnany zakres projektuZmienny zakres projektuKompletna struktura podziału pracyŚrednio i niskopoziomowa struktura pracyKompletny plan realizacji projektuPlanowanie just in timeTrudności w wprowadzaniu zmianOtwartość na zmianyKlient zleceniodawcąKlient współodpowiedzialny za projekt
+
+
+
+
+
+
+
+
+

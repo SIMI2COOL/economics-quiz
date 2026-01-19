@@ -1,0 +1,1523 @@
+[
+  {
+    "id": 1,
+    "category": "Podstawy",
+    "question": "Co najlepiej opisuje pojęcie „synergia” w kontekście organizacji i zarządzania?",
+    "options": [
+      "Sytuację, w której suma efektów pracy zespołu jest większa niż suma efektów pracy pojedynczych osób osobno",
+      "Stan, w którym każda jednostka organizacji pracuje całkowicie niezależnie, aby uniknąć konfliktów",
+      "Mechanizm polegający na ograniczeniu wymiany informacji między działami, by chronić tajemnice firmy",
+      "Zjawisko polegające wyłącznie na redukcji kosztów przez zwolnienia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synergia oznacza efekt „2+2=5”: dzięki współpracy i dopasowaniu ról organizacja uzyskuje lepszy wynik niż przy sumowaniu niezależnych działań.",
+    "rationales": [
+      "To definicja synergii: współdziałanie daje dodatkową wartość, której nie ma przy pracy w izolacji.",
+      "Niezależna praca może zmniejszyć tarcia, ale nie jest synergiią – synergia zakłada współpracę i efekt dodatkowy.",
+      "Ograniczanie informacji może wręcz osłabiać wynik; synergia wymaga koordynacji, a nie „silosów”.",
+      "Redukcja kosztów to nie to samo co synergia – synergia dotyczy jakości i efektu współdziałania, a nie wyłącznie cięć."
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Podstawy",
+    "question": "Czym najtrafniej jest „otoczenie” organizacji/projektu?",
+    "options": [
+      "Zbiorem wszystkich czynników zewnętrznych i wewnętrznych, które wpływają na działanie organizacji/projektu",
+      "Wyłącznie konkurencją rynkową i cenami produktów",
+      "Wyłącznie prawem krajowym, bez uwzględniania instytucji i interesariuszy",
+      "Tylko działem administracji, który obsługuje projekt"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Otoczenie to szeroki kontekst (np. prawo, rynek, interesariusze, instytucje, technologia), który wpływa na decyzje i ryzyka projektu.",
+    "rationales": [
+      "To ujęcie najszersze i zgodne z praktyką zarządzania: otoczenie obejmuje czynniki wpływające na projekt.",
+      "Konkurencja to tylko jeden element otoczenia (często zewnętrznego), a nie całość.",
+      "Prawo jest ważne, ale otoczenie obejmuje też np. instytucje UE, beneficjentów, rynek i czynniki społeczne.",
+      "Dział administracji jest elementem organizacji, ale nie wyczerpuje pojęcia otoczenia projektu."
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Projekt (PMI) i atrybuty",
+    "question": "Jak PMI definiuje projekt?",
+    "options": [
+      "Stały proces operacyjny firmy wykonywany cyklicznie",
+      "Tymczasowe przedsięwzięcie podjęte w celu stworzenia unikatowego produktu lub usługi",
+      "Zbiór rutynowych działań utrzymaniowych bez określonego końca",
+      "Dowolne zadanie wykonywane przez jedną osobę"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "W materiale zapisano definicję PMI: projekt jest tymczasowy i tworzy unikatowy rezultat (produkt/usługę).",
+    "rationales": [
+      "Proces operacyjny jest stały i powtarzalny, a projekt jest tymczasowy i unikatowy.",
+      "To dokładnie definicja PMI przytoczona w pliku.",
+      "Rutyna utrzymaniowa nie jest projektem, bo nie ma unikatowego rezultatu i często nie ma wyraźnego końca.",
+      "Projekt może mieć wielu wykonawców i interesariuszy; nie jest ograniczony do „jednej osoby”."
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Projekt (PMI) i atrybuty",
+    "question": "Który zestaw najlepiej opisuje „trójkąt projektowy” (podstawowe parametry projektu)?",
+    "options": [
+      "Cel – strategia – marketing",
+      "Czas – koszt – jakość (często także zakres jako element ściśle powiązany)",
+      "Prawo – podatki – księgowość",
+      "Rynek – konkurencja – reklama"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Trójkąt projektowy to klasyczne ograniczenia zarządzania projektem: czas, koszt i jakość (często rozumiana wraz z zakresem).",
+    "rationales": [
+      "To elementy zarządzania strategicznego, ale nie klasyczny trójkąt ograniczeń projektowych.",
+      "To najbliższe materiałowi: parametry czasu i kosztu są wprost, a jakość jest wskazana jako kryterium oceny; w praktyce bywa wiązana z zakresem.",
+      "To obszary ważne w projektach, ale nie definicja trójkąta projektowego.",
+      "To elementy otoczenia rynkowego, nie podstawowe ograniczenia projektu."
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Projekt (PMI) i atrybuty",
+    "question": "Które stwierdzenie najlepiej opisuje zarządzanie projektem wg PMI/PMBOK (w materiale)?",
+    "options": [
+      "To wyłącznie kontrola budżetu i harmonogramu bez pracy z interesariuszami",
+      "To zastosowanie wiedzy, umiejętności, narzędzi i technik w celu zaspokojenia potrzeb udziałowców projektu",
+      "To zestaw działań marketingowych mających zwiększyć sprzedaż",
+      "To zarządzanie wyłącznie zasobami ludzkimi w projekcie"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Materiał podaje definicję PMI: chodzi o zastosowanie wiedzy/technik/narzędzi, aby spełnić potrzeby interesariuszy (udziałowców).",
+    "rationales": [
+      "Budżet i harmonogram są ważne, ale definicja PMI jest szersza (obejmuje też potrzeby interesariuszy).",
+      "To definicja przytoczona w pliku.",
+      "Marketing może być częścią niektórych projektów, ale nie definiuje zarządzania projektem.",
+      "HR jest jednym z obszarów, ale zarządzanie projektem obejmuje znacznie więcej."
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Program i portfel",
+    "question": "Czym jest program wg PMI (zgodnie z materiałem)?",
+    "options": [
+      "Pojedynczym, dużym projektem o wysokim budżecie",
+      "Grupą projektów powiązanych, zarządzanych i koordynowanych tak, aby osiągnąć korzyści niemożliwe przy zarządzaniu każdym projektem osobno",
+      "Zbiorem dowolnych działań organizacji bez względu na ich cel",
+      "Listą zadań operacyjnych wykonywanych cyklicznie"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "W materiale jest definicja: program to grupa powiązanych projektów zarządzanych razem dla osiągnięcia dodatkowych korzyści.",
+    "rationales": [
+      "Program nie musi być jednym projektem; kluczowa jest koordynacja wielu powiązanych projektów.",
+      "To definicja z pliku (PMI 2008).",
+      "Portfel może zawierać działania niepowiązane, ale program z definicji opiera się na powiązaniu projektów i wspólnych korzyściach.",
+      "Działania cykliczne to raczej procesy operacyjne, nie program."
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Program i portfel",
+    "question": "Czym jest portfel projektów (multiproject management) wg materiału?",
+    "options": [
+      "Zbiorem projektów/programów oraz innych działań zgrupowanych dla ułatwienia zarządzania i osiągania celów strategicznych; projekty mogą być powiązane lub niepowiązane",
+      "Wyłącznie zbiorem projektów ściśle powiązanych technicznie",
+      "Dokumentem księgowym zawierającym koszty projektów",
+      "Zestawem projektów realizowanych zawsze sekwencyjnie (jeden po drugim)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W pliku wprost: portfel służy realizacji celów strategicznych i może zawierać projekty powiązane lub niepowiązane, konkurujące o zasoby.",
+    "rationales": [
+      "To definicja portfela z materiału (w tym informacja o możliwym braku powiązania i konkurencji o zasoby).",
+      "„Ścisłe powiązanie” to bardziej cecha programu niż portfela; portfel może mieć projekty niepowiązane.",
+      "To nie definicja portfela – portfel to sposób zarządzania zestawem inicjatyw, a nie dokument finansowy.",
+      "Portfel nie narzuca sekwencji; wiele projektów dzieje się równolegle i może konkurować o zasoby."
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Program i portfel",
+    "question": "Dlaczego projekty w portfelu mogą „konkurować o zasoby” (wg materiału)?",
+    "options": [
+      "Ponieważ zasoby organizacji są ograniczone, a projekty mogą być realizowane równolegle",
+      "Ponieważ zasoby w organizacji są zawsze nieograniczone, więc konkurencja jest tylko formalnością",
+      "Ponieważ portfel zawsze wymaga, aby wszystkie projekty miały ten sam zakres",
+      "Ponieważ konkurencja o zasoby występuje tylko w programach, nie w portfelach"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał podaje, że projekty w portfelu są często równoległe, a organizacja ma ograniczone zasoby, więc potrzebna jest priorytetyzacja.",
+    "rationales": [
+      "To sedno portfela: wspólna pula ograniczonych zasobów przy wielu inicjatywach.",
+      "To nieprawda — ograniczoność zasobów jest typowa i jest jednym z powodów istnienia zarządzania portfelem.",
+      "Portfel nie wymaga wspólnego zakresu; to zbiór inicjatyw pod cele strategiczne.",
+      "Konkurencja o zasoby jest charakterystyczna dla portfela; program jest z definicji powiązany i koordynowany dla korzyści."
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Organizacja projektowa",
+    "question": "Która cecha jest wymieniona w materiale jako charakterystyczna dla organizacji projektowej?",
+    "options": [
+      "Standaryzacja procedur i dokumentów",
+      "Unikanie stosowania metodyk zarządzania projektami",
+      "Brak baz wiedzy i brak uczenia się organizacji",
+      "Stałe trzymanie się jednej struktury organizacyjnej niezależnie od sytuacji"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W sekcji o organizacji projektowej wprost wymieniono m.in. standaryzację procedur i dokumentów.",
+    "rationales": [
+      "To jest wprost na liście cech organizacji projektowej w materiale.",
+      "W materiale jest odwrotnie: organizacja projektowa stosuje metody, techniki i metodyki PM.",
+      "W materiale jest odwrotnie: gromadzi i upowszechnia wiedzę (np. przez Biuro Wsparcia Projektów).",
+      "W materiale podkreślono elastyczność organizacyjną, a nie „sztywność zawsze taka sama”."
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Organizacja projektowa",
+    "question": "Po co organizacja projektowa tworzy Biuro Wsparcia Projektów (PMO) wg materiału?",
+    "options": [
+      "Aby gromadzić i upowszechniać bazę wiedzy projektowej oraz wspierać standaryzację",
+      "Aby zastąpić kierowników projektów i przejąć całą realizację zadań merytorycznych",
+      "Aby ukrywać wyniki projektów przed interesariuszami",
+      "Aby ograniczyć ciągłe doskonalenie i trzymać się starych procedur"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał mówi o „gromadzeniu i upowszechnianiu baz wiedzy projektowej poprzez tworzenie Biur Wsparcia Projektów”.",
+    "rationales": [
+      "To dokładnie zgodne z opisem w materiale.",
+      "PMO wspiera, a nie „zastępuje” role merytoryczne; przejęcie całej realizacji nie jest celem PMO.",
+      "Ukrywanie wyników jest sprzeczne z ideą monitoringu/ewaluacji i dobrych praktyk.",
+      "W materiale jest mowa o ciągłym doskonaleniu, więc to przeciwieństwo."
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Ryzyko (PMI/PMBOK)",
+    "question": "Jak PMI definiuje ryzyko w projekcie (wg materiału)?",
+    "options": [
+      "Pewność wystąpienia zdarzenia negatywnego w projekcie",
+      "Niepewność co do wystąpienia zdarzenia lub warunku, które – jeśli wystąpi – wpłynie istotnie pozytywnie lub negatywnie na projekt",
+      "Każde opóźnienie harmonogramu, niezależnie od skutków",
+      "Tylko zagrożenia finansowe, bez szans i okazji"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "W materiale podano definicję PMI: ryzyko to niepewność zdarzenia/warunku o istotnym wpływie, także pozytywnym.",
+    "rationales": [
+      "Ryzyko nie oznacza pewności – właśnie dotyczy niepewności.",
+      "To definicja ryzyka wg PMI przytoczona w materiale.",
+      "Opóźnienie może być skutkiem ryzyka, ale nie jest definicją ryzyka.",
+      "PMI traktuje ryzyko jako zdarzenia o możliwym wpływie pozytywnym lub negatywnym, nie tylko finansowym."
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Ryzyko (PMI/PMBOK)",
+    "question": "Na czym polega zarządzanie ryzykiem wg PMBOK (wg materiału)?",
+    "options": [
+      "Na jednorazowym spisaniu ryzyk na starcie, bez późniejszego monitorowania",
+      "Na procesie identyfikowania, analizowania i reagowania na niepewność oraz monitorowaniu ryzyka w całym cyklu życia projektu",
+      "Na ignorowaniu ryzyk pozytywnych (szans), bo są „miłe niespodzianki”",
+      "Wyłącznie na przeniesieniu całego ryzyka na podwykonawców"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Materiał opisuje zarządzanie ryzykiem jako proces obejmujący identyfikację, analizę, reakcję oraz monitorowanie w całym cyklu życia.",
+    "rationales": [
+      "PMBOK podkreśla proces i ciągłe monitorowanie, nie jednorazową listę.",
+      "To opis z materiału.",
+      "Ryzyka pozytywne też są ważne (szanse) i powinny być zarządzane.",
+      "To może być jedna ze strategii reakcji (transfer), ale nie „cała definicja” zarządzania ryzykiem."
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Projekty europejskie (definicja i cechy)",
+    "question": "Która cecha projektu w metodyce projektów europejskich jest wymieniona w materiale?",
+    "options": [
+      "Jednoznacznie określone grupy docelowe i beneficjenci ostateczni",
+      "Brak systemu monitorowania i ewaluacji, aby uprościć zarządzanie",
+      "Brak uzasadnienia ekonomicznego, bo projekty publiczne nie muszą go mieć",
+      "Nieokreślony budżet, aby zwiększyć elastyczność"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale opisano projekty europejskie m.in. przez wskazanie grup docelowych/beneficjentów oraz system monitoringu i ewaluacji.",
+    "rationales": [
+      "To jest wprost wskazane w materiale jako cecha projektu europejskiego.",
+      "Materiał mówi o systemie monitorowania i ewaluacji – więc brak byłby sprzeczny.",
+      "W materiale jest mowa o uzasadnieniu ekonomicznym wskazującym korzyści projektu.",
+      "Materiał mówi o budżecie przeznaczonym na wykonanie projektu – więc budżet ma być określony."
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Projekty UE (instytucje)",
+    "question": "Która instytucja jest odpowiedzialna „za całość programu operacyjnego” (wg materiału)?",
+    "options": [
+      "Instytucja Zarządzająca (IZ)",
+      "Instytucja Pośrednicząca (IP)",
+      "Instytucja Pośrednicząca Drugiego Stopnia (IP2) / Instytucja Wdrażająca (IW)",
+      "Beneficjent projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale wprost: Instytucja Zarządzająca (IZ) odpowiada za całość programu, a kolejne poziomy odpowiadają za priorytety i kontakt z beneficjentami.",
+    "rationales": [
+      "IZ jest wskazana jako odpowiedzialna za całość programu.",
+      "IP jest podległa IZ i odpowiada za poszczególne priorytety, nie za całość programu.",
+      "IP2/IW odpowiada za kontakty z beneficjentami i wdrażanie, nie za całość programu.",
+      "Beneficjent realizuje projekt, ale nie zarządza całością programu operacyjnego."
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Projekty UE (instytucje)",
+    "question": "Jaka jest rola IP2/IW wg materiału?",
+    "options": [
+      "Odpowiedzialność za kontakty z beneficjentami (wdrażanie na poziomie operacyjnym)",
+      "Ustalanie konstytucyjnych zasad zrównoważonego rozwoju",
+      "Wyłącznie kontrola jakości kodu w projektach IT",
+      "Zarządzanie całością programu operacyjnego"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale: IP2/IW (Instytucja Wdrażająca) odpowiada za kontakty z beneficjentami i obsługę wdrażania.",
+    "rationales": [
+      "To jest dokładnie opisane w materiale.",
+      "To zagadnienie konstytucyjne, nie rola instytucji wdrażającej.",
+      "To zbyt wąskie i niezgodne z materiałem.",
+      "Za całość programu odpowiada IZ, nie IP2/IW."
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Projekty UE (pojęcia)",
+    "question": "Co oznacza „alokacja” w projektach/programach UE (wg materiału)?",
+    "options": [
+      "Całkowitą kwotę środków unijnych planowaną do wydania w ramach programu",
+      "Wszystkie koszty niekwalifikowalne ponoszone przez beneficjenta",
+      "Wyłącznie wkład własny beneficjenta",
+      "Listę projektów miękkich"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał definiuje alokację jako całkowitą kwotę środków UE planowaną do wydania w ramach programu.",
+    "rationales": [
+      "To definicja z materiału.",
+      "Koszty niekwalifikowalne to inna kategoria (pokrywane ze środków własnych).",
+      "Wkład własny to tylko część finansowania projektu, nie „alokacja programu”.",
+      "Lista projektów miękkich nie jest definicją alokacji."
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Koszty i kwalifikowalność",
+    "question": "Które stwierdzenie jest zgodne z materiałem o kosztach kwalifikowalnych i niekwalifikowalnych?",
+    "options": [
+      "Koszty kwalifikowalne są pokrywane w całości lub częściowo z funduszu, a niekwalifikowalne musi pokryć beneficjent",
+      "Koszty kwalifikowalne zawsze pokrywa wyłącznie beneficjent",
+      "Koszty niekwalifikowalne zawsze pokrywa UE, jeśli projekt jest „ważny społecznie”",
+      "Kwalifikowalność kosztów nie ma związku z dokumentacją projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale: kwalifikowane są przewidziane w dokumentacji i finansowane w całości/części z funduszu, a niekwalifikowane beneficjent pokrywa sam.",
+    "rationales": [
+      "To dokładne ujęcie z materiału.",
+      "To odwrotność definicji z materiału.",
+      "Materiał mówi, że niekwalifikowane pokrywa beneficjent ze środków własnych.",
+      "Materiał wskazuje, że struktura kosztów kwalifikowanych jest zawarta w dokumentacji projektu."
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Koszty i kwalifikowalność",
+    "question": "Który przykład kosztu niekwalifikowalnego jest wymieniony w materiale?",
+    "options": [
+      "Zakup gruntu/nieruchomości",
+      "Koszty personelu merytorycznego projektu",
+      "Koszty monitorowania i ewaluacji",
+      "Koszty testowania jakości przyrostów (w Agile)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał jako przykład kosztów niekwalifikowalnych podaje m.in. koszt zakupu gruntu/nieruchomości (oraz np. VAT).",
+    "rationales": [
+      "To przykład wymieniony wprost w materiale.",
+      "Materiał nie podaje tego jako niekwalifikowalne; w praktyce często bywa kwalifikowalne (zależnie od programu), ale tu nie jest wskazane jako przykład.",
+      "Materiał mówi o systemie monitorowania i ewaluacji jako elemencie projektów UE; nie jest to wskazane jako niekwalifikowalne.",
+      "To termin z podejścia zwinnego i nie jest tu przykładem kosztu niekwalifikowalnego."
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Koszty i kwalifikowalność",
+    "question": "Na czym polega „zakaz podwójnego finansowania” (wg materiału)?",
+    "options": [
+      "Nie wolno realizować dwóch projektów jednocześnie",
+      "Niedozwolone jest zrefundowanie tego samego wydatku jednocześnie z dwóch różnych źródeł (np. krajowych i funduszy UE)",
+      "Nie wolno mieć wkładu własnego – wszystko musi być z UE",
+      "Nie wolno finansować kosztów kwalifikowalnych z funduszy UE"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Materiał definiuje zakaz podwójnego finansowania jako niedozwoloną refundację tego samego wydatku z dwóch źródeł.",
+    "rationales": [
+      "Można realizować kilka projektów, jeśli spełnione są zasady i są zasoby; to nie jest istota zakazu.",
+      "To definicja z materiału.",
+      "Wkład własny często jest wymagany; zakaz dotyczy refundacji tego samego wydatku z dwóch źródeł.",
+      "To sprzeczne z ideą dofinansowania: koszty kwalifikowalne mogą być finansowane z UE, ale bez podwójnej refundacji."
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Projekty UE (rodzaje)",
+    "question": "Czym charakteryzują się „projekty twarde” wg materiału?",
+    "options": [
+      "Są infrastrukturalne/inwestycyjne i we wniosku wymagają załączenia studium wykonalności lub biznesplanu",
+      "Zawsze dotyczą wyłącznie szkoleń i edukacji",
+      "Nie wymagają żadnych dokumentów, bo są „proste”",
+      "Są realizowane tylko przez osoby fizyczne"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale: projekty twarde są inwestycyjne (infrastrukturalne) i wymagają studium wykonalności lub biznesplanu jako załącznika.",
+    "rationales": [
+      "To definicja projektów twardych z materiału.",
+      "Szkolenia to typowe projekty miękkie, nie twarde.",
+      "Materiał mówi o wymaganych załącznikach (studium/biznesplan).",
+      "Materiał dopuszcza szeroki katalog realizatorów (osoby fizyczne, prawne, jednostki), nie tylko osoby fizyczne."
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Projekty UE (rodzaje)",
+    "question": "Czym charakteryzują się „projekty miękkie” wg materiału?",
+    "options": [
+      "Są związane z inwestycją w człowieka, a zwykle składa się sam wniosek aplikacyjny",
+      "Są wyłącznie drogami i mostami oraz zawsze wymagają biznesplanu",
+      "Nie mają grup docelowych i beneficjentów ostatecznych",
+      "Nie wymagają monitorowania i ewaluacji"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale: projekty miękkie dotyczą inwestycji w człowieka i w odróżnieniu od twardych zwykle nie wymagają studium wykonalności jako załącznika.",
+    "rationales": [
+      "To ujęcie z materiału (inwestycja w człowieka; sam wniosek).",
+      "Drogi/mosty to projekty twarde (infrastrukturalne).",
+      "Materiał podkreśla znaczenie grup docelowych i beneficjentów w projektach UE.",
+      "Materiał mówi o systemie monitorowania i ewaluacji jako elemencie projektów UE."
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Projekty UE (konkursy)",
+    "question": "Czym jest „konkurs otwarty” wg materiału?",
+    "options": [
+      "Naborem publicznym i powszechnym, prowadzonym w trybie ciągłym do wyczerpania środków",
+      "Naborem dostępnym tylko dla wybranych podmiotów zaproszonych imiennie",
+      "Naborem, w którym termin składania wniosków jest zawsze krótszy niż 7 dni",
+      "Naborem ograniczonym terminem i zamykanym niezależnie od środków"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał definiuje konkurs otwarty jako nabór publiczny, powszechny i ciągły aż do wyczerpania środków.",
+    "rationales": [
+      "To definicja konkursu otwartego z materiału.",
+      "To bardziej opis trybu zaproszeniowego, a nie „otwartego publicznie”.",
+      "Materiał nie wskazuje takiej reguły; w otwartym kluczowa jest ciągłość do wyczerpania środków.",
+      "To bliższe konkursowi zamkniętemu, który ma ograniczenie terminem."
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Projekty UE (konkursy)",
+    "question": "Czym jest „konkurs zamknięty” wg materiału?",
+    "options": [
+      "Naborem ograniczonym terminem (okno naboru), przy czym od ogłoszenia do końca składania nie może upłynąć mniej niż 30 dni",
+      "Naborem ciągłym do wyczerpania środków",
+      "Naborem, w którym zawsze można dosłać wniosek po terminie",
+      "Naborem bez żadnych reguł czasowych"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał podaje: konkurs zamknięty ma ograniczony termin naboru, a minimalny czas okna to 30 dni.",
+    "rationales": [
+      "To dokładnie definicja z materiału (w tym limit 30 dni).",
+      "To definicja konkursu otwartego, nie zamkniętego.",
+      "Po terminie wnioski nie spełniają warunków naboru; to nie jest zgodne z definicją konkursu zamkniętego.",
+      "Materiał jasno opisuje ograniczenie terminem."
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Projekty UE (pojęcia)",
+    "question": "Czym jest „Indykatywny wykaz indywidualnych projektów kluczowych” wg materiału?",
+    "options": [
+      "Lista najważniejszych projektów inwestycyjnych, które nie konkurują o środki z pozostałymi, ale podlegają ocenie jak inne projekty",
+      "Lista projektów odrzuconych w konkursie",
+      "Lista projektów miękkich realizowanych w trybie ciągłym",
+      "Lista kosztów niekwalifikowalnych"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: indykatywny wykaz obejmuje kluczowe projekty inwestycyjne, które nie konkurują o środki z innymi, ale przechodzą procedurę oceny.",
+    "rationales": [
+      "To definicja z materiału.",
+      "Odrzucenie w konkursie to coś innego niż „wykaz projektów kluczowych”.",
+      "Materiał mówi o projektach inwestycyjnych kluczowych, nie o listach projektów miękkich.",
+      "To nie jest wykaz kosztów, tylko wykaz projektów."
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Prawo i uwarunkowania",
+    "question": "Jakie podmioty mogą realizować projekty wg materiału (w świetle prawa polskiego)?",
+    "options": [
+      "Wyłącznie osoby fizyczne prowadzące działalność gospodarczą",
+      "Osoby fizyczne, osoby prawne oraz jednostki organizacyjne niebędące osobami prawnymi, którym ustawa przyznaje zdolność prawną",
+      "Wyłącznie instytucje centralne (ministerstwa)",
+      "Wyłącznie organizacje pozarządowe"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Materiał wskazuje szeroki katalog realizatorów: osoby fizyczne, osoby prawne oraz tzw. „ułomne osoby prawne” z przyznaną zdolnością prawną.",
+    "rationales": [
+      "Materiał dopuszcza też osoby prawne i jednostki organizacyjne z zdolnością prawną.",
+      "To ujęcie zgodne z materiałem (Kodeks cywilny i zdolność prawna).",
+      "Projekty mogą realizować różne podmioty, nie tylko administracja centralna.",
+      "NGO mogą realizować projekty, ale nie są jedyną kategorią podmiotów."
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Prawo i Konstytucja",
+    "question": "Co w materiale wskazano jako trzy podstawowe aspekty zasady zrównoważonego rozwoju (normy programowej Konstytucji RP)?",
+    "options": [
+      "Ekonomiczny, społeczny, ekologiczny",
+      "Technologiczny, militarny, religijny",
+      "Wyłącznie ekonomiczny (zysk i koszty)",
+      "Wyłącznie ekologiczny (ochrona przyrody)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wprost wymienia trzy aspekty: ekonomiczny, społeczny i ekologiczny.",
+    "rationales": [
+      "To dokładny zapis z materiału.",
+      "Te aspekty nie występują w materiale jako definicja zrównoważonego rozwoju.",
+      "Zrównoważony rozwój nie ogranicza się do ekonomii – obejmuje także aspekty społeczne i ekologiczne.",
+      "Ochrona środowiska jest ważna, ale zasada obejmuje również ekonomię i społeczeństwo."
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Fundusze UE",
+    "question": "Który fundusz ma w materiale opisany cel: „wsparcie zrównoważonego rozwoju w regionach UE”?",
+    "options": [
+      "Europejski Fundusz Rozwoju Regionalnego (EFRR)",
+      "Europejski Fundusz Społeczny (EFS)",
+      "Europejski Fundusz Morski i Rybacki (EFMR)",
+      "Fundusz Spójności (FS)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale EFRR jest opisany jako fundusz wspierający zrównoważony rozwój w regionach UE.",
+    "rationales": [
+      "To dokładnie cel EFRR podany w materiale.",
+      "EFS dotyczy zatrudnienia i inwestycji w kapitał ludzki, nie ogólnie rozwoju regionów.",
+      "EFMR dotyczy rybołówstwa i społeczności przybrzeżnych, nie ogólnie rozwoju regionów.",
+      "FS dotyczy głównie transportu i ochrony środowiska w krajach o niższym DNB per capita."
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Fundusze UE",
+    "question": "Który fundusz w materiale jest powiązany z projektami dotyczącymi zatrudnienia i inwestycją w kapitał ludzki?",
+    "options": [
+      "EFS",
+      "EFRR",
+      "EFRROW",
+      "FS"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał opisuje EFS jako fundusz wspierający zatrudnienie oraz inwestycje w kapitał ludzki (pracowników, młodych ludzi, osoby poszukujące pracy).",
+    "rationales": [
+      "To cel EFS opisany w materiale.",
+      "EFRR dotyczy rozwoju regionalnego, a nie wprost rynku pracy i kapitału ludzkiego.",
+      "EFRROW dotyczy rozwoju obszarów wiejskich i problemów wsi, nie wprost zatrudnienia w całej UE.",
+      "FS dotyczy transportu i ochrony środowiska w krajach o niższym DNB per capita."
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Fundusze UE",
+    "question": "Który fundusz w materiale jest opisany jako wsparcie transportu i ochrony środowiska w krajach o DNB per capita < 90% średniej UE?",
+    "options": [
+      "Fundusz Spójności (FS)",
+      "Europejski Fundusz Morski i Rybacki (EFMR)",
+      "Europejski Fundusz Społeczny (EFS)",
+      "Europejski Fundusz Rozwoju Regionalnego (EFRR)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale ten opis dotyczy Funduszu Spójności (FS).",
+    "rationales": [
+      "To dokładny opis FS z materiału.",
+      "EFMR dotyczy rybołówstwa i obszarów przybrzeżnych.",
+      "EFS dotyczy kapitału ludzkiego i zatrudnienia.",
+      "EFRR dotyczy rozwoju regionalnego."
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Prakseologia",
+    "question": "Jak w prakseologii (wg materiału) rozumiana jest „skuteczność” (effectiveness)?",
+    "options": [
+      "Stopień osiągnięcia celu; pojęcie bezwymiarowe",
+      "Stosunek wyniku do kosztów (W/K)",
+      "Różnica wyniku i kosztu w jednostkach pieniężnych",
+      "Wyłącznie zgodność działań z procedurą, niezależnie od efektów"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: skuteczność jest bezwymiarowa i zasadniczo związana z realizacją celów działań (stopień osiągnięcia celu).",
+    "rationales": [
+      "To definicja skuteczności w materiale.",
+      "W/K to ekonomiczność, nie skuteczność.",
+      "Różnica wyniku i kosztu to raczej intuicja korzystności (gdy wynik > koszt), ale materiał inaczej rozróżnia pojęcia.",
+      "Zgodność z procedurą może wspierać sprawność, ale nie jest definicją skuteczności (liczy się osiągnięcie celu)."
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Prakseologia",
+    "question": "Kiedy działanie jest „korzystne” (profitability) wg materiału prakseologicznego?",
+    "options": [
+      "Gdy wynik użyteczny jest wyższy niż poniesiony koszt działania",
+      "Gdy koszt jest zawsze wyższy od wyniku, bo „inwestujemy”",
+      "Gdy osiągnięto cel, niezależnie od kosztu",
+      "Gdy wskaźnik W/K jest mniejszy niż 1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: o korzystności mówimy wtedy, gdy wynik użyteczny przewyższa koszt działania; jest to wielkość wymiarowa.",
+    "rationales": [
+      "To definicja korzystności z materiału.",
+      "To sprzeczne z definicją: korzystne jest wtedy, gdy wynik > koszt.",
+      "To opis skuteczności (osiągnięcie celu), a nie korzystności (wynik vs koszt).",
+      "W/K < 1 oznacza nieekonomiczność; ekonomiczność to osobna kategoria od korzystności."
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Prakseologia",
+    "question": "Czym jest „ekonomiczność” (economy) wg materiału?",
+    "options": [
+      "Parametrem bezwymiarowym wyrażonym stosunkiem wyniku użytecznego (W) do kosztów (K)",
+      "Stopniem realizacji celu (bez związku z kosztami)",
+      "Wielkością pieniężną wyrażoną jako W − K",
+      "Nazwą funduszu unijnego finansującego projekty"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wprost: ekonomiczność = W/K i jest bezwymiarowa.",
+    "rationales": [
+      "To definicja ekonomiczności z materiału.",
+      "To definicja skuteczności, nie ekonomiczności.",
+      "W − K nie jest podane jako ekonomiczność; w materiale ekonomiczność to iloraz, a korzystność odnosi się do relacji wyniku i kosztu.",
+      "To nie ma związku z prakseologią."
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Ewaluacja KE",
+    "question": "Które kryterium ewaluacji Komisji Europejskiej dotyczy zgodności celów projektu z potrzebami i priorytetami (wg materiału)?",
+    "options": [
+      "Zgodność (relevance)",
+      "Skuteczność (effectiveness)",
+      "Efektywność (efficiency)",
+      "Wpływ (impact)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale: „Zgodność (relevance)” ocenia powiązanie celów projektu z potrzebami i priorytetami.",
+    "rationales": [
+      "To kryterium relevance opisane w materiale.",
+      "Effectiveness dotyczy osiągnięcia celów i rezultatów, nie dopasowania do potrzeb.",
+      "Efficiency dotyczy relacji nakładów do wyników i jakości zarządzania zasobami.",
+      "Impact dotyczy szerszego oddziaływania na otoczenie."
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Ewaluacja KE",
+    "question": "Które kryterium KE w materiale dotyczy racjonalnego gospodarowania zasobami (czas, koszt, jakość) i relacji nakładów do wyników?",
+    "options": [
+      "Efektywność (efficiency)",
+      "Zgodność (relevance)",
+      "Zbalansowanie/Trwałość (sustainability)",
+      "Wpływ (impact)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: efficiency ocenia osiągnięcie celów przy racjonalnym gospodarowaniu zasobami i relacji nakładów do wyników.",
+    "rationales": [
+      "To opis efficiency z materiału.",
+      "Relevance dotyczy dopasowania do potrzeb/prior. a nie relacji nakładów do wyników.",
+      "Sustainability dotyczy utrzymania efektów po zamknięciu projektu.",
+      "Impact dotyczy szerszego oddziaływania, również nieoczekiwanego."
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Ewaluacja KE",
+    "question": "Które kryterium KE w materiale dotyczy „utrzymania efektów po zamknięciu projektu”?",
+    "options": [
+      "Zbalansowanie/Trwałość (sustainability)",
+      "Skuteczność (effectiveness)",
+      "Zgodność (relevance)",
+      "Efektywność (efficiency)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale: sustainability dotyczy oddziaływania i utrzymania efektów w dłuższym okresie, również po zamknięciu projektu.",
+    "rationales": [
+      "To kryterium opisane w materiale jako utrzymanie efektów po zakończeniu.",
+      "Effectiveness dotyczy stopnia osiągnięcia celów w trakcie realizacji.",
+      "Relevance dotyczy dopasowania celów do potrzeb.",
+      "Efficiency dotyczy relacji nakładów do wyników i gospodarowania zasobami."
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Ewaluacja KE",
+    "question": "Które kryterium KE w materiale dotyczy szerszego (pozytywnego lub negatywnego) oddziaływania na otoczenie, w tym efektów nieoczekiwanych?",
+    "options": [
+      "Wpływ (impact)",
+      "Zgodność (relevance)",
+      "Efektywność (efficiency)",
+      "Skuteczność (effectiveness)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: impact ocenia szeroki wpływ na otoczenie, także efekty nieoczekiwane.",
+    "rationales": [
+      "To opis impact z materiału.",
+      "Relevance dotyczy dopasowania do potrzeb, nie szerokiego wpływu.",
+      "Efficiency dotyczy relacji nakładów do wyników i gospodarowania zasobami.",
+      "Effectiveness dotyczy osiągnięcia celów projektu."
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Ocena projektu",
+    "question": "Które stwierdzenie najlepiej opisuje „ocenę projektu” wg materiału?",
+    "options": [
+      "Systematyczne monitorowanie i ocena cząstkowa parametrów w ustalonych chwilach czasu z uwzględnieniem faz realizacji",
+      "Jednorazowa ocena wyłącznie po zakończeniu projektu, bez wniosków na przyszłość",
+      "Wyłącznie kontrola zgodności wydatków z fakturami",
+      "Proces, który nie może prowadzić do działań korygujących w trakcie projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał definiuje ocenę projektu jako systematyczne monitorowanie i ocenę cząstkową parametrów w czasie oraz formułowanie wniosków i zaleceń.",
+    "rationales": [
+      "To definicja z materiału.",
+      "Materiał mówi też o działaniach bieżących korygujących i wnioskach na przyszłość.",
+      "Kontrola wydatków może być elementem, ale ocena projektu jest szersza (cele, rezultaty, zarządzanie).",
+      "Materiał wprost mówi o bieżących działaniach korygujących."
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Ocena ex ante / ex post",
+    "question": "Jaką rolę pełni ocena ex ante projektu wg materiału (np. studium wykonalności)?",
+    "options": [
+      "Pomaga podjąć decyzję o rozpoczęciu projektu lub jego zaniechaniu, analizując m.in. wykonalność i celowość",
+      "Jest wykonywana wyłącznie rok po zakończeniu projektu",
+      "Polega na podsumowaniu rezultatów i lekcji po zamknięciu projektu",
+      "Służy wyłącznie do oceny jakości pracy zespołu, bez analizy otoczenia i zasobów"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: ex ante (np. feasibility study) to ocena przed działaniem, wspierająca decyzję „robić czy nie robić” na podstawie analizy wykonalności w wielu wymiarach.",
+    "rationales": [
+      "To sens oceny ex ante i studium wykonalności w materiale.",
+      "Rok po zakończeniu dotyczy ex post finale, nie ex ante.",
+      "To raczej ocena ex post (po zakończeniu).",
+      "Materiał podkreśla analizę systemową/prawną/ekonomiczną/technologiczną/czasową/zasobową – więc nie jest to tylko „ocena zespołu”."
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Ocena ex ante / ex post",
+    "question": "Czym jest studium wykonalności (Feasibility study) wg materiału?",
+    "options": [
+      "Metodą oceny ex ante analizującą celowość i możliwość realizacji projektu (systemową, prawną, ekonomiczną, technologiczną, czasową, operacyjną, zasobową)",
+      "Metodą oceny ex post immediate wykonywaną bezpośrednio po zakończeniu projektu",
+      "Raportem z audytu finansowego, wykonywanym zawsze po wypłacie dotacji",
+      "Listą wymagań użytkownika (backlog) w Agile"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał opisuje feasibility study jako kompleksową analizę wykonalności i celowości projektu przed startem.",
+    "rationales": [
+      "To opis studium wykonalności z materiału.",
+      "Ex post immediate jest po zakończeniu, a studium wykonalności jest przed projektem (ex ante).",
+      "Audyt to inny typ dokumentu i etap; studium wykonalności nie jest „zawsze po dotacji”.",
+      "Backlog to pojęcie Agile, a nie studium wykonalności."
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Ocena ex ante / ex post",
+    "question": "Co oznacza ocena „ex post immediate” w podejściu prakseologicznym z materiału?",
+    "options": [
+      "Obligatoryjną ocenę dokonaną bezpośrednio w momencie zakończenia projektu",
+      "Ocenę wykonalności przed rozpoczęciem projektu",
+      "Ocenę dokonaną minimum rok po zakończeniu projektu",
+      "Ocenę wyłącznie kosztów niekwalifikowalnych"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: ex post immediate to ocena obowiązkowa wykonywana bezpośrednio po zakończeniu projektu (w momencie zakończenia).",
+    "rationales": [
+      "To definicja ex post immediate z materiału.",
+      "To opis ex ante (przed działaniem).",
+      "Minimum rok po zakończeniu to ex post finale, nie immediate.",
+      "Ocena nie dotyczy wyłącznie kosztów, tylko parametrów sprawności projektu."
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Ocena ex ante / ex post",
+    "question": "Co oznacza ocena „ex post finale” wg materiału?",
+    "options": [
+      "Dodatkową ocenę możliwą nie wcześniej niż po roku od zakończenia projektu, aby ocenić trwałość parametrów miękkich (jakość, efekty strategiczne i społeczne)",
+      "Ocenę wykonywaną przed projektem na etapie programowania",
+      "Ocenę wykonywaną codziennie w trakcie iteracji Agile",
+      "Ocenę wykonywaną tylko wtedy, gdy projekt był twardy (infrastrukturalny)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wprost: ex post finale jest odroczona (min. rok po zakończeniu) i pozwala ocenić trwałość jakości oraz efektów strategicznych i społecznych.",
+    "rationales": [
+      "To definicja ex post finale z materiału.",
+      "Przed projektem to ocena ex ante, nie ex post.",
+      "Codzienna ocena w iteracjach to praktyka Agile, a nie kategoria ex post finale.",
+      "Materiał nie ogranicza ex post finale tylko do projektów twardych; dotyczy oceny trwałości efektów."
+    ]
+  },
+  {
+    "id": 42,
+    "category": "PCM (Project Cycle Management)",
+    "question": "Do czego służy metodyka PCM wg materiału?",
+    "options": [
+      "Do przygotowania, realizacji i oceny projektów finansowanych ze środków UE",
+      "Wyłącznie do zarządzania portfelem projektów w korporacjach prywatnych",
+      "Wyłącznie do wytwarzania oprogramowania w Agile",
+      "Wyłącznie do audytu księgowego po zakończeniu projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: PCM służy do przygotowania, realizacji i oceny projektów finansowanych z funduszy UE (z uwzględnieniem fazy ewaluacji).",
+    "rationales": [
+      "To opis PCM z materiału.",
+      "Portfel to inny obszar; PCM dotyczy cyklu projektu (szczególnie UE).",
+      "Agile to inne podejście; PCM jest metodyką cyklu projektowego UE.",
+      "Audyt jest częścią końcową, ale PCM obejmuje znacznie więcej niż audyt."
+    ]
+  },
+  {
+    "id": 43,
+    "category": "PCM (Project Cycle Management)",
+    "question": "Która sekwencja faz PCM jest zgodna z materiałem?",
+    "options": [
+      "Programowanie → Identyfikacja → Formułowanie → Finansowanie → Wdrażanie → Ewaluacja i audyt",
+      "Identyfikacja → Finansowanie → Wdrażanie → Programowanie → Ewaluacja",
+      "Planowanie sprintów → Daily → Review → Retrospektywa",
+      "Projektowanie → Implementacja → Testy → Utrzymanie (bez ewaluacji)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wymienia fazy PCM dokładnie w tej kolejności, z dołożoną fazą ewaluacji i audytu.",
+    "rationales": [
+      "To sekwencja z materiału.",
+      "To pomieszane etapy i nie odpowiada materiałowi.",
+      "To elementy Scrum/Agile, a nie PCM.",
+      "To klasyczny cykl wytwarzania, ale bez faz PCM i bez ewaluacji/audytu."
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Agile",
+    "question": "Która cecha podejścia zwinnego (Agile) jest wymieniona w materiale?",
+    "options": [
+      "Krótkie iteracje o stałym czasie trwania (time-boxing)",
+      "Jeden cykl życia projektu i znany od początku, sztywny zakres",
+      "Klient jest wyłącznie zleceniodawcą i nie angażuje się w projekt",
+      "Brak testowania, bo liczy się szybkość"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał opisuje Agile m.in. przez time-boxing, iteracje, backlog, iteracyjne planowanie i nacisk na jakość/testy oraz udział klienta.",
+    "rationales": [
+      "Time-boxing jest wprost wymieniony w materiale jako cecha Agile.",
+      "To cecha podejścia tradycyjnego, nie zwinnego.",
+      "W materiale jest odwrotnie: stałe zaangażowanie przedstawicieli klienta i użytkowników.",
+      "Materiał mówi o trosce o testowanie i najwyższą jakość przyrostów."
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Agile",
+    "question": "Czym jest „backlog” wg opisu w materiale (w kontekście Agile)?",
+    "options": [
+      "Spriorytetyzowany dokument przedstawiający zakres prac do wykonania w iteracjach",
+      "Raport końcowy z audytu projektu",
+      "Lista kosztów niekwalifikowalnych w projekcie UE",
+      "Harmonogram całego projektu w pełnym szczególe od pierwszego dnia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: backlog to spriorytetyzowany zakres prac do realizacji w iteracjach; z niego wybiera się pracę do kolejnej iteracji.",
+    "rationales": [
+      "To definicja backloga z materiału.",
+      "To inny dokument (audyt), nie backlog.",
+      "To pojęcie z projektów UE, nie z Agile.",
+      "Agile preferuje planowanie iteracyjne „just in time”, a nie pełen szczegółowy plan od początku."
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Agile",
+    "question": "Jak w materiale opisano rolę klienta w podejściu adaptacyjnym (Agile) względem tradycyjnego?",
+    "options": [
+      "W Agile klient jest współodpowiedzialny i stale zaangażowany, a w tradycyjnym jest głównie zleceniodawcą",
+      "W Agile klient nie ma prawa głosu po podpisaniu umowy",
+      "W tradycyjnym klient współtworzy backlog i uczestniczy w demonstracjach co iterację",
+      "W obu podejściach klient zawsze jest całkowicie nieobecny"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał porównuje podejścia: w tradycyjnym klient jest zleceniodawcą, a w Agile klient współpracuje, uczestniczy w demonstracjach i wpływa na kierunek produktu.",
+    "rationales": [
+      "To zgodne z tabelą porównawczą i opisem w materiale.",
+      "W materiale jest odwrotnie: stałe zaangażowanie przedstawicieli klienta.",
+      "Backlog i iteracyjne demonstracje są typowe dla Agile, nie dla tradycyjnego podejścia z kompletnym planem.",
+      "W obu podejściach klient istnieje jako interesariusz; różni się poziom zaangażowania."
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Tradycyjne vs adaptacyjne",
+    "question": "Które zestawienie najlepiej odpowiada porównaniu z materiału: tradycyjne vs adaptacyjne zarządzanie projektem?",
+    "options": [
+      "Tradycyjne: jeden cykl i znany zakres; Adaptacyjne: wiele cykli i zmienny zakres",
+      "Tradycyjne: zmienny zakres; Adaptacyjne: zawsze znany zakres",
+      "Tradycyjne: planowanie just in time; Adaptacyjne: kompletny plan od początku",
+      "Tradycyjne: otwartość na zmiany; Adaptacyjne: trudności w zmianach"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Tabela w materiale: tradycyjne ma jeden cykl i znany zakres, adaptacyjne ma wiele cykli i zmienny zakres.",
+    "rationales": [
+      "To dokładnie zgodne z tabelą w materiale.",
+      "To odwrotność tego, co w materiale.",
+      "Materiał mówi: tradycyjne = kompletny plan; adaptacyjne = planowanie just in time.",
+      "Materiał mówi: tradycyjne = trudności w zmianach; adaptacyjne = otwartość na zmiany."
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Uzasadnienie biznesowe i sterowanie",
+    "question": "Jaką rolę pełni „uzasadnienie biznesowe” wg materiału?",
+    "options": [
+      "Jest podstawowym dokumentem oceny projektu w każdej fazie i w ocenie końcowej; pozytywna ocena Komitetu Sterującego umożliwia rozpoczęcie realizacji",
+      "To dokument tworzony wyłącznie po zakończeniu projektu jako formalność",
+      "To lista kosztów niekwalifikowalnych dla beneficjenta",
+      "To zamiennik backloga w Agile"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje, że business case jest bazą do decyzji Komitetu Sterującego i oceny projektu na etapach oraz na końcu.",
+    "rationales": [
+      "To opis z materiału (rola business case i Komitetu Sterującego).",
+      "Materiał mówi o roli w każdej fazie, nie tylko po zakończeniu.",
+      "Koszty niekwalifikowalne to inny temat; business case dotyczy sensu i korzyści projektu.",
+      "Backlog to narzędzie Agile, a uzasadnienie biznesowe to dokument decyzyjny i ocenny."
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Program i portfel",
+    "question": "Jak materiał definiuje „zarządzanie programem”?",
+    "options": [
+      "Scentralizowane, skoordynowane zarządzanie ukierunkowane na osiągnięcie celów i korzyści strategicznych programu",
+      "Zarządzanie pojedynczym projektem bez powiązań z innymi inicjatywami",
+      "Zarządzanie wyłącznie budżetem programu, bez wpływu na cele i korzyści",
+      "Zarządzanie portfelem projektów w wielu organizacjach jednocześnie"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale: zarządzanie programem jest scentralizowane i skoordynowane, nastawione na cele oraz korzyści strategiczne programu.",
+    "rationales": [
+      "To definicja z materiału.",
+      "To opis zarządzania projektem (i to w uproszczeniu), a nie programu.",
+      "Materiał podkreśla cele i korzyści strategiczne, nie tylko budżet.",
+      "Materiał mówi, że portfel jest w ramach jednej organizacji; to nie definicja zarządzania programem."
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Organizacja projektowa",
+    "question": "Co oznacza „podejście holistyczne (całościowe) do wykonywanych projektów” w organizacji projektowej (wg materiału)?",
+    "options": [
+      "Uwzględnianie zależności między celami, zasobami, ryzykami i interesariuszami zamiast patrzenia na zadania w izolacji",
+      "Skupienie się wyłącznie na kosztach, ignorując jakość i cele",
+      "Traktowanie każdego projektu jako całkowicie niezależnego od strategii organizacji",
+      "Ograniczenie współpracy między działami, aby uniknąć konfliktów"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Holistycznie znaczy „całościowo”: projekt jest analizowany w kontekście wielu elementów naraz (cele, zasoby, otoczenie, interesariusze).",
+    "rationales": [
+      "To najlepiej oddaje sens podejścia holistycznego wymienionego w materiale.",
+      "To redukuje zarządzanie do jednego wymiaru; materiał mówi o całościowym podejściu.",
+      "Organizacja projektowa dąży do realizacji celów i ciągłego doskonalenia, a nie do izolowania projektów od strategii.",
+      "Materiał wskazuje elastyczność i rozwiązywanie problemów zorientowane na cele, a nie tworzenie silosów."
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Organizacja projektowa",
+    "question": "Jak w materiale rozumiane jest „ciągłe doskonalenie” w organizacji projektowej?",
+    "options": [
+      "„Robienie rzeczy we właściwy sposób” oraz „robienie właściwych rzeczy”",
+      "Wyłącznie zwiększanie tempa pracy, nawet kosztem jakości",
+      "Unikanie zmian w procesach, aby zachować stabilność",
+      "Ograniczenie dokumentacji do minimum, aby nie tracić czasu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wprost tłumaczy ciągłe doskonalenie jako połączenie jakości wykonania i trafności doboru działań.",
+    "rationales": [
+      "To cytat/sens z materiału.",
+      "Zwiększanie tempa kosztem jakości jest sprzeczne z ideą „dobrej roboty” i jakości.",
+      "Ciągłe doskonalenie zakłada poprawianie, a nie unikanie zmian.",
+      "Materiał mówi o standaryzacji procedur i dokumentów, więc „ograniczenie dokumentacji” nie jest tu istotą."
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Organizacja projektowa",
+    "question": "Który punkt jest wymieniony w materiale jako cecha organizacji projektowej związana z kompetencjami?",
+    "options": [
+      "Korzystanie z zaawansowanej wiedzy interdyscyplinarnej",
+      "Ograniczanie się do jednej dziedziny wiedzy, aby uniknąć rozproszenia",
+      "Zakaz korzystania z doświadczeń z poprzednich projektów",
+      "Ignorowanie metod i metodyk zarządzania projektami"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wymienia korzystanie z zaawansowanej wiedzy interdyscyplinarnej jako cechę organizacji projektowej.",
+    "rationales": [
+      "To wprost wymieniona cecha w materiale.",
+      "Materiał podkreśla interdyscyplinarność, a nie ograniczanie.",
+      "Materiał mówi o wykorzystaniu doświadczenia projektowego do tworzenia „nowej wiedzy”.",
+      "Materiał mówi o stosowaniu metod, technik i metodyk PM, więc ignorowanie byłoby sprzeczne."
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Projekty europejskie (definicja i cechy)",
+    "question": "Który element jest w materiale wskazany jako typowy dla projektów europejskich (w metodyce)?",
+    "options": [
+      "System monitorowania i ewaluacji projektu",
+      "Brak monitorowania, aby nie „marnować czasu” na raporty",
+      "Zawsze nieograniczony czas realizacji",
+      "Brak jasno określonych celów, bo „cele zmieniają się po drodze”"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale: projekty europejskie mają system monitorowania i ewaluacji oraz jasno określone cele, czas i budżet.",
+    "rationales": [
+      "To element wskazany w materiale jako cecha projektów europejskich.",
+      "To sprzeczne z materiałem (monitoring i ewaluacja są wymagane).",
+      "Materiał mówi o wyznaczonym czasie realizacji, więc nie jest „nieograniczony”.",
+      "Materiał mówi o jasno określonych celach – brak celów przeczyłby definicji projektu."
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Projekty europejskie (definicja i cechy)",
+    "question": "Co w materiale oznacza „uzasadnienie ekonomiczne” w projektach europejskich?",
+    "options": [
+      "Wskazanie korzyści projektu w sposób jednoznaczny",
+      "Opis wyłącznie wydatków niekwalifikowalnych",
+      "Zastąpienie analizy korzyści planem marketingowym",
+      "Wymóg występujący tylko w projektach miękkich"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: projekt europejski ma uzasadnienie ekonomiczne jednoznacznie wskazujące korzyści projektu.",
+    "rationales": [
+      "To zgodne z materiałem.",
+      "To nie jest sens uzasadnienia ekonomicznego.",
+      "Marketing nie zastępuje uzasadnienia ekonomicznego korzyści.",
+      "Materiał nie ogranicza uzasadnienia ekonomicznego tylko do projektów miękkich."
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Ocena ex ante / ex post",
+    "question": "Który zestaw obszarów wykonalności jest wymieniony w materiale dla studium wykonalności (ex ante)?",
+    "options": [
+      "Systemowe, prawne, ekonomiczne, technologiczne, czasowe, operacyjne, zasobowe (oraz relacje biznesowe)",
+      "Wyłącznie technologiczne (czy da się to zrobić technicznie)",
+      "Wyłącznie finansowe (czy budżet się zgadza)",
+      "Wyłącznie społeczne (czy projekt jest lubiany)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał opisuje wykonalność jako analizę wielowymiarową (systemową, prawną, ekonomiczną, technologiczną, czasową, operacyjną, zasobową) i relacje biznesowe.",
+    "rationales": [
+      "To zestaw z materiału.",
+      "Technologia jest ważna, ale materiał mówi o wielu wymiarach, nie tylko jednym.",
+      "Finanse to tylko część; materiał mówi też o prawie, zasobach, czasie itd.",
+      "Aspekt społeczny może być ważny, ale nie jest jedynym i nie stanowi definicji wykonalności."
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Ocena ex ante / ex post",
+    "question": "Jak w materiale nazwano ocenę bieżącą, która oprócz obserwacji teraźniejszości próbuje przewidywać przebieg projektu?",
+    "options": [
+      "Ocena bieżąca predykcyjna (on-line prediction)",
+      "Ocena ex post finale",
+      "Studium wykonalności",
+      "Konkurs zamknięty"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wyróżnia: ex ante, ex post oraz ocenę bieżącą (on-line) i bieżącą predykcyjną (on-line prediction).",
+    "rationales": [
+      "To pojęcie wprost podane w materiale.",
+      "Ex post finale jest po roku od zakończenia, a nie oceną bieżącą.",
+      "Studium wykonalności to ex ante (przed projektem).",
+      "Konkurs to tryb naboru, nie metoda oceny projektu."
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Ewaluacja KE",
+    "question": "Które kryterium KE (wg materiału) dotyczy oceny działań i rezultatów w kontekście osiągnięcia celów projektu oraz zabezpieczenia potrzeb beneficjentów?",
+    "options": [
+      "Skuteczność (effectiveness)",
+      "Zgodność (relevance)",
+      "Efektywność (efficiency)",
+      "Zbalansowanie/Trwałość (sustainability)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale effectiveness dotyczy tego, w jakim stopniu działania i rezultaty doprowadziły do osiągnięcia celów oraz czy zabezpieczono potrzeby beneficjentów.",
+    "rationales": [
+      "To opis effectiveness z materiału.",
+      "Relevance dotyczy dopasowania celów do potrzeb/prior., a nie stopnia osiągnięcia celów.",
+      "Efficiency dotyczy relacji nakładów do wyników i gospodarowania zasobami.",
+      "Sustainability dotyczy utrzymania efektów po zamknięciu projektu."
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Ewaluacja KE",
+    "question": "Jaka jest najprostsza różnica między effectiveness i efficiency w kryteriach KE (wg materiału)?",
+    "options": [
+      "Effectiveness: czy osiągnięto cele; Efficiency: jak racjonalnie wykorzystano zasoby (czas/koszt/jakość) w relacji nakładów do wyników",
+      "Effectiveness: tylko koszty; Efficiency: tylko harmonogram",
+      "Effectiveness: trwałość efektów po roku; Efficiency: dopasowanie do potrzeb",
+      "Nie ma różnicy – to synonimy"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał rozróżnia: effectiveness = osiągnięcie celów i rezultatów, efficiency = racjonalne gospodarowanie zasobami i relacja nakładów do wyników.",
+    "rationales": [
+      "To zgodne z opisami obu kryteriów w materiale.",
+      "To zbyt wąskie i niezgodne z materiałem.",
+      "Trwałość to sustainability, a dopasowanie do potrzeb to relevance.",
+      "Materiał wyraźnie opisuje różne znaczenia."
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Ocena ex ante / ex post",
+    "question": "Po co w materiale przewidziano dodatkową ocenę ex post finale?",
+    "options": [
+      "Aby po czasie (min. rok) ocenić trwałość parametrów miękkich: jakość, efekty strategiczne i społeczne",
+      "Aby zdecydować, czy w ogóle rozpoczynać projekt",
+      "Aby wybrać instytucję zarządzającą programem",
+      "Aby utworzyć backlog na kolejną iterację"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: ex post finale pozwala ocenić trwałość efektów i parametrów miękkich po upływie czasu od zakończenia projektu.",
+    "rationales": [
+      "To bezpośrednio wynika z materiału.",
+      "To rola oceny ex ante (feasibility study), nie ex post.",
+      "To kwestia wdrażania programów, nie oceny ex post projektu.",
+      "Backlog to pojęcie Agile, nie metoda oceny ex post."
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Fundusze UE",
+    "question": "Jaki cel ma Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) wg materiału?",
+    "options": [
+      "Wsparcie obszarów wiejskich UE i pomoc w rozwiązywaniu konkretnych problemów europejskiej wsi",
+      "Wsparcie zrównoważonych praktyk połowowych",
+      "Wsparcie zatrudnienia i inwestycja w kapitał ludzki",
+      "Wsparcie transportu i ochrony środowiska w krajach < 90% DNB per capita średniej UE"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał opisuje EFRROW jako fundusz wspierający rozwój obszarów wiejskich UE i rozwiązywanie problemów wsi.",
+    "rationales": [
+      "To opis EFRROW z materiału.",
+      "To opis EFMR, nie EFRROW.",
+      "To opis EFS, nie EFRROW.",
+      "To opis Funduszu Spójności (FS), nie EFRROW."
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Fundusze UE",
+    "question": "Jaki cel ma Europejski Fundusz Morski i Rybacki (EFMR) wg materiału?",
+    "options": [
+      "Wsparcie rybaków w przejściu na zrównoważone praktyki połowowe oraz dywersyfikacji społeczności przybrzeżnych",
+      "Wsparcie rozwoju regionalnego w całej UE",
+      "Wsparcie rynku pracy i kapitału ludzkiego",
+      "Wsparcie inwestycji infrastrukturalnych wymagających studium wykonalności"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: EFMR wspiera zrównoważone praktyki połowowe oraz dywersyfikację społeczności przybrzeżnych.",
+    "rationales": [
+      "To opis EFMR z materiału.",
+      "To opis EFRR.",
+      "To opis EFS.",
+      "To opis projektów twardych (rodzaj projektu), a nie funduszu EFMR."
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Prawo i uwarunkowania",
+    "question": "Jaką zmianę (wg materiału) powiązano z możliwością wsparcia projektów z funduszy unijnych w Polsce?",
+    "options": [
+      "Dostosowanie modelu samorządu terytorialnego do standardów Europejskiej Karty Samorządu Lokalnego",
+      "Wprowadzenie obowiązku pracy zdalnej w administracji",
+      "Zniesienie zasady zrównoważonego rozwoju w Konstytucji",
+      "Zastąpienie oceny ex ante oceną ex post"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje na znaczenie dostosowania samorządu do standardów Europejskiej Karty Samorządu Lokalnego jako element umożliwiający wsparcie z funduszy UE.",
+    "rationales": [
+      "To wprost opisane w materiale.",
+      "To nie jest temat poruszany jako warunek wsparcia projektów z UE.",
+      "Materiał mówi o zasadzie zrównoważonego rozwoju jako ważnej normie programowej, nie o jej zniesieniu.",
+      "To nie jest zależność opisana w materiale."
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Prawo i Konstytucja",
+    "question": "Który artykuł Konstytucji RP jest w materiale wskazany jako opisujący społeczną gospodarkę rynkową?",
+    "options": [
+      "Art. 20",
+      "Art. 5",
+      "Art. 32",
+      "Art. 1"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje art. 20 jako przepis opisujący społeczną gospodarkę rynkową opartą m.in. na wolności działalności gospodarczej i dialogu partnerów społecznych.",
+    "rationales": [
+      "To zgodne z materiałem.",
+      "Art. 5 jest przywołany w kontekście zrównoważonego rozwoju i ochrony środowiska.",
+      "Art. 32 dotyczy zasady równości.",
+      "Art. 1 nie jest wskazany w materiale w tym kontekście."
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Prawo i Konstytucja",
+    "question": "Która zasada konstytucyjna (wg materiału) wspiera ideę równego traktowania podmiotów w podobnej sytuacji i odmiennego w odmiennej?",
+    "options": [
+      "Zasada równości (art. 32 ust. 1 Konstytucji RP)",
+      "Zasada zrównoważonego rozwoju (art. 5)",
+      "Zasada time-boxingu (Agile)",
+      "Zasada zakazu podwójnego finansowania"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał przywołuje art. 32 ust. 1 Konstytucji RP jako podstawę zasady równości (w znaczeniu materialnym).",
+    "rationales": [
+      "To zgodne z materiałem.",
+      "Art. 5 dotyczy m.in. ochrony środowiska i zrównoważonego rozwoju, nie zasady równości.",
+      "Time-boxing to pojęcie Agile, nie zasada konstytucyjna.",
+      "Zakaz podwójnego finansowania dotyczy rozliczeń, nie prawa konstytucyjnego o równości."
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Prawo i uwarunkowania",
+    "question": "Z jakich źródeł (wg materiału) dofinansowywane są projekty w Polsce?",
+    "options": [
+      "Z państwowych lub regionalnych programów wsparcia, a po wejściu Polski do UE także z funduszy europejskich",
+      "Wyłącznie z funduszy europejskich (bez środków krajowych)",
+      "Wyłącznie z prywatnych darowizn przedsiębiorców",
+      "Wyłącznie z podatku VAT"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje, że projekty są dofinansowywane z programów wsparcia krajowych/regionalnych, a po akcesji również z funduszy UE.",
+    "rationales": [
+      "To opis z materiału.",
+      "Materiał mówi także o programach krajowych i regionalnych.",
+      "To nie jest opisane jako podstawowy mechanizm finansowania projektów.",
+      "VAT to podatek, nie podstawowe źródło dofinansowania projektów."
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Koszty i kwalifikowalność",
+    "question": "Który przykład najlepiej ilustruje naruszenie zakazu podwójnego finansowania?",
+    "options": [
+      "Ten sam wydatek (ta sama faktura) zostaje zrefundowany jednocześnie ze środków krajowych i z funduszy UE",
+      "Beneficjent realizuje dwa różne projekty w tym samym czasie",
+      "Beneficjent ma wkład własny i dotację UE",
+      "Projekt ma koszty kwalifikowalne i niekwalifikowalne"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Zakaz podwójnego finansowania dotyczy sytuacji, w której identyczny wydatek jest refundowany z dwóch źródeł.",
+    "rationales": [
+      "To istota zakazu z materiału: nie wolno refundować tego samego wydatku z dwóch źródeł.",
+      "Równoległe projekty są dopuszczalne, jeśli spełnione są warunki i nie ma podwójnej refundacji.",
+      "Wkład własny + dotacja to standard; zakaz dotyczy refundacji tego samego wydatku dwa razy.",
+      "To normalne w projektach; nie jest to naruszenie zakazu."
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Projekty UE (konkursy)",
+    "question": "Jaka jest kluczowa różnica między konkursem otwartym a zamkniętym wg materiału?",
+    "options": [
+      "Otwarty jest ciągły do wyczerpania środków, a zamknięty ma określone okno czasowe naboru",
+      "Otwarty jest tylko dla wybranych, a zamknięty dla wszystkich",
+      "Zamknięty nie ma żadnego terminu, a otwarty ma zawsze 30 dni",
+      "Nie ma różnicy – to dwa określenia tego samego trybu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: konkurs otwarty jest ciągły do wyczerpania środków, a konkurs zamknięty ma ograniczenie terminem.",
+    "rationales": [
+      "To najważniejsza różnica opisana w materiale.",
+      "Materiał mówi o otwartym jako publicznym i powszechnym, nie „tylko dla wybranych”.",
+      "30 dni minimalnego okna dotyczy konkursu zamkniętego; otwarty jest ciągły.",
+      "Materiał opisuje wyraźną różnicę."
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Projekty UE (instytucje)",
+    "question": "Za co (wg materiału) odpowiada Instytucja Pośrednicząca (IP)?",
+    "options": [
+      "Za poszczególne priorytety programu, podlegając Instytucji Zarządzającej (IZ)",
+      "Za całość programu operacyjnego",
+      "Wyłącznie za prywatne projekty bez udziału funduszy UE",
+      "Wyłącznie za ocenę ex post finale"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: IP (np. ministerstwa, urzędy marszałkowskie) podlega IZ i odpowiada za poszczególne priorytety.",
+    "rationales": [
+      "To opis roli IP w materiale.",
+      "Za całość programu odpowiada IZ.",
+      "IP działa w systemie wdrażania programów, a nie wyłącznie w projektach prywatnych.",
+      "Ocena ex post finale to metoda oceny projektu, a nie zadanie instytucji pośredniczącej jako definicja."
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Projekty UE (instytucje)",
+    "question": "Jakie elementy instytucjonalne wdrażania programów operacyjnych wymienia materiał?",
+    "options": [
+      "Instytucja Zarządzająca (IZ), Instytucja Pośrednicząca (IP), IP2 / Instytucja Wdrażająca (IW)",
+      "Wyłącznie beneficjent i wykonawca",
+      "Tylko Komitet Sterujący i PMO",
+      "Tylko Trybunał Konstytucyjny i Sejm"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje strukturę: IZ (całość programu), IP (priorytety) oraz IP2/IW (kontakty z beneficjentami).",
+    "rationales": [
+      "To zestaw instytucji wymieniony w materiale.",
+      "To zbyt wąskie i nie odpowiada strukturze wdrażania programu.",
+      "To role z zarządzania projektami, ale nie są wskazane jako system wdrażania programu operacyjnego.",
+      "To instytucje państwowe, ale nie ten kontekst."
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Agile",
+    "question": "Co w materiale oznacza „planowanie iteracyjne” w Agile?",
+    "options": [
+      "Deklarację pracy do wykonania na podstawie elementów backloga przypisywanych do danej iteracji",
+      "Ułożenie pełnego planu szczegółowego na cały projekt i zakaz jego zmian",
+      "Planowanie wyłącznie kosztów niekwalifikowalnych",
+      "Planowanie tylko po zakończeniu projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: planowanie iteracyjne polega na wybieraniu i deklarowaniu pracy do iteracji na podstawie spriorytetyzowanego backloga.",
+    "rationales": [
+      "To opis z materiału.",
+      "To bliższe tradycyjnemu podejściu, a materiał mówi o „just in time” i otwartości na zmiany.",
+      "To temat projektów UE, nie definicja planowania iteracyjnego.",
+      "Planowanie w Agile jest cykliczne w trakcie projektu, nie dopiero po zakończeniu."
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Agile",
+    "question": "Które stwierdzenie o wymaganiach i projektowaniu w Agile jest zgodne z materiałem?",
+    "options": [
+      "Wymagania, projektowanie i produkt powstają w miarę ewoluowania projektu",
+      "Wymagania muszą być kompletne i niezmienne przed startem prac",
+      "Projektowanie jest zabronione w Agile",
+      "Produkt nie powinien być demonstrowany interesariuszom aż do końca projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wprost: wymagania, projektowanie i produkt powstają w miarę ewoluowania projektu (iteracyjnie).",
+    "rationales": [
+      "To cytat/sens z materiału.",
+      "To cecha podejścia tradycyjnego z „znanym zakresem” i pełnym planem.",
+      "Agile nie zabrania projektowania – ono zachodzi iteracyjnie.",
+      "Materiał mówi o okresowych i końcowych demonstracjach produktu z udziałem klienta/użytkowników."
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Agile",
+    "question": "Co jest w materiale wskazane jako typowy sposób dostarczania rezultatów w Agile?",
+    "options": [
+      "Regularnie dostarczane przyrosty działającego oprogramowania",
+      "Jeden duży „big bang release” dopiero na samym końcu",
+      "Dostarczanie tylko dokumentacji, bez działającego produktu",
+      "Dostarczanie wyników wyłącznie po audycie ex post finale"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał podkreśla regularne przyrosty działającego oprogramowania jako cechę podejścia zwinnego.",
+    "rationales": [
+      "To cecha Agile wymieniona w materiale.",
+      "To przeciwieństwo iteracyjnego dostarczania przyrostów.",
+      "Materiał mówi o działających przyrostach i jakości, nie tylko o dokumentacji.",
+      "Ocena ex post finale to metoda oceny po projekcie, nie warunek dostarczania."
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Tradycyjne vs adaptacyjne",
+    "question": "Jak materiał porównuje strukturę podziału pracy (WBS/struktura pracy) w podejściu tradycyjnym i adaptacyjnym?",
+    "options": [
+      "Tradycyjne: kompletna struktura podziału pracy; Adaptacyjne: średnio- i niskopoziomowa struktura pracy",
+      "Tradycyjne: brak struktury pracy; Adaptacyjne: zawsze kompletna WBS od początku",
+      "Oba podejścia: identyczna struktura pracy i identyczny poziom szczegółu",
+      "Adaptacyjne: kompletna WBS, bo backlog nie istnieje"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W tabeli porównawczej materiał wskazuje: tradycyjne ma kompletną WBS, adaptacyjne działa bardziej „warstwowo” (średnio/nisko) w miarę potrzeb.",
+    "rationales": [
+      "To zgodne z tabelą w materiale.",
+      "To niezgodne z materiałem.",
+      "Materiał pokazuje różnice, więc to nieprawda.",
+      "Backlog jest w materiale opisany jako element Agile/adaptacyjnego podejścia."
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Tradycyjne vs adaptacyjne",
+    "question": "Który opis zmian (change) pasuje do podejścia tradycyjnego wg materiału?",
+    "options": [
+      "Trudności w wprowadzaniu zmian",
+      "Otwartość na zmiany",
+      "Brak planu, bo wszystko jest improwizacją",
+      "Zmiany są niemożliwe, bo projekt nie ma celu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał porównuje: tradycyjne = trudności w zmianach; adaptacyjne = otwartość na zmiany.",
+    "rationales": [
+      "To cecha podejścia tradycyjnego w tabeli.",
+      "To cecha podejścia adaptacyjnego, nie tradycyjnego.",
+      "Materiał mówi o kompletnym planie w tradycyjnym, nie o improwizacji.",
+      "To nielogiczne i nie wynika z materiału."
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Projekty UE (pojęcia)",
+    "question": "Co najlepiej oddaje sens pojęcia „cross-financing / elastyczne finansowanie” w projektach UE?",
+    "options": [
+      "Możliwość finansowania w ograniczonym zakresie elementów typowych dla innego typu wsparcia, jeśli zasady programu na to pozwalają (np. drobna infrastruktura w projekcie miękkim)",
+      "Zakaz łączenia jakichkolwiek kategorii wydatków w jednym projekcie",
+      "Refundowanie tego samego wydatku z dwóch źródeł",
+      "Finansowanie projektu wyłącznie ze środków własnych beneficjenta"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "„Elastyczne finansowanie” (cross-financing) oznacza dopuszczalne, limitowane „mieszanie” typów wydatków w ramach projektu, gdy regulamin programu na to pozwala.",
+    "rationales": [
+      "To najtrafniejsze wyjaśnienie pojęcia z materiału (który podaje nazwę).",
+      "To przeciwieństwo „elastyczności” — cross-financing właśnie dopuszcza pewne połączenia (w ramach zasad).",
+      "To byłoby naruszenie zakazu podwójnego finansowania, a nie cross-financing.",
+      "To nie ma związku z cross-financing."
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Projekty UE (pojęcia)",
+    "question": "Które stwierdzenie o projektach z indykatywnego wykazu (wg materiału) jest prawdziwe?",
+    "options": [
+      "Nie konkurują o środki z pozostałymi projektami, ale podlegają procedurze oceny jak inne projekty",
+      "Są automatycznie zatwierdzane bez oceny",
+      "Zawsze dotyczą wyłącznie projektów miękkich",
+      "Są wyłączone z obowiązku dokumentacji projektowej"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał mówi, że projekty kluczowe z wykazu nie konkurują o środki, ale ocena nadal obowiązuje.",
+    "rationales": [
+      "To definicja z materiału.",
+      "Materiał podkreśla, że podlegają procedurze oceny jak pozostałe projekty.",
+      "Materiał mówi o „najważniejszych projektach inwestycyjnych” (czyli raczej twardych), nie wyłącznie miękkich.",
+      "Brak dokumentacji byłby sprzeczny z procedurą oceny."
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Prakseologia",
+    "question": "Który zestaw pojęć jest w materiale wskazany jako podstawowe kategorie oceny działań w prakseologii?",
+    "options": [
+      "Skuteczność, korzystność, ekonomiczność",
+      "Backlog, time-boxing, sprint",
+      "Alokacja, IP2, EFRR",
+      "Relevance, impact, sustainability (bez pozostałych)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał w prakseologii wyróżnia skuteczność (bezwymiarową), korzystność (wymiarową) oraz ekonomiczność (W/K, bezwymiarową).",
+    "rationales": [
+      "To zestaw kategorii oceny z materiału.",
+      "To pojęcia Agile, nie prakseologiczne kategorie oceny działań.",
+      "To pojęcia z projektów UE, nie prakseologia.",
+      "To kryteria KE, a pytanie dotyczy prakseologii."
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Prakseologia",
+    "question": "Które z poniższych stwierdzeń o ekonomiczności (W/K) jest zgodne z materiałem?",
+    "options": [
+      "Jest bezwymiarowa, bo jest stosunkiem dwóch wielkości (W i K)",
+      "Jest zawsze wyrażona w złotówkach",
+      "Jest tym samym co skuteczność (osiągnięcie celu)",
+      "Nie ma związku z wynikiem użytecznym"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał: ekonomiczność jest parametrem bezwymiarowym wyrażonym stosunkiem W/K.",
+    "rationales": [
+      "To wynika bezpośrednio z definicji W/K w materiale.",
+      "Wymiar pieniężny dotyczy korzystności (jednostki cenności), a ekonomiczność jest ilorazem.",
+      "Skuteczność dotyczy osiągnięcia celu, a ekonomiczność relacji W do K.",
+      "Ekonomiczność wprost opiera się na wyniku użytecznym (W)."
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Prakseologia",
+    "question": "Dlaczego w materiale korzystność jest opisana jako wielkość „mianowana” (wymiarowa)?",
+    "options": [
+      "Bo jest definiowana w jednostkach cenności (np. pieniądz, wartość), a nie jako sam stosunek",
+      "Bo zawsze jest równa 1",
+      "Bo jest bezwymiarowa jak procent",
+      "Bo dotyczy wyłącznie czasu realizacji projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał mówi, że korzystność jest wielkością wymiarową (mianowaną) w jednostkach cenności.",
+    "rationales": [
+      "To dokładnie wynika z materiału.",
+      "To nie jest opis korzystności w materiale.",
+      "Bezwymiarowa jest skuteczność i ekonomiczność, a nie korzystność.",
+      "Czas jest jednym z parametrów projektu, ale korzystność dotyczy relacji wyniku i kosztu w jednostkach wartości."
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Ocena projektu",
+    "question": "Jaki jest cel oceny projektu wg materiału (po co się ją robi)?",
+    "options": [
+      "Aby podejmować bieżące działania korygujące względem celów cząstkowych oraz formułować wnioski i zalecenia na przyszłość",
+      "Aby zawsze zamknąć projekt niezależnie od wyników",
+      "Aby zastąpić planowanie i nie wyznaczać celów",
+      "Aby ograniczyć monitorowanie do jednego raportu rocznie"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje cel oceny projektu: korekty w trakcie i lepsza realizacja projektów w przyszłości dzięki wnioskom i zaleceniom.",
+    "rationales": [
+      "To sens definicji celu oceny projektu w materiale.",
+      "Ocena służy podejmowaniu decyzji i usprawnieniom, nie „zamykania za wszelką cenę”.",
+      "Materiał podkreśla znaczenie celów i ich realizacji; ocena nie zastępuje planowania.",
+      "Materiał mówi o systematycznym monitorowaniu, nie o minimalizacji do jednego raportu."
+    ]
+  }
+]
+
