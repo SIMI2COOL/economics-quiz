@@ -11,9 +11,42 @@ function clamp(n: number, min: number, max: number) {
   return Math.min(max, Math.max(min, n))
 }
 
-function shuffleQuestionOptions(
+function makeBalancedTargets(
+  total: number,
+  choices: number,
+  seed: number,
+): number[] {
+  const c = Math.max(2, Math.min(choices, 26))
+  const base = Math.floor(total / c)
+  const rem = total % c
+
+  const arr: number[] = []
+  for (let i = 0; i < c; i++) {
+    for (let j = 0; j < base; j++) arr.push(i)
+    if (i < rem) arr.push(i)
+  }
+
+  const shuffled = shuffle(arr, seed)
+
+  // Reduce consecutive repeats where possible (swap with a later different item).
+  for (let i = 1; i < shuffled.length; i++) {
+    if (shuffled[i] !== shuffled[i - 1]) continue
+    let j = i + 1
+    while (j < shuffled.length && shuffled[j] === shuffled[i]) j++
+    if (j < shuffled.length) {
+      const tmp = shuffled[i]
+      shuffled[i] = shuffled[j]
+      shuffled[j] = tmp
+    }
+  }
+
+  return shuffled
+}
+
+function shuffleQuestionOptionsBalanced(
   q: QuizQuestion,
   seed: number,
+  targetCorrectIndex: number,
 ): QuizQuestion {
   const items = q.options.map((option, originalIndex) => ({
     option,
@@ -21,16 +54,23 @@ function shuffleQuestionOptions(
     originalIndex,
   }))
 
-  const shuffled = shuffle(items, seed)
-  const newCorrectAnswerIndex = shuffled.findIndex(
-    (x) => x.originalIndex === q.correctAnswerIndex,
-  )
+  const correctItem = items.find((x) => x.originalIndex === q.correctAnswerIndex)
+  const others = items.filter((x) => x.originalIndex !== q.correctAnswerIndex)
+  const shuffledOthers = shuffle(others, seed)
+
+  const safeTarget = clamp(targetCorrectIndex, 0, items.length - 1)
+  const out: typeof items = []
+  let otherIdx = 0
+  for (let i = 0; i < items.length; i++) {
+    if (i === safeTarget && correctItem) out.push(correctItem)
+    else out.push(shuffledOthers[otherIdx++]!)
+  }
 
   return {
     ...q,
-    options: shuffled.map((x) => x.option),
-    rationales: shuffled.map((x) => x.rationale),
-    correctAnswerIndex: newCorrectAnswerIndex,
+    options: out.map((x) => x.option),
+    rationales: out.map((x) => x.rationale),
+    correctAnswerIndex: safeTarget,
   }
 }
 
@@ -48,9 +88,6 @@ function App() {
   const [questionCount, setQuestionCount] = useState<number>(
     clamp(20, 1, questions.length),
   )
-  const [shouldShuffle, setShouldShuffle] = useState<boolean>(true)
-  const [shouldShuffleAnswers, setShouldShuffleAnswers] =
-    useState<boolean>(true)
 
   const [quizQuestions, setQuizQuestions] = useState<QuizQuestion[]>([])
   const [currentIndex, setCurrentIndex] = useState<number>(0)
@@ -76,6 +113,14 @@ function App() {
     return s
   }, [answers, quizQuestions])
 
+  const answeredCount = useMemo(() => {
+    let c = 0
+    for (const q of quizQuestions) {
+      if (answers[q.id] !== undefined) c++
+    }
+    return c
+  }, [answers, quizQuestions])
+
   function toggleCategory(cat: string) {
     setSelectedCategories((prev) => {
       if (prev.includes(cat)) return prev.filter((c) => c !== cat)
@@ -87,12 +132,30 @@ function App() {
     const pool = filteredPool
     const count = clamp(questionCount, 1, pool.length)
     const seed = Date.now() & 0xffffffff
-    const ordered = shouldShuffle ? shuffle(pool, seed) : [...pool]
+    const ordered = shuffle(pool, seed)
     const picked = ordered.slice(0, count)
 
-    const prepared = shouldShuffleAnswers
-      ? picked.map((q) => shuffleQuestionOptions(q, seed ^ q.id))
-      : picked
+    // Balance correct-letter distribution (A/B/C/D) by controlling where the correct
+    // option lands, while still shuffling the remaining distractors.
+    const byLen = new Map<number, number[]>()
+    for (const q of picked) {
+      const len = q.options.length
+      if (!byLen.has(len)) byLen.set(len, [])
+    }
+    for (const [len] of byLen) {
+      byLen.set(len, makeBalancedTargets(picked.filter((q) => q.options.length === len).length, len, seed ^ len))
+    }
+
+    const usedIndexByLen = new Map<number, number>()
+    const prepared = picked.map((q) => {
+      const len = q.options.length
+      const list = byLen.get(len) ?? []
+      const idx = usedIndexByLen.get(len) ?? 0
+      usedIndexByLen.set(len, idx + 1)
+
+      const target = list[idx] ?? Math.floor((seed ^ q.id) % len)
+      return shuffleQuestionOptionsBalanced(q, seed ^ q.id ^ (target << 8), target)
+    })
 
     setQuizQuestions(prepared)
     setCurrentIndex(0)
@@ -125,7 +188,7 @@ function App() {
   }
 
   const progress = quizQuestions.length
-    ? Math.round(((currentIndex + 1) / quizQuestions.length) * 100)
+    ? Math.round((answeredCount / quizQuestions.length) * 100)
     : 0
 
   return (
@@ -148,7 +211,7 @@ function App() {
               <div className="text-slate-600">Postęp</div>
               <div className="mt-1 font-medium">
                 {screen === 'quiz'
-                  ? `${currentIndex + 1}/${quizQuestions.length}`
+                  ? `${answeredCount}/${quizQuestions.length}`
                   : '—'}
               </div>
             </div>
@@ -194,56 +257,12 @@ function App() {
                   </div>
                 </div>
 
-                <div className="mt-4 flex items-center justify-between gap-3 rounded-xl border border-slate-200 bg-white/60 px-4 py-3">
-                  <div>
-                    <div className="text-sm font-medium">Losowa kolejność</div>
-                    <div className="text-xs text-slate-600">
-                      Tasuje pytania przed startem
-                    </div>
+                <div className="mt-4 rounded-xl border border-slate-200 bg-white/60 px-4 py-3">
+                  <div className="text-sm font-medium">Losowość (zawsze włączona)</div>
+                  <div className="mt-1 text-xs text-slate-600">
+                    Pytania są losowane przy każdym starcie quizu, a odpowiedzi są tasowane w taki sposób,
+                    aby poprawna litera była możliwie równomiernie rozłożona między A/B/C/D.
                   </div>
-                  <button
-                    type="button"
-                    onClick={() => setShouldShuffle((v) => !v)}
-                    className={`relative inline-flex h-6 w-11 items-center rounded-full border transition ${
-                      shouldShuffle
-                        ? 'border-emerald-500/70 bg-emerald-500/30'
-                        : 'border-slate-300 bg-slate-200'
-                    }`}
-                    aria-pressed={shouldShuffle}
-                  >
-                    <span
-                      className={`inline-block h-5 w-5 transform rounded-full bg-white shadow-sm transition ${
-                        shouldShuffle ? 'translate-x-5' : 'translate-x-0.5'
-                      }`}
-                    />
-                  </button>
-                </div>
-
-                <div className="mt-3 flex items-center justify-between gap-3 rounded-xl border border-slate-200 bg-white/60 px-4 py-3">
-                  <div>
-                    <div className="text-sm font-medium">
-                      Losowa kolejność odpowiedzi (A/B/C/D)
-                    </div>
-                    <div className="text-xs text-slate-600">
-                      Dzięki temu poprawna odpowiedź nie jest „prawie zawsze A”
-                    </div>
-                  </div>
-                  <button
-                    type="button"
-                    onClick={() => setShouldShuffleAnswers((v) => !v)}
-                    className={`relative inline-flex h-6 w-11 items-center rounded-full border transition ${
-                      shouldShuffleAnswers
-                        ? 'border-emerald-500/70 bg-emerald-500/30'
-                        : 'border-slate-300 bg-slate-200'
-                    }`}
-                    aria-pressed={shouldShuffleAnswers}
-                  >
-                    <span
-                      className={`inline-block h-5 w-5 transform rounded-full bg-white shadow-sm transition ${
-                        shouldShuffleAnswers ? 'translate-x-5' : 'translate-x-0.5'
-                      }`}
-                    />
-                  </button>
                 </div>
               </section>
 
