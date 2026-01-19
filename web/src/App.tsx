@@ -113,14 +113,6 @@ function App() {
     return s
   }, [answers, quizQuestions])
 
-  const answeredCount = useMemo(() => {
-    let c = 0
-    for (const q of quizQuestions) {
-      if (answers[q.id] !== undefined) c++
-    }
-    return c
-  }, [answers, quizQuestions])
-
   function toggleCategory(cat: string) {
     setSelectedCategories((prev) => {
       if (prev.includes(cat)) return prev.filter((c) => c !== cat)
@@ -187,8 +179,12 @@ function App() {
     setCurrentIndex(next)
   }
 
+  const questionsLeft = quizQuestions.length
+    ? Math.max(0, quizQuestions.length - currentIndex)
+    : 0
+
   const progress = quizQuestions.length
-    ? Math.round((answeredCount / quizQuestions.length) * 100)
+    ? Math.round(((currentIndex + 1) / quizQuestions.length) * 100)
     : 0
 
   return (
@@ -207,14 +203,14 @@ function App() {
               </p>
             </div>
 
-            <div className="rounded-xl border border-slate-200 bg-white/70 px-4 py-3 text-sm shadow-sm">
-              <div className="text-slate-600">Postęp</div>
-              <div className="mt-1 font-medium">
-                {screen === 'quiz'
-                  ? `${answeredCount}/${quizQuestions.length}`
-                  : '—'}
+            {screen === 'quiz' ? (
+              <div className="rounded-xl border border-slate-200 bg-white/70 px-4 py-3 text-sm shadow-sm">
+                <div className="text-slate-600">Pozostało pytań</div>
+                <div className="mt-1 font-medium">
+                  {questionsLeft}/{quizQuestions.length}
+                </div>
               </div>
-            </div>
+            ) : null}
           </div>
         </header>
 
@@ -340,7 +336,7 @@ function App() {
                   {currentQuestion.category}
                 </span>
                 <div className="text-xs text-slate-600">
-                  Wynik: {score}/{quizQuestions.length}
+                  Pozostało: {questionsLeft}/{quizQuestions.length}
                 </div>
               </div>
 

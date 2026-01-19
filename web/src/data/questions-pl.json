@@ -1518,6 +1518,386 @@
       "Materiał podkreśla znaczenie celów i ich realizacji; ocena nie zastępuje planowania.",
       "Materiał mówi o systematycznym monitorowaniu, nie o minimalizacji do jednego raportu."
     ]
+  },
+  {
+    "id": 81,
+    "category": "Uzasadnienie biznesowe i sterowanie",
+    "question": "Jaką rolę pełni uzasadnienie biznesowe (business case) wg materiału?",
+    "options": [
+      "Jest podstawowym dokumentem oceny projektu w każdej fazie i w ocenie końcowej projektu",
+      "Jest dokumentem potrzebnym tylko do rozliczenia podatku VAT",
+      "Jest listą kosztów niekwalifikowalnych beneficjenta",
+      "Jest dokumentem tworzonym wyłącznie po zakończeniu projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał podkreśla, że uzasadnienie biznesowe to kluczowy dokument oceny projektu na etapach i przy ocenie końcowej.",
+    "rationales": [
+      "To wprost wynika z materiału: business case jest podstawowym dokumentem oceny w każdej fazie i na końcu.",
+      "VAT to tylko jeden element finansów; materiał nie łączy business case wyłącznie z VAT.",
+      "Koszty niekwalifikowalne to osobna kategoria, a business case dotyczy sensu i korzyści projektu.",
+      "Materiał mówi, że jest używane w każdej fazie, a nie dopiero po zakończeniu."
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Uzasadnienie biznesowe i sterowanie",
+    "question": "Który organ (wg materiału) wydaje pozytywną ocenę dokumentów projektu umożliwiającą przystąpienie do realizacji?",
+    "options": [
+      "Komitet Sterujący",
+      "Instytucja Zarządzająca (IZ)",
+      "Trybunał Konstytucyjny",
+      "Europejski Fundusz Społeczny (EFS)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje, że pozytywna ocena przygotowanych dokumentów przez Komitet Sterujący umożliwia rozpoczęcie realizacji.",
+    "rationales": [
+      "To dokładnie opisano w materiale.",
+      "IZ zarządza programem operacyjnym, a nie jest wskazana jako organ zatwierdzający dokumenty projektu w tym fragmencie.",
+      "To organ konstytucyjny – nie jest rolą z materiału dot. sterowania projektem.",
+      "EFS to fundusz, nie organ podejmujący decyzje o starcie projektu."
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Uzasadnienie biznesowe i sterowanie",
+    "question": "Co – obok uzasadnienia biznesowego – jest w materiale wskazane jako pomocne w ocenie projektu w trakcie jego realizacji?",
+    "options": [
+      "Raporty opracowane po wykonaniu ważnych zadań lub danego etapu",
+      "Wyłącznie reklamy projektu w mediach społecznościowych",
+      "Wyłącznie porównanie liczby pracowników przed i po projekcie",
+      "Tylko lista projektów z indykatywnego wykazu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje, że w ocenie projektu pomocne są raporty powstające po ważnych zadaniach lub etapach (milestone/etap).",
+    "rationales": [
+      "To jest wprost wskazane w materiale jako pomocne w ocenie projektu.",
+      "Promocja nie zastępuje raportowania i oceny postępów projektu.",
+      "To może być jeden wskaźnik w niektórych projektach, ale nie jest wskazane w materiale jako główna metoda oceny.",
+      "Indykatywny wykaz dotyczy projektów kluczowych w programach, a nie raportowania etapów projektu."
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Uzasadnienie biznesowe i sterowanie",
+    "question": "Dlaczego (wg materiału) pozytywna ocena dokumentów projektu jest istotna na etapie przejścia do realizacji?",
+    "options": [
+      "Bo umożliwia formalne przystąpienie do realizacji projektu",
+      "Bo automatycznie gwarantuje brak ryzyka w projekcie",
+      "Bo zastępuje monitorowanie i ewaluację w projekcie",
+      "Bo eliminuje potrzebę planowania czasu i budżetu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał mówi wprost: pozytywna ocena dokumentów przez Komitet Sterujący umożliwia przystąpienie do realizacji.",
+    "rationales": [
+      "To jest konsekwencja wskazana w materiale.",
+      "Materiał definiuje ryzyko jako niepewność – ocena nie usuwa ryzyka.",
+      "Materiał podkreśla znaczenie monitorowania i ewaluacji – ocena dokumentów ich nie zastępuje.",
+      "Ocena dokumentów nie usuwa konieczności zarządzania czasem i budżetem."
+    ]
+  },
+  {
+    "id": 85,
+    "category": "Uzasadnienie biznesowe i sterowanie",
+    "question": "Które stwierdzenie o business case jest zgodne z materiałem?",
+    "options": [
+      "Jest wykorzystywany zarówno w trakcie kolejnych faz, jak i przy ocenie końcowej projektu",
+      "Dotyczy wyłącznie projektów miękkich, a nie twardych",
+      "Jest tym samym co backlog w Agile",
+      "To dokument finansowy zastępujący budżet projektu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W materiale business case jest dokumentem oceny projektu na etapach oraz przy ocenie końcowej.",
+    "rationales": [
+      "To zgodne z materiałem.",
+      "Materiał nie ogranicza business case tylko do projektów miękkich.",
+      "Backlog to narzędzie Agile, a business case to dokument uzasadnienia i oceny projektu.",
+      "Budżet i business case to różne rzeczy; business case uzasadnia sens i korzyści, nie „zastępuje budżetu”."
+    ]
+  },
+  {
+    "id": 86,
+    "category": "PCM (Project Cycle Management)",
+    "question": "Do czego służy metodyka PCM wg materiału?",
+    "options": [
+      "Do przygotowania, realizacji i oceny projektów finansowanych ze środków UE",
+      "Wyłącznie do planowania sprintów w Scrum",
+      "Wyłącznie do rozliczania VAT w projektach",
+      "Wyłącznie do zarządzania portfelem projektów w wielu organizacjach naraz"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje PCM jako metodykę do przygotowania, realizacji i oceny projektów finansowanych z UE.",
+    "rationales": [
+      "To jest sens definicji PCM w materiale.",
+      "To opis Scrum/Agile, a nie PCM.",
+      "PCM nie jest metodyką rozliczeń podatkowych.",
+      "Portfel to inny obszar; PCM dotyczy cyklu życia projektu."
+    ]
+  },
+  {
+    "id": 87,
+    "category": "PCM (Project Cycle Management)",
+    "question": "Który element (wg materiału) został zwrócony uwagą i uzupełniony w PCM dopiero w latach 80. XX wieku?",
+    "options": [
+      "Faza ewaluacji (znaczenie oceny w realizacji projektu)",
+      "Backlog i time-boxing",
+      "Zakaz podwójnego finansowania",
+      "Indykatywny wykaz projektów kluczowych"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał mówi, że dopiero w latach 80. XX wieku zwrócono uwagę na znaczenie oceny i uzupełniono PCM o fazę ewaluacji.",
+    "rationales": [
+      "To jest wprost w materiale: uzupełnienie o fazę ewaluacji.",
+      "To pojęcia Agile, nie PCM.",
+      "To zasada rozliczeń w projektach UE, nie element PCM jako metodyki cyklu.",
+      "To pojęcie z systemu wyboru projektów, nie element PCM."
+    ]
+  },
+  {
+    "id": 88,
+    "category": "PCM (Project Cycle Management)",
+    "question": "Jak w materiale nazywa się końcowa faza PCM obejmująca sprawdzanie i podsumowanie efektów projektu?",
+    "options": [
+      "Ewaluacja i audyt",
+      "Programowanie",
+      "Identyfikacja",
+      "Finansowanie"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wymienia na końcu PCM fazę „Ewaluacja i audyt”.",
+    "rationales": [
+      "To jest wprost podane jako końcowa faza w materiale.",
+      "Programowanie jest na początku cyklu PCM.",
+      "Identyfikacja jest wcześniejszą fazą, nie końcową.",
+      "Finansowanie występuje przed wdrażaniem/realizacją i przed ewaluacją."
+    ]
+  },
+  {
+    "id": 89,
+    "category": "Projekt (PMI) i atrybuty",
+    "question": "Który zestaw dwóch cech najlepiej oddaje istotę projektu wg PMI (wg materiału)?",
+    "options": [
+      "Tymczasowość i unikatowy rezultat (produkt/usługa)",
+      "Ciągłość i powtarzalność działań",
+      "Brak celu i brak końca",
+      "Wyłącznie praca jednej osoby bez interesariuszy"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał przytacza definicję PMI: projekt jest tymczasowy i ma stworzyć unikatowy rezultat.",
+    "rationales": [
+      "To bezpośrednio wynika z definicji PMI w materiale.",
+      "To opis procesu operacyjnego, a nie projektu.",
+      "Projekt ma cel i koniec; brak celu/kontrolowanego końca przeczy definicji.",
+      "Projekt nie jest ograniczony do jednej osoby; materiał mówi o potrzebach udziałowców."
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Projekt (PMI) i atrybuty",
+    "question": "Co (wg materiału) jest celem zastosowania wiedzy, narzędzi i technik w zarządzaniu projektem?",
+    "options": [
+      "Zaspokojenie potrzeb udziałowców (interesariuszy) projektu",
+      "Zwiększenie liczby dokumentów bez względu na wartość",
+      "Unikanie wszelkich zmian w projekcie za wszelką cenę",
+      "Zastąpienie programów i portfeli jednym projektem"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał definiuje zarządzanie projektem jako zastosowanie wiedzy/umiejętności/narzędzi/technik w celu zaspokojenia potrzeb udziałowców projektu.",
+    "rationales": [
+      "To definicja z materiału.",
+      "Dokumentacja może być potrzebna, ale nie jest celem samym w sobie.",
+      "Materiał nie definiuje celu zarządzania projektem jako „unikanie zmian”.",
+      "Program i portfel to odrębne pojęcia; to nie jest cel zarządzania projektem."
+    ]
+  },
+  {
+    "id": 91,
+    "category": "Ryzyko (PMI/PMBOK)",
+    "question": "Które stwierdzenie o ryzyku wg PMI (wg materiału) jest prawdziwe?",
+    "options": [
+      "Ryzyko może mieć wpływ zarówno pozytywny, jak i negatywny na projekt",
+      "Ryzyko dotyczy wyłącznie zagrożeń finansowych",
+      "Ryzyko oznacza pewność wystąpienia problemu",
+      "Ryzyko występuje tylko po zakończeniu projektu (ex post)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał podaje, że ryzyko to niepewność zdarzenia/warunku, które może mieć istotnie pozytywny lub negatywny wpływ na projekt.",
+    "rationales": [
+      "To jest wprost w definicji z materiału (pozytywny lub negatywny wpływ).",
+      "Materiał nie ogranicza ryzyka do finansów; dotyczy przebiegu projektu ogólnie.",
+      "Ryzyko to niepewność, nie pewność.",
+      "Ryzyko istnieje w całym cyklu życia projektu, nie tylko po zakończeniu."
+    ]
+  },
+  {
+    "id": 92,
+    "category": "Ryzyko (PMI/PMBOK)",
+    "question": "Jaki efekt ma (wg materiału) podejście PMBOK do zarządzania ryzykiem w całym cyklu życia projektu?",
+    "options": [
+      "Maksymalizuje efekty i minimalizuje straty projektu",
+      "Gwarantuje, że nie wystąpi żadne ryzyko",
+      "Eliminuje potrzebę identyfikacji i analizy ryzyka",
+      "Zastępuje ocenę ex ante studium wykonalności"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje, że takie podejście wpływa na maksymalizację efektów i minimalizowanie strat realizowanego projektu.",
+    "rationales": [
+      "To zdanie jest wprost w materiale.",
+      "Zarządzanie ryzykiem nie daje gwarancji braku ryzyk – ma nimi sterować.",
+      "Materiał mówi o identyfikowaniu, analizowaniu i reagowaniu oraz monitorowaniu.",
+      "Studium wykonalności to ex ante, a zarządzanie ryzykiem to proces przez cały cykl życia."
+    ]
+  },
+  {
+    "id": 93,
+    "category": "Ocena projektu",
+    "question": "Który zestaw kryteriów oceny projektów jest wymieniony w materiale (jako osobne kryteria poza kryteriami KE)?",
+    "options": [
+      "Cel, czas, koszt, jakość, efekty strategiczne, efekty społeczne",
+      "Backlog, sprint, time-boxing, demo",
+      "EFRR, EFS, FS, EFMR",
+      "Indykatywny wykaz, alokacja, IP2, IW"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "W części zagadnień materiał wymienia kryteria oceny projektów: cel, czas, koszt, jakość oraz efekty strategiczne i społeczne.",
+    "rationales": [
+      "To dokładny zestaw kryteriów wymieniony w materiale wśród zagadnień.",
+      "To pojęcia Agile/Scrum, nie kryteria oceny projektu z materiału.",
+      "To fundusze UE, a nie kryteria oceny projektu w tym miejscu materiału.",
+      "To pojęcia dotyczące systemu projektów UE, a nie kryteria oceny projektu."
+    ]
+  },
+  {
+    "id": 94,
+    "category": "Ocena projektu",
+    "question": "Które stwierdzenie najlepiej opisuje „ocenę projektu” wg materiału?",
+    "options": [
+      "Jest systematycznym monitorowaniem i oceną cząstkową parametrów projektu w ustalonych chwilach czasu",
+      "Jest jednorazowym audytem wykonywanym tylko po upływie roku od zakończenia projektu",
+      "Jest wyłącznie kontrolą kosztów niekwalifikowalnych",
+      "Jest procesem, który nie powinien prowadzić do działań korygujących"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał definiuje ocenę projektu jako systematyczne monitorowanie i ocenę cząstkową parametrów w czasie (z uwzględnieniem faz realizacji).",
+    "rationales": [
+      "To bezpośrednio wynika z definicji w materiale.",
+      "Rok po zakończeniu dotyczy ewentualnej oceny ex post finale, a nie definicji oceny projektu jako całości.",
+      "Koszty to tylko fragment; materiał mówi o parametrach projektu i fazach realizacji.",
+      "Materiał wprost mówi o podejmowaniu działań korygujących."
+    ]
+  },
+  {
+    "id": 95,
+    "category": "Projekty UE (rodzaje)",
+    "question": "Który przykład najlepiej pasuje do „projektu miękkiego” wg materiału?",
+    "options": [
+      "Szkolenia i działania związane z inwestycją w człowieka",
+      "Budowa infrastruktury wymagająca studium wykonalności",
+      "Zakup gruntu jako główny wydatek projektu",
+      "Projekt bez określonej grupy docelowej"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał opisuje projekty miękkie jako związane z inwestycją w człowieka (np. szkolenia).",
+    "rationales": [
+      "To typowy przykład projektu miękkiego zgodny z materiałem.",
+      "To opis projektu twardego (infrastrukturalnego).",
+      "Zakup gruntu w materiale pojawia się jako przykład kosztu niekwalifikowalnego, a nie definicja projektu miękkiego.",
+      "Materiał podkreśla znaczenie grup docelowych/beneficjentów w projektach UE."
+    ]
+  },
+  {
+    "id": 96,
+    "category": "Projekty UE (rodzaje)",
+    "question": "Które stwierdzenie o dokumentach aplikacyjnych dla projektów twardych i miękkich jest zgodne z materiałem?",
+    "options": [
+      "Projekty twarde wymagają wniosku i załączenia studium wykonalności lub biznesplanu, a projekty miękkie zwykle składają sam wniosek",
+      "Projekty miękkie zawsze wymagają studium wykonalności, a twarde nie",
+      "Żaden typ projektu nie wymaga żadnych załączników",
+      "Tylko projekty miękkie wymagają biznesplanu"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał rozróżnia dokumentację: twarde (infrastrukturalne) wymagają studium wykonalności/biznesplanu, miękkie zwykle tylko wniosku.",
+    "rationales": [
+      "To dokładne rozróżnienie z materiału.",
+      "To odwrotność tego, co w materiale.",
+      "Materiał mówi o wymaganych załącznikach dla projektów twardych.",
+      "Materiał wiąże biznesplan/studium z projektami twardymi, nie miękkimi."
+    ]
+  },
+  {
+    "id": 97,
+    "category": "Prawo i uwarunkowania",
+    "question": "Jak w materiale opisano źródła dofinansowania projektów w Polsce?",
+    "options": [
+      "Z programów państwowych lub regionalnych, a po wejściu do UE także z funduszy europejskich",
+      "Wyłącznie z funduszy UE (bez środków krajowych)",
+      "Wyłącznie z darowizn prywatnych firm",
+      "Wyłącznie z podatku VAT"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał wskazuje, że projekty są dofinansowywane z programów krajowych/regionalnych, a od wejścia Polski do UE także z funduszy europejskich.",
+    "rationales": [
+      "To zgodne z materiałem.",
+      "Materiał mówi też o programach państwowych i regionalnych.",
+      "To nie jest opisane jako główne źródło dofinansowania w materiale.",
+      "VAT to podatek, a nie źródło dofinansowania projektu."
+    ]
+  },
+  {
+    "id": 98,
+    "category": "Prawo i uwarunkowania",
+    "question": "Na jaki akt prawny powołuje się materiał przy opisie podmiotów mogących realizować projekty (zdolność prawna)?",
+    "options": [
+      "Kodeks cywilny (Ustawa z dnia 23 kwietnia 1964 r.)",
+      "Konstytucja RP (art. 20)",
+      "Europejski Fundusz Rozwoju Regionalnego (EFRR)",
+      "PMBOK Guide"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Materiał odwołuje się do Kodeksu cywilnego przy opisie osób fizycznych, osób prawnych i jednostek organizacyjnych z przyznaną zdolnością prawną.",
+    "rationales": [
+      "To jest wprost wskazane w materiale.",
+      "Konstytucja jest omawiana w innym fragmencie (np. art. 5, 20, 32), ale tu chodzi o zdolność prawną wg KC.",
+      "To fundusz UE, nie akt prawny regulujący zdolność prawną.",
+      "PMBOK to standard zarządzania projektami, nie polski akt prawny o zdolności prawnej."
+    ]
+  },
+  {
+    "id": 99,
+    "category": "Podstawy",
+    "question": "Które stwierdzenie najlepiej opisuje „otoczenie” projektu/organizacji w ujęciu zarządzania?",
+    "options": [
+      "To zestaw czynników (zewnętrznych i wewnętrznych), które wpływają na decyzje, ryzyka i realizację celów",
+      "To wyłącznie konkurencja cenowa na rynku",
+      "To tylko dokumentacja projektu przechowywana w archiwum",
+      "To wyłącznie przepisy prawa UE, bez prawa krajowego"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Otoczenie obejmuje szeroki kontekst działania projektu (np. instytucje, prawo, interesariuszy, rynek), co wpływa na przebieg i decyzje.",
+    "rationales": [
+      "To najpełniejsze i najbardziej zgodne z podejściem zarządczym ujęcie otoczenia.",
+      "Konkurencja to tylko jedna część otoczenia.",
+      "Dokumentacja jest częścią projektu, ale nie stanowi definicji otoczenia.",
+      "Otoczenie prawne obejmuje zarówno prawo UE, jak i krajowe oraz inne czynniki."
+    ]
+  },
+  {
+    "id": 100,
+    "category": "Podstawy",
+    "question": "Co najlepiej opisuje pojęcie „synergia” w pracy zespołowej (w zarządzaniu)?",
+    "options": [
+      "Efekt, w którym współpraca daje wynik większy niż suma efektów działań pojedynczych osób osobno",
+      "Sytuację, w której każdy pracuje całkowicie sam, bez koordynacji",
+      "Redukcję kosztów przez ograniczenie komunikacji",
+      "Mechanizm polegający na eliminacji celów, aby uniknąć konfliktów"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synergia oznacza dodatkową wartość powstającą dzięki współpracy i dopasowaniu ról oraz działań.",
+    "rationales": [
+      "To definicja efektu synergii: współdziałanie tworzy wartość dodaną.",
+      "Brak koordynacji zwykle osłabia wynik; synergia zakłada współpracę.",
+      "Ograniczanie komunikacji nie buduje synergii – zazwyczaj ją niszczy.",
+      "Synergia nie polega na rezygnacji z celów, tylko na lepszym ich osiąganiu."
+    ]
   }
 ]
 
