@@ -1,1903 +1,1522 @@
 [
   {
     "id": 1,
-    "category": "Podstawy",
-    "question": "Co najlepiej opisuje pojęcie „synergia” w kontekście organizacji i zarządzania?",
+    "category": "Ekonomia międzynarodowa - podstawy",
+    "question": "Co najlepiej definiuje ekonomię międzynarodową?",
     "options": [
-      "Sytuację, w której suma efektów pracy zespołu jest większa niż suma efektów pracy pojedynczych osób osobno",
-      "Stan, w którym każda jednostka organizacji pracuje całkowicie niezależnie, aby uniknąć konfliktów",
-      "Mechanizm polegający na ograniczeniu wymiany informacji między działami, by chronić tajemnice firmy",
-      "Zjawisko polegające wyłącznie na redukcji kosztów przez zwolnienia"
+      "Część ekonomii zajmująca się transakcjami między państwami w dziedzinie towarów i usług, przepływami finansowymi i ruchem czynników produkcji",
+      "Dyscyplina zajmująca się wyłącznie handlem wewnętrznym w obrębie jednego kraju",
+      "Nauka o zarządzaniu przedsiębiorstwami krajowymi bez kontaktów z zagranicą",
+      "Teoria dotycząca tylko polityki monetarnej pojedynczego państwa"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Synergia oznacza efekt „2+2=5”: dzięki współpracy i dopasowaniu ról organizacja uzyskuje lepszy wynik niż przy sumowaniu niezależnych działań.",
+    "explanation": "Ekonomia międzynarodowa to część ekonomii zajmująca się transakcjami między państwami w dziedzinie towarów i usług, przepływami finansowymi i ruchem czynników produkcji, zajmuje się współzależnościami gospodarczymi pomiędzy państwami.",
     "rationales": [
-      "To definicja synergii: współdziałanie daje dodatkową wartość, której nie ma przy pracy w izolacji.",
-      "Niezależna praca może zmniejszyć tarcia, ale nie jest synergiią – synergia zakłada współpracę i efekt dodatkowy.",
-      "Ograniczanie informacji może wręcz osłabiać wynik; synergia wymaga koordynacji, a nie „silosów”.",
-      "Redukcja kosztów to nie to samo co synergia – synergia dotyczy jakości i efektu współdziałania, a nie wyłącznie cięć."
+      "To dokładna definicja ekonomii międzynarodowej z materiału źródłowego.",
+      "Handel wewnętrzny to przedmiot ekonomii krajowej, nie międzynarodowej.",
+      "Ekonomia międzynarodowa zajmuje się właśnie kontaktami międzynarodowymi, nie ich brakiem.",
+      "Polityka monetarna to tylko jeden aspekt, a ekonomia międzynarodowa jest znacznie szersza."
     ]
   },
   {
     "id": 2,
-    "category": "Podstawy",
-    "question": "Czym najtrafniej jest „otoczenie” organizacji/projektu?",
+    "category": "Ekonomia międzynarodowa - podstawy",
+    "question": "Kiedy wyodrębniła się ekonomia międzynarodowa jako subdyscyplina?",
     "options": [
-      "Zbiorem wszystkich czynników zewnętrznych i wewnętrznych, które wpływają na działanie organizacji/projektu",
-      "Wyłącznie konkurencją rynkową i cenami produktów",
-      "Wyłącznie prawem krajowym, bez uwzględniania instytucji i interesariuszy",
-      "Tylko działem administracji, który obsługuje projekt"
+      "W starożytności, wraz z pierwszymi wymianami handlowymi",
+      "W okresie międzywojennym, w Polsce początki w latach 60-tych XX wieku",
+      "Dopiero w XXI wieku, po powstaniu Unii Europejskiej",
+      "W średniowieczu, wraz z rozwojem miast handlowych"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Otoczenie to szeroki kontekst (np. prawo, rynek, interesariusze, instytucje, technologia), który wpływa na decyzje i ryzyka projektu.",
+    "correctAnswerIndex": 1,
+    "explanation": "Ekonomia międzynarodowa wyodrębniła się z ekonomii w okresie międzywojennym, w Polsce początki to lata 60-te XX wieku.",
     "rationales": [
-      "To ujęcie najszersze i zgodne z praktyką zarządzania: otoczenie obejmuje czynniki wpływające na projekt.",
-      "Konkurencja to tylko jeden element otoczenia (często zewnętrznego), a nie całość.",
-      "Prawo jest ważne, ale otoczenie obejmuje też np. instytucje UE, beneficjentów, rynek i czynniki społeczne.",
-      "Dział administracji jest elementem organizacji, ale nie wyczerpuje pojęcia otoczenia projektu."
+      "Chociaż handel międzynarodowy istniał w starożytności, ekonomia międzynarodowa jako subdyscyplina powstała później.",
+      "To dokładna informacja z materiału źródłowego.",
+      "Ekonomia międzynarodowa istniała już przed powstaniem UE.",
+      "Chociaż handel rozwijał się w średniowieczu, subdyscyplina powstała później."
     ]
   },
   {
     "id": 3,
-    "category": "Projekt (PMI) i atrybuty",
-    "question": "Jak PMI definiuje projekt?",
+    "category": "Ekonomia międzynarodowa - podstawy",
+    "question": "Która z poniższych przyczyn była podstawą wyodrębnienia ekonomii międzynarodowej jako subdyscypliny?",
     "options": [
-      "Stały proces operacyjny firmy wykonywany cyklicznie",
-      "Tymczasowe przedsięwzięcie podjęte w celu stworzenia unikatowego produktu lub usługi",
-      "Zbiór rutynowych działań utrzymaniowych bez określonego końca",
-      "Dowolne zadanie wykonywane przez jedną osobę"
+      "Stałe wzrastające znaczenie handlu międzynarodowego i innych form współpracy międzynarodowej oraz różnice między stosunkami ekonomicznymi w granicach jednego państwa i w skali międzynarodowej",
+      "Spadek znaczenia handlu międzynarodowego w gospodarce światowej",
+      "Brak różnic między gospodarką krajową a międzynarodową",
+      "Wyłącznie rozwój technologii komputerowych"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "W materiale zapisano definicję PMI: projekt jest tymczasowy i tworzy unikatowy rezultat (produkt/usługę).",
+    "correctAnswerIndex": 0,
+    "explanation": "Podstawy wyodrębnienia subdyscypliny to: stałe wzrastające znaczenie handlu międzynarodowego i innych form współpracy międzynarodowej oraz różnice występujące między stosunkami ekonomicznymi nawiązywanymi w granicach jednego państwa i skali międzynarodowej.",
     "rationales": [
-      "Proces operacyjny jest stały i powtarzalny, a projekt jest tymczasowy i unikatowy.",
-      "To dokładnie definicja PMI przytoczona w pliku.",
-      "Rutyna utrzymaniowa nie jest projektem, bo nie ma unikatowego rezultatu i często nie ma wyraźnego końca.",
-      "Projekt może mieć wielu wykonawców i interesariuszy; nie jest ograniczony do „jednej osoby”."
+      "To dokładne przyczyny wyodrębnienia subdyscypliny z materiału.",
+      "Wzrost, nie spadek znaczenia handlu był przyczyną wyodrębnienia.",
+      "Właśnie różnice między gospodarką krajową a międzynarodową były jedną z przyczyn wyodrębnienia.",
+      "Technologie komputerowe to tylko jeden z wielu czynników, nie główna przyczyna wyodrębnienia."
     ]
   },
   {
     "id": 4,
-    "category": "Projekt (PMI) i atrybuty",
-    "question": "Który zestaw najlepiej opisuje „trójkąt projektowy” (podstawowe parametry projektu)?",
+    "category": "Gospodarka światowa",
+    "question": "Co najlepiej definiuje gospodarkę światową?",
     "options": [
-      "Cel – strategia – marketing",
-      "Czas – koszt – jakość (często także zakres jako element ściśle powiązany)",
-      "Prawo – podatki – księgowość",
-      "Rynek – konkurencja – reklama"
+      "System trwałych powiązań ekonomicznych między krajami, obejmujących swym zasięgiem cały świat",
+      "Suma wszystkich gospodarek krajowych bez żadnych powiązań między nimi",
+      "System gospodarczy działający tylko w krajach rozwiniętych",
+      "Tylko handel towarami, bez przepływów kapitału i technologii"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Trójkąt projektowy to klasyczne ograniczenia zarządzania projektem: czas, koszt i jakość (często rozumiana wraz z zakresem).",
+    "correctAnswerIndex": 0,
+    "explanation": "Gospodarka światowa to system trwałych powiązań ekonomicznych między krajami, obejmujących swym zasięgiem cały świat - historycznie ukształtowany i zmieniający się w czasie system powiązań produkcyjnych, technologicznych, handlowych, finansowych i instytucjonalnych.",
     "rationales": [
-      "To elementy zarządzania strategicznego, ale nie klasyczny trójkąt ograniczeń projektowych.",
-      "To najbliższe materiałowi: parametry czasu i kosztu są wprost, a jakość jest wskazana jako kryterium oceny; w praktyce bywa wiązana z zakresem.",
-      "To obszary ważne w projektach, ale nie definicja trójkąta projektowego.",
-      "To elementy otoczenia rynkowego, nie podstawowe ograniczenia projektu."
+      "To dokładna definicja gospodarki światowej z materiału.",
+      "Gospodarka światowa to właśnie system powiązań, nie suma izolowanych gospodarek.",
+      "Gospodarka światowa obejmuje wszystkie kraje, nie tylko rozwinięte.",
+      "Gospodarka światowa obejmuje wszystkie formy powiązań: handel, kapitał, technologię, nie tylko towary."
     ]
   },
   {
     "id": 5,
-    "category": "Projekt (PMI) i atrybuty",
-    "question": "Które stwierdzenie najlepiej opisuje zarządzanie projektem wg PMI/PMBOK (w materiale)?",
+    "category": "Gospodarka światowa",
+    "question": "Kiedy ukształtowała się gospodarka światowa?",
     "options": [
-      "To wyłącznie kontrola budżetu i harmonogramu bez pracy z interesariuszami",
-      "To zastosowanie wiedzy, umiejętności, narzędzi i technik w celu zaspokojenia potrzeb udziałowców projektu",
-      "To zestaw działań marketingowych mających zwiększyć sprzedaż",
-      "To zarządzanie wyłącznie zasobami ludzkimi w projekcie"
+      "W starożytności, wraz z pierwszymi cywilizacjami",
+      "W średniowieczu, wraz z rozwojem miast",
+      "W II połowie XIX wieku",
+      "Dopiero po II wojnie światowej"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Materiał podaje definicję PMI: chodzi o zastosowanie wiedzy/technik/narzędzi, aby spełnić potrzeby interesariuszy (udziałowców).",
+    "correctAnswerIndex": 2,
+    "explanation": "Gospodarka światowa ukształtowała się w II połowie XIX wieku.",
     "rationales": [
-      "Budżet i harmonogram są ważne, ale definicja PMI jest szersza (obejmuje też potrzeby interesariuszy).",
-      "To definicja przytoczona w pliku.",
-      "Marketing może być częścią niektórych projektów, ale nie definiuje zarządzania projektem.",
-      "HR jest jednym z obszarów, ale zarządzanie projektem obejmuje znacznie więcej."
+      "Chociaż handel istniał w starożytności, gospodarka światowa jako system ukształtowała się później.",
+      "Chociaż handel rozwijał się w średniowieczu, system gospodarki światowej ukształtował się w XIX wieku.",
+      "To dokładna informacja z materiału źródłowego.",
+      "Gospodarka światowa istniała już przed II wojną światową."
     ]
   },
   {
     "id": 6,
-    "category": "Program i portfel",
-    "question": "Czym jest program wg PMI (zgodnie z materiałem)?",
+    "category": "Gospodarka światowa",
+    "question": "Która rewolucja przemysłowa była najważniejszą przyczyną globalizacji?",
     "options": [
-      "Pojedynczym, dużym projektem o wysokim budżecie",
-      "Grupą projektów powiązanych, zarządzanych i koordynowanych tak, aby osiągnąć korzyści niemożliwe przy zarządzaniu każdym projektem osobno",
-      "Zbiorem dowolnych działań organizacji bez względu na ich cel",
-      "Listą zadań operacyjnych wykonywanych cyklicznie"
+      "I rewolucja przemysłowa (XVIII i XIX wiek)",
+      "II rewolucja przemysłowa (koniec XIX w. do I wojny)",
+      "III rewolucja przemysłowa (lata 70-80 XX wieku)",
+      "IV rewolucja przemysłowa (rewolucja 4.0)"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "W materiale jest definicja: program to grupa powiązanych projektów zarządzanych razem dla osiągnięcia dodatkowych korzyści.",
+    "correctAnswerIndex": 2,
+    "explanation": "III rewolucja przemysłowa (lata 70-80 XX wieku) była najważniejszą przyczyną globalizacji procesu gospodarowania.",
     "rationales": [
-      "Program nie musi być jednym projektem; kluczowa jest koordynacja wielu powiązanych projektów.",
-      "To definicja z pliku (PMI 2008).",
-      "Portfel może zawierać działania niepowiązane, ale program z definicji opiera się na powiązaniu projektów i wspólnych korzyściach.",
-      "Działania cykliczne to raczej procesy operacyjne, nie program."
+      "I rewolucja przemysłowa intensyfikowała handel, ale nie była główną przyczyną globalizacji.",
+      "II rewolucja przyspieszała postęp techniczny, ale nie była główną przyczyną globalizacji.",
+      "To dokładna informacja z materiału - III rewolucja przemysłowa najważniejsza przyczyna globalizacji.",
+      "IV rewolucja przemysłowa to rewolucja 4.0, która nastąpiła później niż globalizacja."
     ]
   },
   {
     "id": 7,
-    "category": "Program i portfel",
-    "question": "Czym jest portfel projektów (multiproject management) wg materiału?",
+    "category": "Globalizacja - stymulatory i bariery",
+    "question": "Który z poniższych czynników jest stymulatorem globalizacji?",
     "options": [
-      "Zbiorem projektów/programów oraz innych działań zgrupowanych dla ułatwienia zarządzania i osiągania celów strategicznych; projekty mogą być powiązane lub niepowiązane",
-      "Wyłącznie zbiorem projektów ściśle powiązanych technicznie",
-      "Dokumentem księgowym zawierającym koszty projektów",
-      "Zestawem projektów realizowanych zawsze sekwencyjnie (jeden po drugim)"
+      "Niestabilność przepisów prawa",
+      "Ksenofobia i egocentryzm",
+      "Odmienności kulturowe i religijne",
+      "Liberalizacja handlu"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W pliku wprost: portfel służy realizacji celów strategicznych i może zawierać projekty powiązane lub niepowiązane, konkurujące o zasoby.",
+    "correctAnswerIndex": 3,
+    "explanation": "Liberalizacja handlu jest stymulatorem globalizacji, podczas gdy niestabilność przepisów prawa, ksenofobia, egocentryzm oraz odmienności kulturowe i religijne spowalniają globalizację.",
     "rationales": [
-      "To definicja portfela z materiału (w tym informacja o możliwym braku powiązania i konkurencji o zasoby).",
-      "„Ścisłe powiązanie” to bardziej cecha programu niż portfela; portfel może mieć projekty niepowiązane.",
-      "To nie definicja portfela – portfel to sposób zarządzania zestawem inicjatyw, a nie dokument finansowy.",
-      "Portfel nie narzuca sekwencji; wiele projektów dzieje się równolegle i może konkurować o zasoby."
+      "Niestabilność przepisów prawa ma negatywny wpływ i spowalnia globalizację.",
+      "Ksenofobia i egocentryzm są czynnikami socjopsychologicznymi spowalniającymi globalizację.",
+      "Odmienności kulturowe i religijne spowalniają globalizację, nie są stymulatorami.",
+      "Liberalizacja handlu jest wymieniona w materiale jako stymulator globalizacji."
     ]
   },
   {
     "id": 8,
-    "category": "Program i portfel",
-    "question": "Dlaczego projekty w portfelu mogą „konkurować o zasoby” (wg materiału)?",
+    "category": "Globalizacja - stymulatory i bariery",
+    "question": "Które z poniższych są barierami globalizacji?",
     "options": [
-      "Ponieważ zasoby organizacji są ograniczone, a projekty mogą być realizowane równolegle",
-      "Ponieważ zasoby w organizacji są zawsze nieograniczone, więc konkurencja jest tylko formalnością",
-      "Ponieważ portfel zawsze wymaga, aby wszystkie projekty miały ten sam zakres",
-      "Ponieważ konkurencja o zasoby występuje tylko w programach, nie w portfelach"
+      "Ułatwienia transportowe",
+      "Czynniki socjopsychologiczne: kultury i religie (odmienności, ksenofobia, egocentryzm)",
+      "Integracja międzynarodowa",
+      "Liberalizacja handlu"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał podaje, że projekty w portfelu są często równoległe, a organizacja ma ograniczone zasoby, więc potrzebna jest priorytetyzacja.",
+    "correctAnswerIndex": 1,
+    "explanation": "Czynniki socjopsychologiczne takie jak odmienności kulturowe, ksenofobia i egocentryzm spowalniają globalizację, podczas gdy ułatwienia transportowe, integracja międzynarodowa i liberalizacja handlu są stymulatorami.",
     "rationales": [
-      "To sedno portfela: wspólna pula ograniczonych zasobów przy wielu inicjatywach.",
-      "To nieprawda — ograniczoność zasobów jest typowa i jest jednym z powodów istnienia zarządzania portfelem.",
-      "Portfel nie wymaga wspólnego zakresu; to zbiór inicjatyw pod cele strategiczne.",
-      "Konkurencja o zasoby jest charakterystyczna dla portfela; program jest z definicji powiązany i koordynowany dla korzyści."
+      "Ułatwienia transportowe są stymulatorami globalizacji.",
+      "Czynniki socjopsychologiczne (kultury, religie, ksenofobia, egocentryzm) spowalniają globalizację.",
+      "Integracja międzynarodowa jest stymulatorem globalizacji.",
+      "Liberalizacja handlu jest stymulatorem globalizacji."
     ]
   },
   {
     "id": 9,
-    "category": "Organizacja projektowa",
-    "question": "Która cecha jest wymieniona w materiale jako charakterystyczna dla organizacji projektowej?",
+    "category": "Globalizacja - skutki",
+    "question": "Który z poniższych jest negatywnym skutkiem globalizacji?",
     "options": [
-      "Standaryzacja procedur i dokumentów",
-      "Unikanie stosowania metodyk zarządzania projektami",
-      "Brak baz wiedzy i brak uczenia się organizacji",
-      "Stałe trzymanie się jednej struktury organizacyjnej niezależnie od sytuacji"
+      "Większa dostępność do technologii",
+      "Mechanizm konkurencji przyspieszający zmiany strukturalne oraz postęp techniczny",
+      "Różnorodność towarów",
+      "Pogłębianie się nierówności społecznych wskutek nierównomiernej dystrybucji dóbr, usług i finansów"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W sekcji o organizacji projektowej wprost wymieniono m.in. standaryzację procedur i dokumentów.",
+    "correctAnswerIndex": 3,
+    "explanation": "Pogłębianie się nierówności społecznych wskutek nierównomiernej dystrybucji dóbr, usług i finansów jest negatywnym skutkiem globalizacji, podczas gdy pozostałe opcje są pozytywnymi skutkami.",
     "rationales": [
-      "To jest wprost na liście cech organizacji projektowej w materiale.",
-      "W materiale jest odwrotnie: organizacja projektowa stosuje metody, techniki i metodyki PM.",
-      "W materiale jest odwrotnie: gromadzi i upowszechnia wiedzę (np. przez Biuro Wsparcia Projektów).",
-      "W materiale podkreślono elastyczność organizacyjną, a nie „sztywność zawsze taka sama”."
+      "Większa dostępność do technologii jest pozytywnym skutkiem globalizacji.",
+      "Mechanizm konkurencji przyspieszający zmiany strukturalne jest pozytywnym skutkiem globalizacji.",
+      "Różnorodność towarów jest pozytywnym skutkiem globalizacji.",
+      "Pogłębianie się nierówności społecznych jest wymienione w materiale jako negatywny skutek globalizacji."
     ]
   },
   {
     "id": 10,
-    "category": "Organizacja projektowa",
-    "question": "Po co organizacja projektowa tworzy Biuro Wsparcia Projektów (PMO) wg materiału?",
+    "category": "Globalizacja - skutki",
+    "question": "Który z poniższych jest pozytywnym skutkiem globalizacji?",
     "options": [
-      "Aby gromadzić i upowszechniać bazę wiedzy projektowej oraz wspierać standaryzację",
-      "Aby zastąpić kierowników projektów i przejąć całą realizację zadań merytorycznych",
-      "Aby ukrywać wyniki projektów przed interesariuszami",
-      "Aby ograniczyć ciągłe doskonalenie i trzymać się starych procedur"
+      "Drenaż mózgów, czyli przenoszenie się najlepszych specjalistów do światowych ośrodków badawczych",
+      "Możliwość nieograniczonego transferu technologii i przepływu siły roboczej",
+      "Wzrost bezrobocia na skutek coraz większej automatyzacji produkcji",
+      "Zależność gospodarcza (kryzysy w jednym kraju przenoszą się na inne)"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał mówi o „gromadzeniu i upowszechnianiu baz wiedzy projektowej poprzez tworzenie Biur Wsparcia Projektów”.",
+    "correctAnswerIndex": 1,
+    "explanation": "Możliwość nieograniczonego transferu technologii i przepływu siły roboczej jest pozytywnym skutkiem globalizacji, podczas gdy drenaż mózgów, wzrost bezrobocia i zależność gospodarcza są negatywnymi skutkami.",
     "rationales": [
-      "To dokładnie zgodne z opisem w materiale.",
-      "PMO wspiera, a nie „zastępuje” role merytoryczne; przejęcie całej realizacji nie jest celem PMO.",
-      "Ukrywanie wyników jest sprzeczne z ideą monitoringu/ewaluacji i dobrych praktyk.",
-      "W materiale jest mowa o ciągłym doskonaleniu, więc to przeciwieństwo."
+      "Drenaż mózgów jest wymieniony w materiale jako negatywny skutek globalizacji.",
+      "Możliwość transferu technologii i przepływu siły roboczej jest wymieniona w materiale jako pozytywny skutek globalizacji.",
+      "Wzrost bezrobocia na skutek automatyzacji jest negatywnym skutkiem globalizacji.",
+      "Zależność gospodarcza i przenoszenie się kryzysów jest negatywnym skutkiem globalizacji."
     ]
   },
   {
     "id": 11,
-    "category": "Ryzyko (PMI/PMBOK)",
-    "question": "Jak PMI definiuje ryzyko w projekcie (wg materiału)?",
+    "category": "Slowbalisation i deglobalizacja",
+    "question": "Co oznacza termin 'slowbalisation'?",
     "options": [
-      "Pewność wystąpienia zdarzenia negatywnego w projekcie",
-      "Niepewność co do wystąpienia zdarzenia lub warunku, które – jeśli wystąpi – wpłynie istotnie pozytywnie lub negatywnie na projekt",
-      "Każde opóźnienie harmonogramu, niezależnie od skutków",
-      "Tylko zagrożenia finansowe, bez szans i okazji"
+      "Przyspieszenie globalizacji",
+      "Całkowite zatrzymanie globalizacji",
+      "Regionalizacja bez globalizacji",
+      "Opóźnienie globalizacji"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "W materiale podano definicję PMI: ryzyko to niepewność zdarzenia/warunku o istotnym wpływie, także pozytywnym.",
+    "correctAnswerIndex": 3,
+    "explanation": "Slowbalisation oznacza opóźnienie globalizacji - trend spadku tempa wzrostu handlu z 5,1% (2000) przez 4,6% (2010) do 2,6% (2020).",
     "rationales": [
-      "Ryzyko nie oznacza pewności – właśnie dotyczy niepewności.",
-      "To definicja ryzyka wg PMI przytoczona w materiale.",
-      "Opóźnienie może być skutkiem ryzyka, ale nie jest definicją ryzyka.",
-      "PMI traktuje ryzyko jako zdarzenia o możliwym wpływie pozytywnym lub negatywnym, nie tylko finansowym."
+      "Slowbalisation oznacza spowolnienie, nie przyspieszenie globalizacji.",
+      "Slowbalisation to spowolnienie, nie całkowite zatrzymanie globalizacji.",
+      "Slowbalisation to spowolnienie globalizacji, nie regionalizacja.",
+      "Slowbalisation to opóźnienie globalizacji, co jest definicją z materiału."
     ]
   },
   {
     "id": 12,
-    "category": "Ryzyko (PMI/PMBOK)",
-    "question": "Na czym polega zarządzanie ryzykiem wg PMBOK (wg materiału)?",
+    "category": "Slowbalisation i deglobalizacja",
+    "question": "Co oznacza semiglobalizacja?",
     "options": [
-      "Na jednorazowym spisaniu ryzyk na starcie, bez późniejszego monitorowania",
-      "Na procesie identyfikowania, analizowania i reagowania na niepewność oraz monitorowaniu ryzyka w całym cyklu życia projektu",
-      "Na ignorowaniu ryzyk pozytywnych (szans), bo są „miłe niespodzianki”",
-      "Wyłącznie na przeniesieniu całego ryzyka na podwykonawców"
+      "Całkowita integracja wszystkich krajów świata",
+      "Całkowity brak integracji między krajami",
+      "Integracja tylko krajów rozwiniętych",
+      "Świat częściowo zintegrowany, częściowo podzielony - globalizacja istnieje, ale ograniczają ją bariery polityczne, kulturowe i regulacyjne"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Materiał opisuje zarządzanie ryzykiem jako proces obejmujący identyfikację, analizę, reakcję oraz monitorowanie w całym cyklu życia.",
+    "correctAnswerIndex": 3,
+    "explanation": "Semiglobalizacja to półglobalizacja - świat częściowo zintegrowany, częściowo podzielony. Globalizacja istnieje, ale ograniczają ją bariery polityczne, kulturowe i regulacyjne. P. Ghemawat twierdził, że globalizacja nigdy nie była pełna.",
     "rationales": [
-      "PMBOK podkreśla proces i ciągłe monitorowanie, nie jednorazową listę.",
-      "To opis z materiału.",
-      "Ryzyka pozytywne też są ważne (szanse) i powinny być zarządzane.",
-      "To może być jedna ze strategii reakcji (transfer), ale nie „cała definicja” zarządzania ryzykiem."
+      "Semiglobalizacja to częściowa integracja, nie całkowita.",
+      "Semiglobalizacja zakłada istnienie integracji, choć częściowej.",
+      "Semiglobalizacja dotyczy całego świata, nie tylko krajów rozwiniętych.",
+      "To dokładna definicja semiglobalizacji z materiału."
     ]
   },
   {
     "id": 13,
-    "category": "Projekty europejskie (definicja i cechy)",
-    "question": "Która cecha projektu w metodyce projektów europejskich jest wymieniona w materiale?",
+    "category": "Slowbalisation i deglobalizacja",
+    "question": "Co oznacza deglobalizacja?",
     "options": [
-      "Jednoznacznie określone grupy docelowe i beneficjenci ostateczni",
-      "Brak systemu monitorowania i ewaluacji, aby uprościć zarządzanie",
-      "Brak uzasadnienia ekonomicznego, bo projekty publiczne nie muszą go mieć",
-      "Nieokreślony budżet, aby zwiększyć elastyczność"
+      "Przyspieszenie globalizacji",
+      "Odwrót od globalizacji - proces odwracania integracji gospodarczej i politycznej, spadek znaczenia handlu i inwestycji międzynarodowych",
+      "Regionalizacja bez zmian w globalizacji",
+      "Tylko zmiany w handlu, bez wpływu na inwestycje"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale opisano projekty europejskie m.in. przez wskazanie grup docelowych/beneficjentów oraz system monitoringu i ewaluacji.",
+    "correctAnswerIndex": 1,
+    "explanation": "Deglobalizacja to odwrót od globalizacji - proces odwracania integracji gospodarczej i politycznej, spadek znaczenia handlu i inwestycji międzynarodowych, rosnąca rola protekcjonizmu, regionalizacji, autarkii.",
     "rationales": [
-      "To jest wprost wskazane w materiale jako cecha projektu europejskiego.",
-      "Materiał mówi o systemie monitorowania i ewaluacji – więc brak byłby sprzeczny.",
-      "W materiale jest mowa o uzasadnieniu ekonomicznym wskazującym korzyści projektu.",
-      "Materiał mówi o budżecie przeznaczonym na wykonanie projektu – więc budżet ma być określony."
+      "Deglobalizacja to odwrót, nie przyspieszenie globalizacji.",
+      "To dokładna definicja deglobalizacji z materiału.",
+      "Deglobalizacja to odwrót od globalizacji, nie tylko regionalizacja.",
+      "Deglobalizacja dotyczy zarówno handlu, jak i inwestycji międzynarodowych."
     ]
   },
   {
     "id": 14,
-    "category": "Projekty UE (instytucje)",
-    "question": "Która instytucja jest odpowiedzialna „za całość programu operacyjnego” (wg materiału)?",
+    "category": "Podmioty gospodarki światowej",
+    "question": "Które z poniższych są podmiotami gospodarki światowej?",
     "options": [
-      "Instytucja Zarządzająca (IZ)",
-      "Instytucja Pośrednicząca (IP)",
-      "Instytucja Pośrednicząca Drugiego Stopnia (IP2) / Instytucja Wdrażająca (IW)",
-      "Beneficjent projektu"
+      "Tylko przedsiębiorstwa krajowe",
+      "Tylko międzynarodowe organizacje gospodarcze",
+      "Tylko gospodarki narodowe",
+      "Przedsiębiorstwa krajowe, przedsiębiorstwa międzynarodowe (korporacje transnarodowe), gospodarki narodowe, międzynarodowe ugrupowania integracyjne, międzynarodowe organizacje gospodarcze"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale wprost: Instytucja Zarządzająca (IZ) odpowiada za całość programu, a kolejne poziomy odpowiadają za priorytety i kontakt z beneficjentami.",
+    "correctAnswerIndex": 3,
+    "explanation": "Podmiotami gospodarki światowej są: przedsiębiorstwa krajowe, przedsiębiorstwa międzynarodowe (korporacje transnarodowe), gospodarki narodowe poszczególnych krajów wraz z instytucją państwa, międzynarodowe (regionalne) ugrupowania integracyjne oraz międzynarodowe organizacje gospodarcze.",
     "rationales": [
-      "IZ jest wskazana jako odpowiedzialna za całość programu.",
-      "IP jest podległa IZ i odpowiada za poszczególne priorytety, nie za całość programu.",
-      "IP2/IW odpowiada za kontakty z beneficjentami i wdrażanie, nie za całość programu.",
-      "Beneficjent realizuje projekt, ale nie zarządza całością programu operacyjnego."
+      "Przedsiębiorstwa krajowe to tylko jeden z wielu podmiotów.",
+      "Międzynarodowe organizacje gospodarcze to tylko jeden z wielu podmiotów.",
+      "Gospodarki narodowe to tylko jeden z wielu podmiotów.",
+      "To kompletna lista podmiotów gospodarki światowej z materiału."
     ]
   },
   {
     "id": 15,
-    "category": "Projekty UE (instytucje)",
-    "question": "Jaka jest rola IP2/IW wg materiału?",
+    "category": "Podmioty gospodarki światowej",
+    "question": "Co to jest korporacja transnarodowa?",
     "options": [
-      "Odpowiedzialność za kontakty z beneficjentami (wdrażanie na poziomie operacyjnym)",
-      "Ustalanie konstytucyjnych zasad zrównoważonego rozwoju",
-      "Wyłącznie kontrola jakości kodu w projektach IT",
-      "Zarządzanie całością programu operacyjnego"
+      "Przedsiębiorstwo działające tylko w jednym kraju",
+      "Organizacja rządowa działająca w wielu krajach",
+      "Tylko bank działający międzynarodowo",
+      "Przedsiębiorstwo, które spełnia warunek prowadzenia działalności biznesowej opartej na własności aktywów i ich kontroli przynajmniej w 2 krajach"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale: IP2/IW (Instytucja Wdrażająca) odpowiada za kontakty z beneficjentami i obsługę wdrażania.",
+    "correctAnswerIndex": 3,
+    "explanation": "Przedsiębiorstwo międzynarodowe (korporacja transnarodowa) to przedsiębiorstwo, które spełnia warunek prowadzenia działalności biznesowej opartej na własności aktywów i ich kontroli przynajmniej w 2 krajach.",
     "rationales": [
-      "To jest dokładnie opisane w materiale.",
-      "To zagadnienie konstytucyjne, nie rola instytucji wdrażającej.",
-      "To zbyt wąskie i niezgodne z materiałem.",
-      "Za całość programu odpowiada IZ, nie IP2/IW."
+      "Korporacja transnarodowa musi działać w przynajmniej 2 krajach, nie tylko w jednym.",
+      "Korporacja transnarodowa to przedsiębiorstwo, nie organizacja rządowa.",
+      "Korporacja transnarodowa może być bankiem, ale nie tylko - może być każdym rodzajem przedsiębiorstwa.",
+      "To dokładna definicja korporacji transnarodowej z materiału."
     ]
   },
   {
     "id": 16,
-    "category": "Projekty UE (pojęcia)",
-    "question": "Co oznacza „alokacja” w projektach/programach UE (wg materiału)?",
+    "category": "Formy ugrupowań integracyjnych",
+    "question": "Która z poniższych jest formą ekonomicznej integracji?",
     "options": [
-      "Całkowitą kwotę środków unijnych planowaną do wydania w ramach programu",
-      "Wszystkie koszty niekwalifikowalne ponoszone przez beneficjenta",
-      "Wyłącznie wkład własny beneficjenta",
-      "Listę projektów miękkich"
+      "Tylko strefa wolnego handlu",
+      "Tylko unia polityczna",
+      "Tylko wspólny rynek",
+      "Strefa wolnego handlu, unia celna, wspólny rynek, unia gospodarcza, unia polityczna"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał definiuje alokację jako całkowitą kwotę środków UE planowaną do wydania w ramach programu.",
+    "correctAnswerIndex": 3,
+    "explanation": "Formy ekonomicznej integracji to: strefa wolnego handlu, unia celna, wspólny rynek, unia gospodarcza, unia polityczna.",
     "rationales": [
-      "To definicja z materiału.",
-      "Koszty niekwalifikowalne to inna kategoria (pokrywane ze środków własnych).",
-      "Wkład własny to tylko część finansowania projektu, nie „alokacja programu”.",
-      "Lista projektów miękkich nie jest definicją alokacji."
+      "Strefa wolnego handlu to tylko jedna z form integracji.",
+      "Unia polityczna to tylko jedna z form integracji.",
+      "Wspólny rynek to tylko jedna z form integracji.",
+      "To kompletna lista form integracji ekonomicznej z materiału."
     ]
   },
   {
     "id": 17,
-    "category": "Koszty i kwalifikowalność",
-    "question": "Które stwierdzenie jest zgodne z materiałem o kosztach kwalifikowalnych i niekwalifikowalnych?",
+    "category": "Międzynarodowy Fundusz Walutowy",
+    "question": "Kiedy i gdzie został utworzony Międzynarodowy Fundusz Walutowy?",
     "options": [
-      "Koszty kwalifikowalne są pokrywane w całości lub częściowo z funduszu, a niekwalifikowalne musi pokryć beneficjent",
-      "Koszty kwalifikowalne zawsze pokrywa wyłącznie beneficjent",
-      "Koszty niekwalifikowalne zawsze pokrywa UE, jeśli projekt jest „ważny społecznie”",
-      "Kwalifikowalność kosztów nie ma związku z dokumentacją projektu"
+      "Po II wojnie światowej w Genewie",
+      "W 1950 r. w Waszyngtonie",
+      "W 1995 r. w Marrakeszu",
+      "22 lipca 1944 r. na konferencji w Bretton Woods (USA)"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale: kwalifikowane są przewidziane w dokumentacji i finansowane w całości/części z funduszu, a niekwalifikowane beneficjent pokrywa sam.",
+    "correctAnswerIndex": 3,
+    "explanation": "Międzynarodowy Fundusz Walutowy został utworzony na podstawie umowy międzynarodowej zawartej 22 lipca 1944 r. przez 44 państwa na konferencji w miejscowości Bretton Woods (USA). Działalność operacyjną MFW rozpoczął w 1947 roku.",
     "rationales": [
-      "To dokładne ujęcie z materiału.",
-      "To odwrotność definicji z materiału.",
-      "Materiał mówi, że niekwalifikowane pokrywa beneficjent ze środków własnych.",
-      "Materiał wskazuje, że struktura kosztów kwalifikowanych jest zawarta w dokumentacji projektu."
+      "MFW został utworzony przed zakończeniem II wojny światowej, nie po niej, i w Bretton Woods, nie w Genewie.",
+      "1947 to rok rozpoczęcia działalności operacyjnej, nie utworzenia, a siedziba jest w Waszyngtonie, ale utworzenie było w Bretton Woods.",
+      "1995 to rok utworzenia WTO, nie MFW.",
+      "To dokładna informacja z materiału - 22 lipca 1944 r. w Bretton Woods."
     ]
   },
   {
     "id": 18,
-    "category": "Koszty i kwalifikowalność",
-    "question": "Który przykład kosztu niekwalifikowalnego jest wymieniony w materiale?",
+    "category": "Międzynarodowy Fundusz Walutowy",
+    "question": "Jaka jest misja Międzynarodowego Funduszu Walutowego?",
     "options": [
-      "Zakup gruntu/nieruchomości",
-      "Koszty personelu merytorycznego projektu",
-      "Koszty monitorowania i ewaluacji",
-      "Koszty testowania jakości przyrostów (w Agile)"
+      "Wspieranie rozwoju gospodarczego i walka z ubóstwem",
+      "Promowanie rozwoju handlu światowego",
+      "Zarządzanie kursami walutowymi wszystkich krajów",
+      "Zapewnienie stabilności międzynarodowego systemu walutowego, realizowana w ramach dwóch podstawowych obszarów działalności: nadzorczej i kredytowej"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał jako przykład kosztów niekwalifikowalnych podaje m.in. koszt zakupu gruntu/nieruchomości (oraz np. VAT).",
+    "correctAnswerIndex": 3,
+    "explanation": "Misja MFW to zapewnienie stabilności międzynarodowego systemu walutowego; realizowana jest w ramach dwóch podstawowych obszarów działalności: nadzorczej i kredytowej.",
     "rationales": [
-      "To przykład wymieniony wprost w materiale.",
-      "Materiał nie podaje tego jako niekwalifikowalne; w praktyce często bywa kwalifikowalne (zależnie od programu), ale tu nie jest wskazane jako przykład.",
-      "Materiał mówi o systemie monitorowania i ewaluacji jako elemencie projektów UE; nie jest to wskazane jako niekwalifikowalne.",
-      "To termin z podejścia zwinnego i nie jest tu przykładem kosztu niekwalifikowalnego."
+      "Wspieranie rozwoju i walka z ubóstwem to misja Banku Światowego, nie MFW.",
+      "Promowanie handlu światowego to zadanie WTO, nie MFW.",
+      "MFW nie zarządza bezpośrednio kursami walutowymi wszystkich krajów.",
+      "To dokładna misja MFW z materiału."
     ]
   },
   {
     "id": 19,
-    "category": "Koszty i kwalifikowalność",
-    "question": "Na czym polega „zakaz podwójnego finansowania” (wg materiału)?",
+    "category": "Bank Światowy",
+    "question": "Kiedy i gdzie został utworzony Bank Światowy?",
     "options": [
-      "Nie wolno realizować dwóch projektów jednocześnie",
-      "Niedozwolone jest zrefundowanie tego samego wydatku jednocześnie z dwóch różnych źródeł (np. krajowych i funduszy UE)",
-      "Nie wolno mieć wkładu własnego – wszystko musi być z UE",
-      "Nie wolno finansować kosztów kwalifikowalnych z funduszy UE"
+      "W 1950 r. w Waszyngtonie",
+      "W 1995 r. w Marrakeszu",
+      "W 1960 r. w Paryżu",
+      "Na konferencji w Bretton Woods w 1944 r."
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Materiał definiuje zakaz podwójnego finansowania jako niedozwoloną refundację tego samego wydatku z dwóch źródeł.",
+    "correctAnswerIndex": 3,
+    "explanation": "Bank Światowy (Międzynarodowy Bank Odbudowy i Rozwoju) został utworzony na konferencji w Bretton Woods w 1944 r.",
     "rationales": [
-      "Można realizować kilka projektów, jeśli spełnione są zasady i są zasoby; to nie jest istota zakazu.",
-      "To definicja z materiału.",
-      "Wkład własny często jest wymagany; zakaz dotyczy refundacji tego samego wydatku z dwóch źródeł.",
-      "To sprzeczne z ideą dofinansowania: koszty kwalifikowalne mogą być finansowane z UE, ale bez podwójnej refundacji."
+      "1950 to rok, w którym Polska wystąpiła z Banku, nie utworzenia.",
+      "1995 to rok utworzenia WTO, nie Banku Światowego.",
+      "1960 to rok utworzenia OECD, nie Banku Światowego.",
+      "To dokładna informacja z materiału - Bretton Woods 1944."
     ]
   },
   {
     "id": 20,
-    "category": "Projekty UE (rodzaje)",
-    "question": "Czym charakteryzują się „projekty twarde” wg materiału?",
+    "category": "Bank Światowy",
+    "question": "Jakie jest podstawowe zadanie Banku Światowego?",
     "options": [
-      "Są infrastrukturalne/inwestycyjne i we wniosku wymagają załączenia studium wykonalności lub biznesplanu",
-      "Zawsze dotyczą wyłącznie szkoleń i edukacji",
-      "Nie wymagają żadnych dokumentów, bo są „proste”",
-      "Są realizowane tylko przez osoby fizyczne"
+      "Zapewnienie stabilności międzynarodowego systemu walutowego",
+      "Promowanie rozwoju handlu światowego",
+      "Zarządzanie kursami walutowymi",
+      "Wspieranie rozwoju gospodarczego i walka z ubóstwem"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale: projekty twarde są inwestycyjne (infrastrukturalne) i wymagają studium wykonalności lub biznesplanu jako załącznika.",
+    "correctAnswerIndex": 3,
+    "explanation": "Podstawowe zadanie Banku Światowego to wspieranie rozwoju gospodarczego i walka z ubóstwem. Wizja (od 2023 roku): stworzenie świata wolnego od ubóstwa na nadającej się do życia planecie.",
     "rationales": [
-      "To definicja projektów twardych z materiału.",
-      "Szkolenia to typowe projekty miękkie, nie twarde.",
-      "Materiał mówi o wymaganych załącznikach (studium/biznesplan).",
-      "Materiał dopuszcza szeroki katalog realizatorów (osoby fizyczne, prawne, jednostki), nie tylko osoby fizyczne."
+      "Zapewnienie stabilności systemu walutowego to misja MFW, nie Banku Światowego.",
+      "Promowanie handlu światowego to zadanie WTO, nie Banku Światowego.",
+      "Zarządzanie kursami walutowymi nie jest głównym zadaniem Banku Światowego.",
+      "To dokładne zadanie Banku Światowego z materiału."
     ]
   },
   {
     "id": 21,
-    "category": "Projekty UE (rodzaje)",
-    "question": "Czym charakteryzują się „projekty miękkie” wg materiału?",
+    "category": "Bank Światowy",
+    "question": "Które z poniższych instytucji wchodzą w skład Grupy Banku Światowego?",
     "options": [
-      "Są związane z inwestycją w człowieka, a zwykle składa się sam wniosek aplikacyjny",
-      "Są wyłącznie drogami i mostami oraz zawsze wymagają biznesplanu",
-      "Nie mają grup docelowych i beneficjentów ostatecznych",
-      "Nie wymagają monitorowania i ewaluacji"
+      "Tylko MBOiR",
+      "MFW i Bank Światowy",
+      "WTO i Bank Światowy",
+      "MBOiR, MSR, MKF, MIGA, ICSID"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale: projekty miękkie dotyczą inwestycji w człowieka i w odróżnieniu od twardych zwykle nie wymagają studium wykonalności jako załącznika.",
+    "correctAnswerIndex": 3,
+    "explanation": "Grupa Banku Światowego składa się z: Międzynarodowego Banku Odbudowy i Rozwoju (MBOiR), Międzynarodowego Stowarzyszenia Rozwoju (MSR), Międzynarodowej Korporacji Finansowej (MKF), Wielostronnej Agencji Gwarancji Inwestycyjnych (MIGA) oraz Międzynarodowego Centrum Rozstrzygania Sporów Inwestycyjnych (ICSID).",
     "rationales": [
-      "To ujęcie z materiału (inwestycja w człowieka; sam wniosek).",
-      "Drogi/mosty to projekty twarde (infrastrukturalne).",
-      "Materiał podkreśla znaczenie grup docelowych i beneficjentów w projektach UE.",
-      "Materiał mówi o systemie monitorowania i ewaluacji jako elemencie projektów UE."
+      "MBOiR to tylko jedna z instytucji Grupy Banku Światowego.",
+      "MFW nie wchodzi w skład Grupy Banku Światowego.",
+      "WTO nie wchodzi w skład Grupy Banku Światowego.",
+      "To kompletna lista instytucji Grupy Banku Światowego z materiału."
     ]
   },
   {
     "id": 22,
-    "category": "Projekty UE (konkursy)",
-    "question": "Czym jest „konkurs otwarty” wg materiału?",
+    "category": "WTO",
+    "question": "Kiedy i gdzie zostało podpisane porozumienie ustanawiające Światową Organizację Handlu?",
     "options": [
-      "Naborem publicznym i powszechnym, prowadzonym w trybie ciągłym do wyczerpania środków",
-      "Naborem dostępnym tylko dla wybranych podmiotów zaproszonych imiennie",
-      "Naborem, w którym termin składania wniosków jest zawsze krótszy niż 7 dni",
-      "Naborem ograniczonym terminem i zamykanym niezależnie od środków"
+      "22 lipca 1944 r. w Bretton Woods",
+      "14.12.1960 r. w Paryżu",
+      "30.10.1947 r. w Genewie",
+      "15.04.1994 r. w Marrakeszu, weszło w życie 1.01.1995 r."
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał definiuje konkurs otwarty jako nabór publiczny, powszechny i ciągły aż do wyczerpania środków.",
+    "correctAnswerIndex": 3,
+    "explanation": "Porozumienie ustanawiające Światową Organizację Handlu zostało podpisane, wraz z Aktem Końcowym, 15.04.1994 r. w Marrakeszu; weszło w życie 1.01.1995 r.",
     "rationales": [
-      "To definicja konkursu otwartego z materiału.",
-      "To bardziej opis trybu zaproszeniowego, a nie „otwartego publicznie”.",
-      "Materiał nie wskazuje takiej reguły; w otwartym kluczowa jest ciągłość do wyczerpania środków.",
-      "To bliższe konkursowi zamkniętemu, który ma ograniczenie terminem."
+      "1944 w Bretton Woods to utworzenie MFW i Banku Światowego, nie WTO.",
+      "1960 w Paryżu to utworzenie OECD, nie WTO.",
+      "1947 w Genewie to podpisanie GATT, nie WTO (choć WTO zastąpiło GATT).",
+      "To dokładna informacja z materiału - Marrakesz 1994, wejście w życie 1995."
     ]
   },
   {
     "id": 23,
-    "category": "Projekty UE (konkursy)",
-    "question": "Czym jest „konkurs zamknięty” wg materiału?",
+    "category": "WTO",
+    "question": "Gdzie mieści się siedziba WTO?",
     "options": [
-      "Naborem ograniczonym terminem (okno naboru), przy czym od ogłoszenia do końca składania nie może upłynąć mniej niż 30 dni",
-      "Naborem ciągłym do wyczerpania środków",
-      "Naborem, w którym zawsze można dosłać wniosek po terminie",
-      "Naborem bez żadnych reguł czasowych"
+      "W Waszyngtonie",
+      "W Paryżu",
+      "W Marrakeszu",
+      "W Genewie"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał podaje: konkurs zamknięty ma ograniczony termin naboru, a minimalny czas okna to 30 dni.",
+    "correctAnswerIndex": 3,
+    "explanation": "Siedziba WTO mieści się w Genewie.",
     "rationales": [
-      "To dokładnie definicja z materiału (w tym limit 30 dni).",
-      "To definicja konkursu otwartego, nie zamkniętego.",
-      "Po terminie wnioski nie spełniają warunków naboru; to nie jest zgodne z definicją konkursu zamkniętego.",
-      "Materiał jasno opisuje ograniczenie terminem."
+      "Waszyngton to siedziba MFW i Banku Światowego, nie WTO.",
+      "Paryż to siedziba OECD, nie WTO.",
+      "Marrakesz to miejsce podpisania porozumienia, nie siedziba WTO.",
+      "To dokładna informacja z materiału - siedziba WTO w Genewie."
     ]
   },
   {
     "id": 24,
-    "category": "Projekty UE (pojęcia)",
-    "question": "Czym jest „Indykatywny wykaz indywidualnych projektów kluczowych” wg materiału?",
+    "category": "OECD",
+    "question": "Kiedy powstała Organizacja Współpracy Gospodarczej i Rozwoju (OECD)?",
     "options": [
-      "Lista najważniejszych projektów inwestycyjnych, które nie konkurują o środki z pozostałymi, ale podlegają ocenie jak inne projekty",
-      "Lista projektów odrzuconych w konkursie",
-      "Lista projektów miękkich realizowanych w trybie ciągłym",
-      "Lista kosztów niekwalifikowalnych"
+      "W 1944 r. w Bretton Woods",
+      "W 1995 r. w Marrakeszu",
+      "W 1947 r. w Genewie",
+      "Na mocy Konwencji Paryskiej z 14.12.1960 r., działalność rozpoczęła 30.04.1961 r."
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: indykatywny wykaz obejmuje kluczowe projekty inwestycyjne, które nie konkurują o środki z innymi, ale przechodzą procedurę oceny.",
+    "correctAnswerIndex": 3,
+    "explanation": "OECD powstała na mocy Konwencji Paryskiej z 14.12.1960 r., działalność rozpoczęła 30.04.1961 r.; zastąpiła istniejącą od 1948 r. Organizację Europejskiej Współpracy Gospodarczej (OEEC).",
     "rationales": [
-      "To definicja z materiału.",
-      "Odrzucenie w konkursie to coś innego niż „wykaz projektów kluczowych”.",
-      "Materiał mówi o projektach inwestycyjnych kluczowych, nie o listach projektów miękkich.",
-      "To nie jest wykaz kosztów, tylko wykaz projektów."
+      "1944 w Bretton Woods to utworzenie MFW i Banku Światowego, nie OECD.",
+      "1995 to utworzenie WTO, nie OECD.",
+      "1947 to podpisanie GATT, nie OECD.",
+      "To dokładna informacja z materiału - Konwencja Paryska 1960, działalność od 1961."
     ]
   },
   {
     "id": 25,
-    "category": "Prawo i uwarunkowania",
-    "question": "Jakie podmioty mogą realizować projekty wg materiału (w świetle prawa polskiego)?",
+    "category": "Handel zagraniczny i międzynarodowy",
+    "question": "Jaka jest różnica między handlem zagranicznym a handlem międzynarodowym?",
     "options": [
-      "Wyłącznie osoby fizyczne prowadzące działalność gospodarczą",
-      "Osoby fizyczne, osoby prawne oraz jednostki organizacyjne niebędące osobami prawnymi, którym ustawa przyznaje zdolność prawną",
-      "Wyłącznie instytucje centralne (ministerstwa)",
-      "Wyłącznie organizacje pozarządowe"
+      "Nie ma różnicy - to synonimy",
+      "Handel zagraniczny dotyczy tylko towarów, a handel międzynarodowy tylko usług",
+      "Handel zagraniczny to handel między krajami sąsiednimi, a międzynarodowy między odległymi",
+      "Handel zagraniczny to wymiana rozpatrywana z punktu widzenia jednego kraju i jego otoczenia zagranicznego, a handel międzynarodowy to wymiana pomiędzy różnymi gospodarkami narodowymi analizowana z perspektywy globalnej"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Materiał wskazuje szeroki katalog realizatorów: osoby fizyczne, osoby prawne oraz tzw. „ułomne osoby prawne” z przyznaną zdolnością prawną.",
+    "correctAnswerIndex": 3,
+    "explanation": "HANDEL ZAGRANICZNY to wymiana rozpatrywana z punktu widzenia jednego kraju i jego otoczenia zagranicznego. HANDEL MIĘDZYNARODOWY to wymiana pomiędzy różnymi gospodarkami narodowymi, kiedy strumienie handlu analizowane są z perspektywy globalnej (z 'lotu ptaka') między parą krajów, na poziomie grupy gospodarek, kontynentu lub pomiędzy kontynentami.",
     "rationales": [
-      "Materiał dopuszcza też osoby prawne i jednostki organizacyjne z zdolnością prawną.",
-      "To ujęcie zgodne z materiałem (Kodeks cywilny i zdolność prawna).",
-      "Projekty mogą realizować różne podmioty, nie tylko administracja centralna.",
-      "NGO mogą realizować projekty, ale nie są jedyną kategorią podmiotów."
+      "To nie są synonimy - różnią się perspektywą analizy.",
+      "Oba dotyczą zarówno towarów, jak i usług - różnica jest w perspektywie analizy.",
+      "Różnica nie dotyczy odległości geograficznej, ale perspektywy analizy.",
+      "To dokładne rozróżnienie z materiału - perspektywa krajowa vs globalna."
     ]
   },
   {
     "id": 26,
-    "category": "Prawo i Konstytucja",
-    "question": "Co w materiale wskazano jako trzy podstawowe aspekty zasady zrównoważonego rozwoju (normy programowej Konstytucji RP)?",
+    "category": "Przyczyny importu i eksportu",
+    "question": "Która z poniższych jest przyczyną rozwoju importu?",
     "options": [
-      "Ekonomiczny, społeczny, ekologiczny",
-      "Technologiczny, militarny, religijny",
-      "Wyłącznie ekonomiczny (zysk i koszty)",
-      "Wyłącznie ekologiczny (ochrona przyrody)"
+      "Nadwyżki produkcyjne w kraju importującym",
+      "Brak określonych towarów i usług w kraju importującym",
+      "Brak możliwości eksportu",
+      "Zamknięcie granic"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wprost wymienia trzy aspekty: ekonomiczny, społeczny i ekologiczny.",
+    "correctAnswerIndex": 1,
+    "explanation": "Przyczyny rozwoju importu to m.in.: brak określonych towarów i usług w kraju importującym (trwały lub przejściowy), występowanie międzynarodowych różnic kosztów i cen towarów, zróżnicowanie towarów oraz preferencji konsumentów.",
     "rationales": [
-      "To dokładny zapis z materiału.",
-      "Te aspekty nie występują w materiale jako definicja zrównoważonego rozwoju.",
-      "Zrównoważony rozwój nie ogranicza się do ekonomii – obejmuje także aspekty społeczne i ekologiczne.",
-      "Ochrona środowiska jest ważna, ale zasada obejmuje również ekonomię i społeczeństwo."
+      "Nadwyżki produkcyjne są przyczyną eksportu, nie importu.",
+      "Brak określonych towarów i usług w kraju jest wymieniony w materiale jako przyczyna importu.",
+      "Brak możliwości eksportu nie jest przyczyną importu.",
+      "Zamknięcie granic utrudnia import, nie jest jego przyczyną."
     ]
   },
   {
     "id": 27,
-    "category": "Fundusze UE",
-    "question": "Który fundusz ma w materiale opisany cel: „wsparcie zrównoważonego rozwoju w regionach UE”?",
+    "category": "Przyczyny importu i eksportu",
+    "question": "Która z poniższych jest przyczyną eksportu?",
     "options": [
-      "Europejski Fundusz Rozwoju Regionalnego (EFRR)",
-      "Europejski Fundusz Społeczny (EFS)",
-      "Europejski Fundusz Morski i Rybacki (EFMR)",
-      "Fundusz Spójności (FS)"
+      "Brak towarów w kraju eksportującym",
+      "Zamknięcie rynków zagranicznych",
+      "Brak możliwości produkcji",
+      "Zbyt duże nadwyżki produkcyjne"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale EFRR jest opisany jako fundusz wspierający zrównoważony rozwój w regionach UE.",
+    "correctAnswerIndex": 3,
+    "explanation": "Przyczyny eksportu to m.in.: zbyt duże nadwyżki produkcyjne, chęć uzyskania dewiz, kreacja nowych miejsc pracy, kooperacja zaopatrzeniowa, obowiązywanie określonych umów handlowych.",
     "rationales": [
-      "To dokładnie cel EFRR podany w materiale.",
-      "EFS dotyczy zatrudnienia i inwestycji w kapitał ludzki, nie ogólnie rozwoju regionów.",
-      "EFMR dotyczy rybołówstwa i społeczności przybrzeżnych, nie ogólnie rozwoju regionów.",
-      "FS dotyczy głównie transportu i ochrony środowiska w krajach o niższym DNB per capita."
+      "Brak towarów w kraju byłby przyczyną importu, nie eksportu.",
+      "Zamknięcie rynków zagranicznych utrudnia eksport, nie jest jego przyczyną.",
+      "Brak możliwości produkcji uniemożliwia eksport, nie jest jego przyczyną.",
+      "Zbyt duże nadwyżki produkcyjne są wymienione w materiale jako przyczyna eksportu."
     ]
   },
   {
     "id": 28,
-    "category": "Fundusze UE",
-    "question": "Który fundusz w materiale jest powiązany z projektami dotyczącymi zatrudnienia i inwestycją w kapitał ludzki?",
+    "category": "Teorie przedklasyczne",
+    "question": "Co charakteryzowało teorię przedklasyczną handlu międzynarodowego?",
     "options": [
-      "EFS",
-      "EFRR",
-      "EFRROW",
-      "FS"
+      "Wolny handel bez żadnych ograniczeń",
+      "Teoria oparta wyłącznie na kosztach komparatywnych",
+      "Teoria oparta wyłącznie na obfitości zasobów",
+      "Psychoza lęku przed brakiem towarów; dążenie do uzyskania możliwie jak największej ilości dóbr za jak najniższą cenę, czasem drogą rabunku lub dominacji gospodarczej"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał opisuje EFS jako fundusz wspierający zatrudnienie oraz inwestycje w kapitał ludzki (pracowników, młodych ludzi, osoby poszukujące pracy).",
+    "correctAnswerIndex": 3,
+    "explanation": "Teoria przedklasyczna charakteryzowała się psychozą lęku przed brakiem towarów; dzięki podziałowi pracy dążono do zaspokojenia potrzeb produkcyjnych i konsumpcyjnych. Dążenie do uzyskania możliwie jak największej ilości dóbr, za jak najniższą cenę. Impuls do pozyskiwania towarów między innymi drogą rabunku, rozbojów lub dominacji gospodarczej.",
     "rationales": [
-      "To cel EFS opisany w materiale.",
-      "EFRR dotyczy rozwoju regionalnego, a nie wprost rynku pracy i kapitału ludzkiego.",
-      "EFRROW dotyczy rozwoju obszarów wiejskich i problemów wsi, nie wprost zatrudnienia w całej UE.",
-      "FS dotyczy transportu i ochrony środowiska w krajach o niższym DNB per capita."
+      "Wolny handel to koncepcja późniejsza, nie charakterystyczna dla teorii przedklasycznej.",
+      "Koszty komparatywne to teoria klasyczna (Ricardo), nie przedklasyczna.",
+      "Obfitość zasobów to teoria neoklasyczna (H-O), nie przedklasyczna.",
+      "To dokładny opis teorii przedklasycznej z materiału."
     ]
   },
   {
     "id": 29,
-    "category": "Fundusze UE",
-    "question": "Który fundusz w materiale jest opisany jako wsparcie transportu i ochrony środowiska w krajach o DNB per capita < 90% średniej UE?",
+    "category": "Teorie przedklasyczne",
+    "question": "Co głosił dogmat słusznej ceny?",
     "options": [
-      "Fundusz Spójności (FS)",
-      "Europejski Fundusz Morski i Rybacki (EFMR)",
-      "Europejski Fundusz Społeczny (EFS)",
-      "Europejski Fundusz Rozwoju Regionalnego (EFRR)"
+      "Cena powinna być zawsze najwyższa możliwa",
+      "Cena powinna być zawsze najniższa możliwa",
+      "Cena nie ma związku z kosztami wytworzenia",
+      "Towar ma być sprzedany po słusznej cenie – nie wyższej oraz nie niższej. Każdy towar ma swoją cenę podyktowaną kosztami jego wytworzenia"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale ten opis dotyczy Funduszu Spójności (FS).",
+    "correctAnswerIndex": 3,
+    "explanation": "Zgodnie z dogmatem słusznej ceny towar ma być sprzedany po słusznej cenie – nie wyższej oraz nie niższej. Każdy towar ma swoją cenę podyktowaną kosztami jego wytworzenia. Zasady te w XIII w. najpełniej ujął św. Tomasz z Akwinu.",
     "rationales": [
-      "To dokładny opis FS z materiału.",
-      "EFMR dotyczy rybołówstwa i obszarów przybrzeżnych.",
-      "EFS dotyczy kapitału ludzkiego i zatrudnienia.",
-      "EFRR dotyczy rozwoju regionalnego."
+      "Dogmat mówi o słusznej cenie, nie najwyższej możliwej.",
+      "Dogmat mówi o słusznej cenie, nie najniższej możliwej.",
+      "Dogmat wprost łączy cenę z kosztami wytworzenia.",
+      "To dokładna treść dogmatu słusznej ceny z materiału."
     ]
   },
   {
     "id": 30,
-    "category": "Prakseologia",
-    "question": "Jak w prakseologii (wg materiału) rozumiana jest „skuteczność” (effectiveness)?",
+    "category": "Teorie klasyczne",
+    "question": "Co głosi teoria kosztów absolutnych Adama Smitha?",
     "options": [
-      "Stopień osiągnięcia celu; pojęcie bezwymiarowe",
-      "Stosunek wyniku do kosztów (W/K)",
-      "Różnica wyniku i kosztu w jednostkach pieniężnych",
-      "Wyłącznie zgodność działań z procedurą, niezależnie od efektów"
+      "Wszystkie kraje powinny produkować wszystkie towary",
+      "Kraje nie powinny specjalizować się w produkcji",
+      "Koszty produkcji są zawsze jednakowe we wszystkich krajach",
+      "Kraje specjalizują się w produkcji towarów, w których mają absolutną przewagę kosztową (niższe koszty wytworzenia), co prowadzi do wzrostu produkcji i korzyści z wymiany"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: skuteczność jest bezwymiarowa i zasadniczo związana z realizacją celów działań (stopień osiągnięcia celu).",
+    "correctAnswerIndex": 3,
+    "explanation": "Teoria kosztów absolutnych zakłada, że kraje decydują co importują i co produkują. Specjalizacja każdego kraju jedynie w kilku, a nie wszystkich produktach, prowadzi do lepszego wykorzystywania podstawowego zasobu – pracy ludzkiej i powoduje wzrost produkcji towarów, co z kolei jest bezpośrednią przyczyną osiągania przez partnerów określonych korzyści - zwiększona wielkość produkcji do podziału między krajami.",
     "rationales": [
-      "To definicja skuteczności w materiale.",
-      "W/K to ekonomiczność, nie skuteczność.",
-      "Różnica wyniku i kosztu to raczej intuicja korzystności (gdy wynik > koszt), ale materiał inaczej rozróżnia pojęcia.",
-      "Zgodność z procedurą może wspierać sprawność, ale nie jest definicją skuteczności (liczy się osiągnięcie celu)."
+      "Teoria zakłada specjalizację, nie produkcję wszystkich towarów przez wszystkie kraje.",
+      "Teoria zakłada specjalizację, nie jej brak.",
+      "Teoria zakłada różnice w kosztach między krajami, nie ich jednakowość.",
+      "To główna teza teorii kosztów absolutnych - specjalizacja w towarach z absolutną przewagą kosztową."
     ]
   },
   {
     "id": 31,
-    "category": "Prakseologia",
-    "question": "Kiedy działanie jest „korzystne” (profitability) wg materiału prakseologicznego?",
+    "category": "Teorie klasyczne",
+    "question": "Co głosi teoria kosztów komparatywnych (względnych) Ricarda?",
     "options": [
-      "Gdy wynik użyteczny jest wyższy niż poniesiony koszt działania",
-      "Gdy koszt jest zawsze wyższy od wyniku, bo „inwestujemy”",
-      "Gdy osiągnięto cel, niezależnie od kosztu",
-      "Gdy wskaźnik W/K jest mniejszy niż 1"
+      "Wymiana jest możliwa tylko gdy jeden kraj ma przewagę we wszystkich produktach",
+      "Koszty względne nie mają znaczenia",
+      "Wszystkie kraje muszą mieć takie same koszty",
+      "Wymiana międzynarodowa jest możliwa również wtedy, gdy dany kraj ma przewagę nad drugim w kosztach wytwarzania mierzonych nakładami pracy wszystkich produktów - ważne są koszty względne, nie absolutne"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: o korzystności mówimy wtedy, gdy wynik użyteczny przewyższa koszt działania; jest to wielkość wymiarowa.",
+    "correctAnswerIndex": 3,
+    "explanation": "Twierdzenie teorii kosztów komparatywnych: Wymiana międzynarodowa jest możliwa również wtedy, gdy dany kraj ma przewagę nad drugim w kosztach wytwarzania mierzonych nakładami pracy wszystkich produktów. Ważne są koszty względne (komparatywne), nie absolutne.",
     "rationales": [
-      "To definicja korzystności z materiału.",
-      "To sprzeczne z definicją: korzystne jest wtedy, gdy wynik > koszt.",
-      "To opis skuteczności (osiągnięcie celu), a nie korzystności (wynik vs koszt).",
-      "W/K < 1 oznacza nieekonomiczność; ekonomiczność to osobna kategoria od korzystności."
+      "Teoria pokazuje, że wymiana jest możliwa nawet gdy jeden kraj ma przewagę we wszystkich produktach - ważne są koszty względne.",
+      "Koszty względne są kluczowe w teorii komparatywnej.",
+      "Teoria zakłada różnice w kosztach, nie ich jednakowość.",
+      "To główna teza teorii kosztów komparatywnych Ricarda."
     ]
   },
   {
     "id": 32,
-    "category": "Prakseologia",
-    "question": "Czym jest „ekonomiczność” (economy) wg materiału?",
+    "category": "Teorie neoklasyczne",
+    "question": "Co głosi teoria obfitości zasobów Heckschera-Ohlina (H-O)?",
     "options": [
-      "Parametrem bezwymiarowym wyrażonym stosunkiem wyniku użytecznego (W) do kosztów (K)",
-      "Stopniem realizacji celu (bez związku z kosztami)",
-      "Wielkością pieniężną wyrażoną jako W − K",
-      "Nazwą funduszu unijnego finansującego projekty"
+      "Kraje eksportują towary wymagające rzadkich czynników",
+      "Obfitość zasobów nie ma wpływu na handel",
+      "Wszystkie kraje mają takie same zasoby",
+      "Kraj będzie eksportował te towary, do których wytworzenia zużywa się relatywnie dużo czynnika produkcji w danym kraju względnie obfitego, a sprowadzał towary wymagające relatywnie dużo czynnika w danym kraju względnie rzadkiego"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wprost: ekonomiczność = W/K i jest bezwymiarowa.",
+    "correctAnswerIndex": 3,
+    "explanation": "Twierdzenie H-O: kraj będzie eksportował te towary, do których wytworzenia zużywa się relatywnie dużo czynnika produkcji w danym kraju względnie obfitego a sprowadzał z zagranicy towary, których produkcja wymaga relatywnie dużo czynnika produkcji w danym kraju względnie rzadkiego.",
     "rationales": [
-      "To definicja ekonomiczności z materiału.",
-      "To definicja skuteczności, nie ekonomiczności.",
-      "W − K nie jest podane jako ekonomiczność; w materiale ekonomiczność to iloraz, a korzystność odnosi się do relacji wyniku i kosztu.",
-      "To nie ma związku z prakseologią."
+      "Kraje eksportują towary wymagające obfitych czynników, nie rzadkich.",
+      "Obfitość zasobów jest kluczowa w teorii H-O.",
+      "Teoria H-O zakłada różnice w wyposażeniu krajów w czynniki produkcji.",
+      "To dokładna treść twierdzenia H-O z materiału."
     ]
   },
   {
     "id": 33,
-    "category": "Ewaluacja KE",
-    "question": "Które kryterium ewaluacji Komisji Europejskiej dotyczy zgodności celów projektu z potrzebami i priorytetami (wg materiału)?",
+    "category": "Teorie neoklasyczne",
+    "question": "Co odkrył paradoks Leontiefa?",
     "options": [
-      "Zgodność (relevance)",
-      "Skuteczność (effectiveness)",
-      "Efektywność (efficiency)",
-      "Wpływ (impact)"
+      "USA eksportuje tylko dobra kapitałochłonne",
+      "USA nie handluje z innymi krajami",
+      "Teoria H-O w pełni wyjaśnia strukturę handlu USA",
+      "W towarach eksportowanych przez USA W. Leontief odkrył więcej pracy a mniej kapitału, niż w towarach stanowiących substytuty dóbr importowanych przez ten kraj - co przeczyło teorii H-O"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale: „Zgodność (relevance)” ocenia powiązanie celów projektu z potrzebami i priorytetami.",
+    "correctAnswerIndex": 3,
+    "explanation": "W latach 40 XX w. Leontief zastosował metodę przepływów międzygałęziowych do znalezienia odpowiedzi na pytanie czy w strukturze handlu zagranicznego USA znajduje się odbicie twierdzenia H-O. W towarach eksportowanych przez USA W. Leontief odkrył więcej pracy a mniej kapitału, niż w towarach stanowiących substytuty dóbr importowanych przez ten kraj. Główne przyczyny: więcej niż 2 czynniki produkcji, praca nie jest czynnikiem jednorodnym, różnice w konsumpcji, bariery celne.",
     "rationales": [
-      "To kryterium relevance opisane w materiale.",
-      "Effectiveness dotyczy osiągnięcia celów i rezultatów, nie dopasowania do potrzeb.",
-      "Efficiency dotyczy relacji nakładów do wyników i jakości zarządzania zasobami.",
-      "Impact dotyczy szerszego oddziaływania na otoczenie."
+      "Paradoks pokazał, że USA eksportuje dobra pracochłonne, nie kapitałochłonne.",
+      "USA handluje z innymi krajami - paradoks dotyczy struktury tego handlu.",
+      "Paradoks pokazał, że teoria H-O nie w pełni wyjaśnia struktury handlu USA.",
+      "To dokładny opis paradoksu Leontiefa z materiału."
     ]
   },
   {
     "id": 34,
-    "category": "Ewaluacja KE",
-    "question": "Które kryterium KE w materiale dotyczy racjonalnego gospodarowania zasobami (czas, koszt, jakość) i relacji nakładów do wyników?",
+    "category": "Teorie współczesne",
+    "question": "Co to są Globalne Łańcuchy Wartości (GVC)?",
     "options": [
-      "Efektywność (efficiency)",
-      "Zgodność (relevance)",
-      "Zbalansowanie/Trwałość (sustainability)",
-      "Wpływ (impact)"
+      "Handel tylko gotowymi produktami między krajami",
+      "Produkcja całego dobra w jednym kraju",
+      "Tylko handel surowcami",
+      "Produkcja jednego dobra rozbita na wiele etapów w różnych krajach. Kluczowe znaczenie ma pozycja kraju w łańcuchu - niski poziom to montaż i dostawy surowców, wysoki poziom to R&D, projektowanie, branding, marketing"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: efficiency ocenia osiągnięcie celów przy racjonalnym gospodarowaniu zasobami i relacji nakładów do wyników.",
+    "correctAnswerIndex": 3,
+    "explanation": "Globalne łańcuchy wartość (Global Value Theory – GVC): Produkcja jednego dobra rozbita na wiele etapów w różnych krajach. Kluczowe znaczenie ma pozycja kraju w łańcuchu; - niski poziom -> montaż, dostawy surowców; - wysoki poziom -> R&D, projektowanie, branding, marketing.",
     "rationales": [
-      "To opis efficiency z materiału.",
-      "Relevance dotyczy dopasowania do potrzeb/prior. a nie relacji nakładów do wyników.",
-      "Sustainability dotyczy utrzymania efektów po zamknięciu projektu.",
-      "Impact dotyczy szerszego oddziaływania, również nieoczekiwanego."
+      "GVC to podział produkcji na etapy, nie handel gotowymi produktami.",
+      "GVC zakłada produkcję w wielu krajach, nie w jednym.",
+      "GVC obejmuje wszystkie etapy produkcji, nie tylko surowce.",
+      "To dokładna definicja GVC z materiału."
     ]
   },
   {
     "id": 35,
-    "category": "Ewaluacja KE",
-    "question": "Które kryterium KE w materiale dotyczy „utrzymania efektów po zamknięciu projektu”?",
+    "category": "Teorie współczesne",
+    "question": "Co oznacza 'servicification of trade' (usługizacja handlu)?",
     "options": [
-      "Zbalansowanie/Trwałość (sustainability)",
-      "Skuteczność (effectiveness)",
-      "Zgodność (relevance)",
-      "Efektywność (efficiency)"
+      "Spadek roli usług w handlu",
+      "Handel tylko towarami materialnymi",
+      "Brak usług w handlu międzynarodowym",
+      "Rosnąca rola usług w handlu światowym, także jako elementu towarów; przesunięcie ciężaru z towarów na usługi jako głównego źródła przewagi konkurencyjnej"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale: sustainability dotyczy oddziaływania i utrzymania efektów w dłuższym okresie, również po zamknięciu projektu.",
+    "correctAnswerIndex": 3,
+    "explanation": "Servicification of trade (usługizacja handlu) - rosnąca rola usług w handlu światowym, także jako elementu towarów; przesunięcie ciężaru z towarów na usługi jako głównego źródła przewagi konkurencyjnej w handlu. Przykład: smartfon - oprócz urządzenia ogromna część wartości to system operacyjny, aplikacje, usługi w chmurze.",
     "rationales": [
-      "To kryterium opisane w materiale jako utrzymanie efektów po zakończeniu.",
-      "Effectiveness dotyczy stopnia osiągnięcia celów w trakcie realizacji.",
-      "Relevance dotyczy dopasowania celów do potrzeb.",
-      "Efficiency dotyczy relacji nakładów do wyników i gospodarowania zasobami."
+      "Usługizacja to wzrost, nie spadek roli usług.",
+      "Usługizacja zakłada rosnącą rolę usług, nie tylko towary materialne.",
+      "Usługizacja pokazuje rosnącą rolę usług, nie ich brak.",
+      "To dokładna definicja usługizacji handlu z materiału."
     ]
   },
   {
     "id": 36,
-    "category": "Ewaluacja KE",
-    "question": "Które kryterium KE w materiale dotyczy szerszego (pozytywnego lub negatywnego) oddziaływania na otoczenie, w tym efektów nieoczekiwanych?",
+    "category": "Protekcjonizm vs wolny handel",
+    "question": "Co to jest protekcjonizm?",
     "options": [
-      "Wpływ (impact)",
-      "Zgodność (relevance)",
-      "Efektywność (efficiency)",
-      "Skuteczność (effectiveness)"
+      "Całkowite otwarcie rynków bez żadnych barier",
+      "Tylko promowanie eksportu bez ochrony rynku krajowego",
+      "Brak ingerencji państwa w handel",
+      "Koncepcja opierająca się na przekonaniu, że w międzynarodowych stosunkach ekonomicznych nie ma zgodności interesów różnych krajów, obejmuje ogół działań interwencyjnych mających na celu ochronę produkcji krajowej przed konkurencyjnym importem oraz popieranie własnego eksportu"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: impact ocenia szeroki wpływ na otoczenie, także efekty nieoczekiwane.",
+    "correctAnswerIndex": 3,
+    "explanation": "Protekcjonizm to koncepcja opierająca się na przekonaniu, że w międzynarodowych stosunkach ekonomicznych nie ma zgodności interesów różnych krajów, a nieograniczona swoboda działania sił rynkowych może działać na niekorzyść krajów słabo rozwiniętych. Obejmuje ogół działań interwencyjnych na rynku, mających na celu ochronę produkcji krajowej przed konkurencyjnym importem oraz popieranie własnego eksportu za pomocą środków polityki ekonomicznej.",
     "rationales": [
-      "To opis impact z materiału.",
-      "Relevance dotyczy dopasowania do potrzeb, nie szerokiego wpływu.",
-      "Efficiency dotyczy relacji nakładów do wyników i gospodarowania zasobami.",
-      "Effectiveness dotyczy osiągnięcia celów projektu."
+      "Całkowite otwarcie rynków to wolny handel, nie protekcjonizm.",
+      "Protekcjonizm obejmuje zarówno ochronę rynku krajowego, jak i promowanie eksportu.",
+      "Protekcjonizm zakłada ingerencję państwa, nie jej brak.",
+      "To dokładna definicja protekcjonizmu z materiału."
     ]
   },
   {
     "id": 37,
-    "category": "Ocena projektu",
-    "question": "Które stwierdzenie najlepiej opisuje „ocenę projektu” wg materiału?",
+    "category": "Protekcjonizm vs wolny handel",
+    "question": "Co to jest wolny handel?",
     "options": [
-      "Systematyczne monitorowanie i ocena cząstkowa parametrów w ustalonych chwilach czasu z uwzględnieniem faz realizacji",
-      "Jednorazowa ocena wyłącznie po zakończeniu projektu, bez wniosków na przyszłość",
-      "Wyłącznie kontrola zgodności wydatków z fakturami",
-      "Proces, który nie może prowadzić do działań korygujących w trakcie projektu"
+      "Ochrona produkcji krajowej przed importem",
+      "Stosowanie ceł i kontyngentów",
+      "Promowanie tylko eksportu",
+      "Państwo nie ingeruje w sferę stosunków gospodarczych z zagranicą, wierząc, że działanie sił rynkowych ukształtuje te stosunki w sposób gwarantujący maksymalizację korzyści z wymiany"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał definiuje ocenę projektu jako systematyczne monitorowanie i ocenę cząstkową parametrów w czasie oraz formułowanie wniosków i zaleceń.",
+    "correctAnswerIndex": 3,
+    "explanation": "Wolny handel to sytuacja, w której 'państwo nie ingeruje w sferę stosunków gospodarczych z zagranicą, wierząc, że działanie sił rynkowych ukształtuje te stosunki w sposób gwarantujący maksymalizację korzyści z wymiany'. Państwo powstrzymuje się od stosowania wszelkich barier ograniczających dostęp zagranicznych towarów i przedsiębiorstw do rynku krajowego oraz rezygnuje ze środków wspierania własnego eksportu.",
     "rationales": [
-      "To definicja z materiału.",
-      "Materiał mówi też o działaniach bieżących korygujących i wnioskach na przyszłość.",
-      "Kontrola wydatków może być elementem, ale ocena projektu jest szersza (cele, rezultaty, zarządzanie).",
-      "Materiał wprost mówi o bieżących działaniach korygujących."
+      "Ochrona produkcji krajowej to protekcjonizm, nie wolny handel.",
+      "Stosowanie ceł i kontyngentów to protekcjonizm, nie wolny handel.",
+      "Promowanie tylko eksportu to element protekcjonizmu, nie wolnego handlu.",
+      "To dokładna definicja wolnego handlu z materiału."
     ]
   },
   {
     "id": 38,
-    "category": "Ocena ex ante / ex post",
-    "question": "Jaką rolę pełni ocena ex ante projektu wg materiału (np. studium wykonalności)?",
+    "category": "Instrumenty polityki handlowej",
+    "question": "Które z poniższych są instrumentami nietaryfowymi polityki handlowej?",
     "options": [
-      "Pomaga podjąć decyzję o rozpoczęciu projektu lub jego zaniechaniu, analizując m.in. wykonalność i celowość",
-      "Jest wykonywana wyłącznie rok po zakończeniu projektu",
-      "Polega na podsumowaniu rezultatów i lekcji po zamknięciu projektu",
-      "Służy wyłącznie do oceny jakości pracy zespołu, bez analizy otoczenia i zasobów"
+      "Tylko cła",
+      "Tylko subsydia eksportowe",
+      "Tylko normy techniczne",
+      "Bariery parataryfowe (opłaty wyrównawcze, subsydia eksportowe, dumping, cła antydumpingowe) oraz bariery pozataryfowe (kwoty, ograniczenia ilościowe, normy techniczne, zakazy, licencje)"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: ex ante (np. feasibility study) to ocena przed działaniem, wspierająca decyzję „robić czy nie robić” na podstawie analizy wykonalności w wielu wymiarach.",
+    "correctAnswerIndex": 3,
+    "explanation": "Rodzaje instrumentów nietaryfowych: Bariery parataryfowe (ograniczają wymianę poprzez podwyższenie ceny dobra): zmienne opłaty wyrównawcze, dodatkowe opłaty nakładane na import, subwencjonowanie produkcji krajowej i eksportu (subsydia eksportowe), dumping, cła antydumpingowe, depozyty importowe, kontyngenty taryfowe. Bariery pozataryfowe (wpływają na wolumen obrotów): kwoty wartościowe lub ilościowe, ograniczenia ilościowe - 'dobrowolne' ograniczenia eksportu (VERs), ograniczenia dewizowe, normy techniczne, zdrowotne, zakazy eksportu lub importu, licencje importowe.",
     "rationales": [
-      "To sens oceny ex ante i studium wykonalności w materiale.",
-      "Rok po zakończeniu dotyczy ex post finale, nie ex ante.",
-      "To raczej ocena ex post (po zakończeniu).",
-      "Materiał podkreśla analizę systemową/prawną/ekonomiczną/technologiczną/czasową/zasobową – więc nie jest to tylko „ocena zespołu”."
+      "Cła to instrumenty taryfowe, nie nietaryfowe.",
+      "Subsydia eksportowe to tylko jeden z instrumentów nietaryfowych.",
+      "Normy techniczne to tylko jeden z instrumentów nietaryfowych.",
+      "To kompletna lista instrumentów nietaryfowych z materiału."
     ]
   },
   {
     "id": 39,
-    "category": "Ocena ex ante / ex post",
-    "question": "Czym jest studium wykonalności (Feasibility study) wg materiału?",
+    "category": "Cło",
+    "question": "Co to jest cło?",
     "options": [
-      "Metodą oceny ex ante analizującą celowość i możliwość realizacji projektu (systemową, prawną, ekonomiczną, technologiczną, czasową, operacyjną, zasobową)",
-      "Metodą oceny ex post immediate wykonywaną bezpośrednio po zakończeniu projektu",
-      "Raportem z audytu finansowego, wykonywanym zawsze po wypłacie dotacji",
-      "Listą wymagań użytkownika (backlog) w Agile"
+      "Podatek od sprzedaży wewnętrznej",
+      "Opłata za transport wewnętrzny",
+      "Subsydium dla eksporterów",
+      "Opłata pobierana od towaru zagranicznego w związku z przekroczeniem przez niego granicy celnej"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał opisuje feasibility study jako kompleksową analizę wykonalności i celowości projektu przed startem.",
+    "correctAnswerIndex": 3,
+    "explanation": "Cło to opłata pobierana od towaru zagranicznego w związku z przekroczeniem przez niego granicy celnej. Inne definicje: opłata pobierana przez państwo w określonej z góry wysokości w związku z przewiezieniem towaru przez granicę; podatek, który nakłada się na towary przechodzące przez granicę celną określonego państwa.",
     "rationales": [
-      "To opis studium wykonalności z materiału.",
-      "Ex post immediate jest po zakończeniu, a studium wykonalności jest przed projektem (ex ante).",
-      "Audyt to inny typ dokumentu i etap; studium wykonalności nie jest „zawsze po dotacji”.",
-      "Backlog to pojęcie Agile, a nie studium wykonalności."
+      "Podatek od sprzedaży wewnętrznej to VAT lub podatek obrotowy, nie cło.",
+      "Cło dotyczy przekraczania granicy celnej, nie transportu wewnętrznego.",
+      "Subsydium dla eksporterów to inny instrument, nie cło.",
+      "To dokładna definicja cła z materiału."
     ]
   },
   {
     "id": 40,
-    "category": "Ocena ex ante / ex post",
-    "question": "Co oznacza ocena „ex post immediate” w podejściu prakseologicznym z materiału?",
+    "category": "Cło",
+    "question": "Jakie są rodzaje ceł z punktu widzenia ruchu towarów?",
     "options": [
-      "Obligatoryjną ocenę dokonaną bezpośrednio w momencie zakończenia projektu",
-      "Ocenę wykonalności przed rozpoczęciem projektu",
-      "Ocenę dokonaną minimum rok po zakończeniu projektu",
-      "Ocenę wyłącznie kosztów niekwalifikowalnych"
+      "Tylko importowe",
+      "Tylko eksportowe",
+      "Tylko tranzytowe",
+      "Eksportowe, importowe, tranzytowe"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: ex post immediate to ocena obowiązkowa wykonywana bezpośrednio po zakończeniu projektu (w momencie zakończenia).",
+    "correctAnswerIndex": 3,
+    "explanation": "Rodzaje ceł z punktu widzenia ruchu towarów: Eksportowe, Importowe, Tranzytowe.",
     "rationales": [
-      "To definicja ex post immediate z materiału.",
-      "To opis ex ante (przed działaniem).",
-      "Minimum rok po zakończeniu to ex post finale, nie immediate.",
-      "Ocena nie dotyczy wyłącznie kosztów, tylko parametrów sprawności projektu."
+      "Importowe to tylko jeden z rodzajów ceł.",
+      "Eksportowe to tylko jeden z rodzajów ceł.",
+      "Tranzytowe to tylko jeden z rodzajów ceł.",
+      "To kompletna lista rodzajów ceł z punktu widzenia ruchu towarów z materiału."
     ]
   },
   {
     "id": 41,
-    "category": "Ocena ex ante / ex post",
-    "question": "Co oznacza ocena „ex post finale” wg materiału?",
+    "category": "Bezpośrednie inwestycje zagraniczne",
+    "question": "Co to są bezpośrednie inwestycje zagraniczne (BIZ)?",
     "options": [
-      "Dodatkową ocenę możliwą nie wcześniej niż po roku od zakończenia projektu, aby ocenić trwałość parametrów miękkich (jakość, efekty strategiczne i społeczne)",
-      "Ocenę wykonywaną przed projektem na etapie programowania",
-      "Ocenę wykonywaną codziennie w trakcie iteracji Agile",
-      "Ocenę wykonywaną tylko wtedy, gdy projekt był twardy (infrastrukturalny)"
+      "Kupno akcji bez kontroli nad przedsiębiorstwem",
+      "Krótkoterminowe lokaty kapitałowe",
+      "Tylko kredyty handlowe",
+      "Inwestycja dokonana w kraju innym niż kraj pochodzenia inwestora, w celu uzyskania trwałego przychodu, przy czym zamiarem inwestora jest posiadanie efektywnej kontroli zarządzania przedsiębiorstwem"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wprost: ex post finale jest odroczona (min. rok po zakończeniu) i pozwala ocenić trwałość jakości oraz efektów strategicznych i społecznych.",
+    "correctAnswerIndex": 3,
+    "explanation": "Bezpośrednie inwestycje zagraniczne to inwestycja dokonana w kraju innym niż kraj pochodzenia inwestora, w celu uzyskania trwałego przychodu, przy czym zamiarem inwestora jest posiadanie efektywnej kontroli zarządzania przedsiębiorstwem [MFW]. Według OECD i MFW inwestycja może być uznana za bezpośrednią, jeśli w jej wyniku udział inwestora w spółce jest nie mniejszy niż 10%.",
     "rationales": [
-      "To definicja ex post finale z materiału.",
-      "Przed projektem to ocena ex ante, nie ex post.",
-      "Codzienna ocena w iteracjach to praktyka Agile, a nie kategoria ex post finale.",
-      "Materiał nie ogranicza ex post finale tylko do projektów twardych; dotyczy oceny trwałości efektów."
+      "Kupno akcji bez kontroli to inwestycje portfelowe, nie bezpośrednie.",
+      "BIZ to inwestycje długoterminowe z kontrolą, nie krótkoterminowe lokaty.",
+      "Kredyty handlowe to inna forma przepływów kapitałowych, nie BIZ.",
+      "To dokładna definicja BIZ z materiału."
     ]
   },
   {
     "id": 42,
-    "category": "PCM (Project Cycle Management)",
-    "question": "Do czego służy metodyka PCM wg materiału?",
+    "category": "Bezpośrednie inwestycje zagraniczne",
+    "question": "Jakie są formy bezpośrednich inwestycji zagranicznych?",
     "options": [
-      "Do przygotowania, realizacji i oceny projektów finansowanych ze środków UE",
-      "Wyłącznie do zarządzania portfelem projektów w korporacjach prywatnych",
-      "Wyłącznie do wytwarzania oprogramowania w Agile",
-      "Wyłącznie do audytu księgowego po zakończeniu projektu"
+      "Tylko utworzenie nowego przedsiębiorstwa",
+      "Tylko przejęcie istniejącego przedsiębiorstwa",
+      "Tylko kupno akcji bez kontroli",
+      "Utworzenie nowego przedsiębiorstwa za granicą (GREENFIELD INVESTMENT) oraz przejęcie istniejącego przedsiębiorstwa za granicą (BROWNFIELD INVESTMENT)"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: PCM służy do przygotowania, realizacji i oceny projektów finansowanych z funduszy UE (z uwzględnieniem fazy ewaluacji).",
+    "correctAnswerIndex": 3,
+    "explanation": "Formy BIZ: Utworzenie nowego przedsiębiorstwa za granicą - GREENFIELD INVESTMENT oraz Aktywizacja - przejęcie istniejącego przedsiębiorstwa za granicą - BROWNFIELD INVESTMENT.",
     "rationales": [
-      "To opis PCM z materiału.",
-      "Portfel to inny obszar; PCM dotyczy cyklu projektu (szczególnie UE).",
-      "Agile to inne podejście; PCM jest metodyką cyklu projektowego UE.",
-      "Audyt jest częścią końcową, ale PCM obejmuje znacznie więcej niż audyt."
+      "Utworzenie nowego przedsiębiorstwa to tylko jedna z form BIZ.",
+      "Przejęcie istniejącego przedsiębiorstwa to tylko jedna z form BIZ.",
+      "Kupno akcji bez kontroli to inwestycje portfelowe, nie BIZ.",
+      "To kompletna lista form BIZ z materiału."
     ]
   },
   {
     "id": 43,
-    "category": "PCM (Project Cycle Management)",
-    "question": "Która sekwencja faz PCM jest zgodna z materiałem?",
+    "category": "Migracje",
+    "question": "Co to są migracje zarobkowe?",
     "options": [
-      "Programowanie → Identyfikacja → Formułowanie → Finansowanie → Wdrażanie → Ewaluacja i audyt",
-      "Identyfikacja → Finansowanie → Wdrażanie → Programowanie → Ewaluacja",
-      "Planowanie sprintów → Daily → Review → Retrospektywa",
-      "Projektowanie → Implementacja → Testy → Utrzymanie (bez ewaluacji)"
+      "Tylko migracje wewnętrzne w obrębie jednego kraju",
+      "Tylko migracje z przyczyn politycznych",
+      "Tylko migracje z przyczyn rodzinnych",
+      "Przemieszczanie się osoby lub grupy osób przez granicę międzynarodową lub w obrębie państwa motywowane wyłącznie lub przede wszystkim możliwościami ekonomicznymi"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wymienia fazy PCM dokładnie w tej kolejności, z dołożoną fazą ewaluacji i audytu.",
+    "correctAnswerIndex": 3,
+    "explanation": "Migracje zarobkowe to 'przemieszczanie się osoby lub grupy osób przez granicę międzynarodową lub w obrębie państwa motywowane wyłącznie lub przede wszystkim możliwościami ekonomicznymi' [Międzynarodowa Organizacja ds. Migracji, 2019] lub 'migracja głównie z przyczyn ekonomicznych lub w celu poszukiwania istotnych ulepszeń w zakresie poziomu życia' [Komisja Europejska].",
     "rationales": [
-      "To sekwencja z materiału.",
-      "To pomieszane etapy i nie odpowiada materiałowi.",
-      "To elementy Scrum/Agile, a nie PCM.",
-      "To klasyczny cykl wytwarzania, ale bez faz PCM i bez ewaluacji/audytu."
+      "Migracje zarobkowe mogą być zarówno międzynarodowe, jak i wewnętrzne.",
+      "Migracje z przyczyn politycznych to migracje polityczne, nie zarobkowe.",
+      "Migracje z przyczyn rodzinnych to migracje rodzinne, nie zarobkowe.",
+      "To dokładna definicja migracji zarobkowych z materiału."
     ]
   },
   {
     "id": 44,
-    "category": "Agile",
-    "question": "Która cecha podejścia zwinnego (Agile) jest wymieniona w materiale?",
+    "category": "Transfer technologii",
+    "question": "Co to jest transfer technologii?",
     "options": [
-      "Krótkie iteracje o stałym czasie trwania (time-boxing)",
-      "Jeden cykl życia projektu i znany od początku, sztywny zakres",
-      "Klient jest wyłącznie zleceniodawcą i nie angażuje się w projekt",
-      "Brak testowania, bo liczy się szybkość"
+      "Tylko sprzedaż gotowych produktów",
+      "Tylko handel surowcami",
+      "Tylko przepływ kapitału",
+      "Przemieszczanie się wiedzy technicznej, które prowadzi do zmian jakościowych zachodzących zarówno w poszczególnych krajach, jak i w gospodarce światowej"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał opisuje Agile m.in. przez time-boxing, iteracje, backlog, iteracyjne planowanie i nacisk na jakość/testy oraz udział klienta.",
+    "correctAnswerIndex": 3,
+    "explanation": "Transfer technologii to przemieszczanie się wiedzy technicznej, które prowadzi do zmian jakościowych zachodzących zarówno w poszczególnych krajach, jak i w gospodarce światowej. Międzynarodowy transfer wiedzy technicznej ma miejsce wtedy, gdy określona wiedza dostępna w danym momencie w jednym kraju staje się znana w inny sposób niż całkiem niezależne badania, poszukiwania, gromadzenie doświadczenia etc.",
     "rationales": [
-      "Time-boxing jest wprost wymieniony w materiale jako cecha Agile.",
-      "To cecha podejścia tradycyjnego, nie zwinnego.",
-      "W materiale jest odwrotnie: stałe zaangażowanie przedstawicieli klienta i użytkowników.",
-      "Materiał mówi o trosce o testowanie i najwyższą jakość przyrostów."
+      "Sprzedaż gotowych produktów może zawierać technologię, ale transfer technologii to szersze pojęcie.",
+      "Handel surowcami to przepływ towarów, nie transfer technologii.",
+      "Przepływ kapitału to inna kategoria, choć może towarzyszyć transferowi technologii.",
+      "To dokładna definicja transferu technologii z materiału."
     ]
   },
   {
     "id": 45,
-    "category": "Agile",
-    "question": "Czym jest „backlog” wg opisu w materiale (w kontekście Agile)?",
+    "category": "Kurs walutowy",
+    "question": "Co to jest kurs walutowy?",
     "options": [
-      "Spriorytetyzowany dokument przedstawiający zakres prac do wykonania w iteracjach",
-      "Raport końcowy z audytu projektu",
-      "Lista kosztów niekwalifikowalnych w projekcie UE",
-      "Harmonogram całego projektu w pełnym szczególe od pierwszego dnia"
+      "Tylko cena złota",
+      "Tylko stopa procentowa",
+      "Tylko inflacja",
+      "Wartość waluty danego kraju wyrażona w walucie obcej; cena waluty obcej wyrażona w walucie krajowej; stosunek, w jakim dokonuje się wymiany określonej ilości danej waluty na jednostkę innej waluty"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał: backlog to spriorytetyzowany zakres prac do realizacji w iteracjach; z niego wybiera się pracę do kolejnej iteracji.",
+    "correctAnswerIndex": 3,
+    "explanation": "KURS WALUTOWY to wartość waluty danego kraju wyrażona w walucie obcej; cena waluty obcej wyrażona w walucie krajowej; stosunek, w jakim dokonuje się wymiany określonej ilości danej waluty na jednostkę innej waluty.",
     "rationales": [
-      "To definicja backloga z materiału.",
-      "To inny dokument (audyt), nie backlog.",
-      "To pojęcie z projektów UE, nie z Agile.",
-      "Agile preferuje planowanie iteracyjne „just in time”, a nie pełen szczegółowy plan od początku."
+      "Cena złota to inna kategoria, choć historycznie związana z systemami walutowymi.",
+      "Stopa procentowa to inna kategoria ekonomiczna.",
+      "Inflacja to inna kategoria ekonomiczna.",
+      "To dokładna definicja kursu walutowego z materiału."
     ]
   },
   {
     "id": 46,
-    "category": "Agile",
-    "question": "Jak w materiale opisano rolę klienta w podejściu adaptacyjnym (Agile) względem tradycyjnego?",
+    "category": "Kurs walutowy",
+    "question": "Co to jest aprecjacja waluty?",
     "options": [
-      "W Agile klient jest współodpowiedzialny i stale zaangażowany, a w tradycyjnym jest głównie zleceniodawcą",
-      "W Agile klient nie ma prawa głosu po podpisaniu umowy",
-      "W tradycyjnym klient współtworzy backlog i uczestniczy w demonstracjach co iterację",
-      "W obu podejściach klient zawsze jest całkowicie nieobecny"
+      "Spadek wartości waluty krajowej",
+      "Brak zmian w kursie walutowym",
+      "Tylko zmiana kursu w wyniku decyzji władz",
+      "Wzrost wartości waluty krajowej w stosunku do waluty obcej, np. zmiana kursu z 1 euro = 4,60 PLN na 1 euro = 4,30 PLN"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał porównuje podejścia: w tradycyjnym klient jest zleceniodawcą, a w Agile klient współpracuje, uczestniczy w demonstracjach i wpływa na kierunek produktu.",
+    "correctAnswerIndex": 3,
+    "explanation": "Aprecjacja to wzrost wartości waluty krajowej w stosunku do waluty obcej. Przykład: Zmiana kursu z 1 euro = 4,60 PLN na 1 euro = 4,30 PLN. Skutki: pogorszenie konkurencyjności towarów krajowych za granicą, spadek cen towarów importowanych, wzrost importu/spadek eksportu.",
     "rationales": [
-      "To zgodne z tabelą porównawczą i opisem w materiale.",
-      "W materiale jest odwrotnie: stałe zaangażowanie przedstawicieli klienta.",
-      "Backlog i iteracyjne demonstracje są typowe dla Agile, nie dla tradycyjnego podejścia z kompletnym planem.",
-      "W obu podejściach klient istnieje jako interesariusz; różni się poziom zaangażowania."
+      "Spadek wartości waluty krajowej to deprecjacja, nie aprecjacja.",
+      "Aprecjacja to zmiana kursu, nie jego brak.",
+      "Aprecjacja może być wynikiem działań sił rynkowych lub decyzji władz (rewaluacja).",
+      "To dokładna definicja aprecjacji z materiału wraz z przykładem."
     ]
   },
   {
     "id": 47,
-    "category": "Tradycyjne vs adaptacyjne",
-    "question": "Które zestawienie najlepiej odpowiada porównaniu z materiału: tradycyjne vs adaptacyjne zarządzanie projektem?",
+    "category": "Kurs walutowy",
+    "question": "Co to jest deprecjacja waluty?",
     "options": [
-      "Tradycyjne: jeden cykl i znany zakres; Adaptacyjne: wiele cykli i zmienny zakres",
-      "Tradycyjne: zmienny zakres; Adaptacyjne: zawsze znany zakres",
-      "Tradycyjne: planowanie just in time; Adaptacyjne: kompletny plan od początku",
-      "Tradycyjne: otwartość na zmiany; Adaptacyjne: trudności w zmianach"
+      "Wzrost wartości waluty krajowej",
+      "Brak zmian w kursie walutowym",
+      "Tylko zmiana kursu w wyniku decyzji władz",
+      "Obniżenie siły nabywczej pieniądza krajowego, np. zmiana kursu z 1 euro = 4,50 PLN na 1 euro = 4,70 PLN"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Tabela w materiale: tradycyjne ma jeden cykl i znany zakres, adaptacyjne ma wiele cykli i zmienny zakres.",
+    "correctAnswerIndex": 3,
+    "explanation": "Deprecjacja to obniżenie siły nabywczej pieniądza krajowego. Przykład: Zmiana kursu z 1 euro = 4,50 PLN na 1 euro = 4,70 PLN. Skutki: poprawa konkurencyjności towarów eksportowanych oraz wzrost cen towarów importowanych, spadek importu/wzrost eksportu.",
     "rationales": [
-      "To dokładnie zgodne z tabelą w materiale.",
-      "To odwrotność tego, co w materiale.",
-      "Materiał mówi: tradycyjne = kompletny plan; adaptacyjne = planowanie just in time.",
-      "Materiał mówi: tradycyjne = trudności w zmianach; adaptacyjne = otwartość na zmiany."
+      "Wzrost wartości waluty krajowej to aprecjacja, nie deprecjacja.",
+      "Deprecjacja to zmiana kursu, nie jego brak.",
+      "Deprecjacja może być wynikiem działań sił rynkowych lub decyzji władz (dewaluacja).",
+      "To dokładna definicja deprecjacji z materiału wraz z przykładem."
     ]
   },
   {
     "id": 48,
-    "category": "Uzasadnienie biznesowe i sterowanie",
-    "question": "Jaką rolę pełni „uzasadnienie biznesowe” wg materiału?",
+    "category": "Bilans płatniczy",
+    "question": "Co to jest bilans płatniczy?",
     "options": [
-      "Jest podstawowym dokumentem oceny projektu w każdej fazie i w ocenie końcowej; pozytywna ocena Komitetu Sterującego umożliwia rozpoczęcie realizacji",
-      "To dokument tworzony wyłącznie po zakończeniu projektu jako formalność",
-      "To lista kosztów niekwalifikowalnych dla beneficjenta",
-      "To zamiennik backloga w Agile"
+      "Tylko bilans handlowy (eksport minus import)",
+      "Tylko przepływy kapitałowe",
+      "Tylko rezerwy walutowe",
+      "Zestawienie wszystkich transakcji dokonywanych między rezydentami a resztą świata w danym okresie"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje, że business case jest bazą do decyzji Komitetu Sterującego i oceny projektu na etapach oraz na końcu.",
+    "correctAnswerIndex": 3,
+    "explanation": "Bilans płatniczy to zestawienie wszystkich transakcji dokonywanych między rezydentami a resztą świata w danym okresie.",
     "rationales": [
-      "To opis z materiału (rola business case i Komitetu Sterującego).",
-      "Materiał mówi o roli w każdej fazie, nie tylko po zakończeniu.",
-      "Koszty niekwalifikowalne to inny temat; business case dotyczy sensu i korzyści projektu.",
-      "Backlog to narzędzie Agile, a uzasadnienie biznesowe to dokument decyzyjny i ocenny."
+      "Bilans handlowy to tylko część bilansu płatniczego.",
+      "Przepływy kapitałowe to tylko część bilansu płatniczego.",
+      "Rezerwy walutowe to tylko jeden z elementów bilansu płatniczego.",
+      "To dokładna definicja bilansu płatniczego z materiału."
     ]
   },
   {
     "id": 49,
-    "category": "Program i portfel",
-    "question": "Jak materiał definiuje „zarządzanie programem”?",
+    "category": "Ekonomia międzynarodowa - podstawy",
+    "question": "Która z poniższych cech charakteryzuje ekonomię międzynarodową jako subdyscyplinę?",
     "options": [
-      "Scentralizowane, skoordynowane zarządzanie ukierunkowane na osiągnięcie celów i korzyści strategicznych programu",
-      "Zarządzanie pojedynczym projektem bez powiązań z innymi inicjatywami",
-      "Zarządzanie wyłącznie budżetem programu, bez wpływu na cele i korzyści",
-      "Zarządzanie portfelem projektów w wielu organizacjach jednocześnie"
+      "Zajmuje się współzależnościami gospodarczymi pomiędzy państwami",
+      "Zajmuje się wyłącznie polityką wewnętrzną państw",
+      "Pomija aspekty finansowe w relacjach międzynarodowych",
+      "Nie uwzględnia przepływów czynników produkcji"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "W materiale: zarządzanie programem jest scentralizowane i skoordynowane, nastawione na cele oraz korzyści strategiczne programu.",
+    "explanation": "Ekonomia międzynarodowa zajmuje się współzależnościami gospodarczymi pomiędzy państwami, bada szczegółowo tę część gospodarowania, która ma wymiar międzynarodowy.",
     "rationales": [
-      "To definicja z materiału.",
-      "To opis zarządzania projektem (i to w uproszczeniu), a nie programu.",
-      "Materiał podkreśla cele i korzyści strategiczne, nie tylko budżet.",
-      "Materiał mówi, że portfel jest w ramach jednej organizacji; to nie definicja zarządzania programem."
+      "Współzależności gospodarcze między państwami to kluczowy przedmiot ekonomii międzynarodowej.",
+      "Polityka wewnętrzna to przedmiot innych dyscyplin, nie ekonomii międzynarodowej.",
+      "Aspekty finansowe są ważnym elementem ekonomii międzynarodowej.",
+      "Przepływy czynników produkcji są jednym z głównych obszarów ekonomii międzynarodowej."
     ]
   },
   {
     "id": 50,
-    "category": "Organizacja projektowa",
-    "question": "Co oznacza „podejście holistyczne (całościowe) do wykonywanych projektów” w organizacji projektowej (wg materiału)?",
+    "category": "Ekonomia międzynarodowa - podstawy",
+    "question": "W którym okresie wyodrębniła się ekonomia międzynarodowa w Polsce?",
     "options": [
-      "Uwzględnianie zależności między celami, zasobami, ryzykami i interesariuszami zamiast patrzenia na zadania w izolacji",
-      "Skupienie się wyłącznie na kosztach, ignorując jakość i cele",
-      "Traktowanie każdego projektu jako całkowicie niezależnego od strategii organizacji",
-      "Ograniczenie współpracy między działami, aby uniknąć konfliktów"
+      "Lata 60-te XX wieku",
+      "Lata 20-te XX wieku",
+      "Lata 90-te XX wieku",
+      "Początek XXI wieku"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Holistycznie znaczy „całościowo”: projekt jest analizowany w kontekście wielu elementów naraz (cele, zasoby, otoczenie, interesariusze).",
+    "explanation": "W Polsce początki ekonomii międzynarodowej to lata 60-te XX wieku, podczas gdy subdyscyplina wyodrębniła się z ekonomii w okresie międzywojennym.",
     "rationales": [
-      "To najlepiej oddaje sens podejścia holistycznego wymienionego w materiale.",
-      "To redukuje zarządzanie do jednego wymiaru; materiał mówi o całościowym podejściu.",
-      "Organizacja projektowa dąży do realizacji celów i ciągłego doskonalenia, a nie do izolowania projektów od strategii.",
-      "Materiał wskazuje elastyczność i rozwiązywanie problemów zorientowane na cele, a nie tworzenie silosów."
+      "To dokładna informacja z materiału - lata 60-te XX wieku w Polsce.",
+      "Okres międzywojenny to wyodrębnienie subdyscypliny ogólnie, nie w Polsce.",
+      "Lata 90-te to późniejszy okres, nie początki w Polsce.",
+      "Początek XXI wieku to zbyt późny okres."
     ]
   },
   {
     "id": 51,
-    "category": "Organizacja projektowa",
-    "question": "Jak w materiale rozumiane jest „ciągłe doskonalenie” w organizacji projektowej?",
+    "category": "Gospodarka światowa",
+    "question": "Która z poniższych cech charakteryzuje gospodarkę światową?",
     "options": [
-      "„Robienie rzeczy we właściwy sposób” oraz „robienie właściwych rzeczy”",
-      "Wyłącznie zwiększanie tempa pracy, nawet kosztem jakości",
-      "Unikanie zmian w procesach, aby zachować stabilność",
-      "Ograniczenie dokumentacji do minimum, aby nie tracić czasu"
+      "Kategoria ekonomiczna o charakterze dynamicznym – pewien system znajdujący się w stałym ruchu i rozwoju",
+      "System statyczny bez zmian w czasie",
+      "Obejmuje tylko kraje rozwinięte",
+      "Nie uwzględnia powiązań technologicznych"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wprost tłumaczy ciągłe doskonalenie jako połączenie jakości wykonania i trafności doboru działań.",
+    "explanation": "Gospodarka światowa to kategoria ekonomiczna o charakterze dynamicznym – pewien system znajdujący się w stałym ruchu i rozwoju. Jest także kategorią historyczną - mogła powstać dopiero na określonym poziomie rozwoju historycznego.",
     "rationales": [
-      "To cytat/sens z materiału.",
-      "Zwiększanie tempa kosztem jakości jest sprzeczne z ideą „dobrej roboty” i jakości.",
-      "Ciągłe doskonalenie zakłada poprawianie, a nie unikanie zmian.",
-      "Materiał mówi o standaryzacji procedur i dokumentów, więc „ograniczenie dokumentacji” nie jest tu istotą."
+      "To dokładna cecha gospodarki światowej z materiału - charakter dynamiczny.",
+      "Gospodarka światowa jest dynamiczna, nie statyczna.",
+      "Gospodarka światowa obejmuje wszystkie kraje, nie tylko rozwinięte.",
+      "Powiązania technologiczne są ważnym elementem gospodarki światowej."
     ]
   },
   {
     "id": 52,
-    "category": "Organizacja projektowa",
-    "question": "Który punkt jest wymieniony w materiale jako cecha organizacji projektowej związana z kompetencjami?",
+    "category": "Gospodarka światowa",
+    "question": "Która rewolucja przemysłowa przyniosła przełom ilościowy i jakościowy oraz intensyfikację handlu międzynarodowego?",
     "options": [
-      "Korzystanie z zaawansowanej wiedzy interdyscyplinarnej",
-      "Ograniczanie się do jednej dziedziny wiedzy, aby uniknąć rozproszenia",
-      "Zakaz korzystania z doświadczeń z poprzednich projektów",
-      "Ignorowanie metod i metodyk zarządzania projektami"
+      "I rewolucja przemysłowa (XVIII i XIX wiek)",
+      "II rewolucja przemysłowa",
+      "III rewolucja przemysłowa",
+      "IV rewolucja przemysłowa"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wymienia korzystanie z zaawansowanej wiedzy interdyscyplinarnej jako cechę organizacji projektowej.",
+    "explanation": "I rewolucja przemysłowa (XVIII i XIX wiek) przyniosła przełom ilościowy i jakościowy, intensyfikację handlu międzynarodowego, intensyfikację podziału pracy, trwałe zmiany w strukturze produkcji oraz zmiany w strukturze rolnictwa.",
     "rationales": [
-      "To wprost wymieniona cecha w materiale.",
-      "Materiał podkreśla interdyscyplinarność, a nie ograniczanie.",
-      "Materiał mówi o wykorzystaniu doświadczenia projektowego do tworzenia „nowej wiedzy”.",
-      "Materiał mówi o stosowaniu metod, technik i metodyk PM, więc ignorowanie byłoby sprzeczne."
+      "To dokładna informacja z materiału - I rewolucja przemysłowa.",
+      "II rewolucja przyniosła przyspieszenie postępu technicznego, nie była początkiem intensyfikacji handlu.",
+      "III rewolucja była najważniejszą przyczyną globalizacji, ale intensyfikacja handlu zaczęła się wcześniej.",
+      "IV rewolucja to rewolucja 4.0, która nastąpiła później."
     ]
   },
   {
     "id": 53,
-    "category": "Projekty europejskie (definicja i cechy)",
-    "question": "Który element jest w materiale wskazany jako typowy dla projektów europejskich (w metodyce)?",
+    "category": "Globalizacja - stymulatory i bariery",
+    "question": "Który z poniższych czynników techniczno-organizacyjnych jest stymulatorem globalizacji?",
     "options": [
-      "System monitorowania i ewaluacji projektu",
-      "Brak monitorowania, aby nie „marnować czasu” na raporty",
-      "Zawsze nieograniczony czas realizacji",
-      "Brak jasno określonych celów, bo „cele zmieniają się po drodze”"
+      "Wszelkie ułatwienia transportowe",
+      "Niestabilność przepisów prawa",
+      "Ksenofobia",
+      "Egocentryzm"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "W materiale: projekty europejskie mają system monitorowania i ewaluacji oraz jasno określone cele, czas i budżet.",
+    "explanation": "Czynniki techniczno-organizacyjne takie jak ułatwienia transportowe są stymulatorami globalizacji, podczas gdy niestabilność przepisów prawa, ksenofobia i egocentryzm są barierami.",
     "rationales": [
-      "To element wskazany w materiale jako cecha projektów europejskich.",
-      "To sprzeczne z materiałem (monitoring i ewaluacja są wymagane).",
-      "Materiał mówi o wyznaczonym czasie realizacji, więc nie jest „nieograniczony”.",
-      "Materiał mówi o jasno określonych celach – brak celów przeczyłby definicji projektu."
+      "Ułatwienia transportowe są wymienione w materiale jako stymulatory globalizacji.",
+      "Niestabilność przepisów prawa ma negatywny wpływ i spowalnia globalizację.",
+      "Ksenofobia jest czynnikiem socjopsychologicznym spowalniającym globalizację.",
+      "Egocentryzm jest czynnikiem socjopsychologicznym spowalniającym globalizację."
     ]
   },
   {
     "id": 54,
-    "category": "Projekty europejskie (definicja i cechy)",
-    "question": "Co w materiale oznacza „uzasadnienie ekonomiczne” w projektach europejskich?",
+    "category": "Globalizacja - skutki",
+    "question": "Który z poniższych jest negatywnym skutkiem globalizacji związany z konkurencją?",
     "options": [
-      "Wskazanie korzyści projektu w sposób jednoznaczny",
-      "Opis wyłącznie wydatków niekwalifikowalnych",
-      "Zastąpienie analizy korzyści planem marketingowym",
-      "Wymóg występujący tylko w projektach miękkich"
+      "Zyskują wielkie koncerny kosztem mniejszych przedsiębiorstw",
+      "Większa dostępność do technologii",
+      "Różnorodność towarów",
+      "Wyższy poziom konkurencji"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał: projekt europejski ma uzasadnienie ekonomiczne jednoznacznie wskazujące korzyści projektu.",
+    "explanation": "Negatywnym skutkiem globalizacji jest to, że zyskują wielkie koncerny kosztem mniejszych przedsiębiorstw, co prowadzi do braku różnorodności i wzmożonej konkurencji niekorzystnej dla małych firm.",
     "rationales": [
-      "To zgodne z materiałem.",
-      "To nie jest sens uzasadnienia ekonomicznego.",
-      "Marketing nie zastępuje uzasadnienia ekonomicznego korzyści.",
-      "Materiał nie ogranicza uzasadnienia ekonomicznego tylko do projektów miękkich."
+      "To negatywny skutek globalizacji wymieniony w materiale - zyskują wielkie koncerny.",
+      "Większa dostępność do technologii jest pozytywnym skutkiem globalizacji.",
+      "Różnorodność towarów jest pozytywnym skutkiem globalizacji.",
+      "Wyższy poziom konkurencji może być pozytywny, ale w tym kontekście chodzi o niekorzystną konkurencję dla małych firm."
     ]
   },
   {
     "id": 55,
-    "category": "Ocena ex ante / ex post",
-    "question": "Który zestaw obszarów wykonalności jest wymieniony w materiale dla studium wykonalności (ex ante)?",
+    "category": "Slowbalisation i deglobalizacja",
+    "question": "Które wydarzenia przyspieszyły proces deglobalizacji?",
     "options": [
-      "Systemowe, prawne, ekonomiczne, technologiczne, czasowe, operacyjne, zasobowe (oraz relacje biznesowe)",
-      "Wyłącznie technologiczne (czy da się to zrobić technicznie)",
-      "Wyłącznie finansowe (czy budżet się zgadza)",
-      "Wyłącznie społeczne (czy projekt jest lubiany)"
+      "Kryzys 2008, covid-19, wojna w Ukrainie, napięcia USA-Chiny",
+      "Tylko kryzys 2008",
+      "Tylko covid-19",
+      "Brak takich wydarzeń"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał opisuje wykonalność jako analizę wielowymiarową (systemową, prawną, ekonomiczną, technologiczną, czasową, operacyjną, zasobową) i relacje biznesowe.",
+    "explanation": "Wydarzenia przyspieszające deglobalizację to: kryzys 2008, covid-19, wojna w Ukrainie, napięcia USA-Chiny. Deglobalizacja to odwrót od globalizacji z rosnącą rolą protekcjonizmu, regionalizacji, autarkii.",
     "rationales": [
-      "To zestaw z materiału.",
-      "Technologia jest ważna, ale materiał mówi o wielu wymiarach, nie tylko jednym.",
-      "Finanse to tylko część; materiał mówi też o prawie, zasobach, czasie itd.",
-      "Aspekt społeczny może być ważny, ale nie jest jedynym i nie stanowi definicji wykonalności."
+      "To kompletna lista wydarzeń przyspieszających deglobalizację z materiału.",
+      "Kryzys 2008 to tylko jedno z wydarzeń przyspieszających deglobalizację.",
+      "Covid-19 to tylko jedno z wydarzeń przyspieszających deglobalizację.",
+      "Materiał wymienia konkretne wydarzenia przyspieszające deglobalizację."
     ]
   },
   {
     "id": 56,
-    "category": "Ocena ex ante / ex post",
-    "question": "Jak w materiale nazwano ocenę bieżącą, która oprócz obserwacji teraźniejszości próbuje przewidywać przebieg projektu?",
+    "category": "Podmioty gospodarki światowej",
+    "question": "Kiedy przedsiębiorstwo krajowe staje się podmiotem gospodarki światowej?",
     "options": [
-      "Ocena bieżąca predykcyjna (on-line prediction)",
-      "Ocena ex post finale",
-      "Studium wykonalności",
-      "Konkurs zamknięty"
+      "Gdy w związku ze swoją działalnością gospodarczą nawiązuje znaczące międzynarodowe stosunki gospodarcze z innymi podmiotami",
+      "Gdy działa tylko na rynku krajowym",
+      "Gdy nie ma żadnych kontaktów z zagranicą",
+      "Gdy jest małym przedsiębiorstwem lokalnym"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wyróżnia: ex ante, ex post oraz ocenę bieżącą (on-line) i bieżącą predykcyjną (on-line prediction).",
+    "explanation": "Przedsiębiorstwa krajowe stają się podmiotami gospodarki światowej, gdy w związku ze swoją działalnością gospodarczą nawiązują znaczące pod względem charakteru, znaczenia, zakresu międzynarodowe stosunki gospodarcze z innymi podmiotami.",
     "rationales": [
-      "To pojęcie wprost podane w materiale.",
-      "Ex post finale jest po roku od zakończenia, a nie oceną bieżącą.",
-      "Studium wykonalności to ex ante (przed projektem).",
-      "Konkurs to tryb naboru, nie metoda oceny projektu."
+      "To dokładny warunek z materiału - nawiązanie znaczących stosunków międzynarodowych.",
+      "Działanie tylko na rynku krajowym nie czyni przedsiębiorstwa podmiotem gospodarki światowej.",
+      "Brak kontaktów z zagranicą wyklucza bycie podmiotem gospodarki światowej.",
+      "Wielkość przedsiębiorstwa nie jest decydująca - ważne są międzynarodowe stosunki gospodarcze."
     ]
   },
   {
     "id": 57,
-    "category": "Ewaluacja KE",
-    "question": "Które kryterium KE (wg materiału) dotyczy oceny działań i rezultatów w kontekście osiągnięcia celów projektu oraz zabezpieczenia potrzeb beneficjentów?",
+    "category": "Międzynarodowy Fundusz Walutowy",
+    "question": "Ile krajów jest obecnie członkami MFW?",
     "options": [
-      "Skuteczność (effectiveness)",
-      "Zgodność (relevance)",
-      "Efektywność (efficiency)",
-      "Zbalansowanie/Trwałość (sustainability)"
+      "190",
+      "189",
+      "164",
+      "36"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "W materiale effectiveness dotyczy tego, w jakim stopniu działania i rezultaty doprowadziły do osiągnięcia celów oraz czy zabezpieczono potrzeby beneficjentów.",
+    "explanation": "Liczba członków MFW to 190. Polska znalazła się wśród krajów założycielskich MFW, jednak w 1950 r. wystąpiła z niego i przystąpiła ponownie.",
     "rationales": [
-      "To opis effectiveness z materiału.",
-      "Relevance dotyczy dopasowania celów do potrzeb/prior., a nie stopnia osiągnięcia celów.",
-      "Efficiency dotyczy relacji nakładów do wyników i gospodarowania zasobami.",
-      "Sustainability dotyczy utrzymania efektów po zamknięciu projektu."
+      "To dokładna liczba członków MFW z materiału - 190.",
+      "189 to liczba członków Banku Światowego, nie MFW.",
+      "164 to liczba członków WTO, nie MFW.",
+      "36 to liczba członków OECD, nie MFW."
     ]
   },
   {
     "id": 58,
-    "category": "Ewaluacja KE",
-    "question": "Jaka jest najprostsza różnica między effectiveness i efficiency w kryteriach KE (wg materiału)?",
+    "category": "Bank Światowy",
+    "question": "Ile krajów jest obecnie członkami Banku Światowego?",
     "options": [
-      "Effectiveness: czy osiągnięto cele; Efficiency: jak racjonalnie wykorzystano zasoby (czas/koszt/jakość) w relacji nakładów do wyników",
-      "Effectiveness: tylko koszty; Efficiency: tylko harmonogram",
-      "Effectiveness: trwałość efektów po roku; Efficiency: dopasowanie do potrzeb",
-      "Nie ma różnicy – to synonimy"
+      "189",
+      "190",
+      "164",
+      "36"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał rozróżnia: effectiveness = osiągnięcie celów i rezultatów, efficiency = racjonalne gospodarowanie zasobami i relacja nakładów do wyników.",
+    "explanation": "Liczba członków Banku Światowego to 189 krajów. Polska była wśród państw-założycieli Banku, jednak w 1950 r. wypowiedziała członkostwo, a do umowy ponownie przystąpiła w 1986 roku.",
     "rationales": [
-      "To zgodne z opisami obu kryteriów w materiale.",
-      "To zbyt wąskie i niezgodne z materiałem.",
-      "Trwałość to sustainability, a dopasowanie do potrzeb to relevance.",
-      "Materiał wyraźnie opisuje różne znaczenia."
+      "To dokładna liczba członków Banku Światowego z materiału - 189.",
+      "190 to liczba członków MFW, nie Banku Światowego.",
+      "164 to liczba członków WTO, nie Banku Światowego.",
+      "36 to liczba członków OECD, nie Banku Światowego."
     ]
   },
   {
     "id": 59,
-    "category": "Ocena ex ante / ex post",
-    "question": "Po co w materiale przewidziano dodatkową ocenę ex post finale?",
+    "category": "WTO",
+    "question": "Ile państw należy obecnie do WTO?",
     "options": [
-      "Aby po czasie (min. rok) ocenić trwałość parametrów miękkich: jakość, efekty strategiczne i społeczne",
-      "Aby zdecydować, czy w ogóle rozpoczynać projekt",
-      "Aby wybrać instytucję zarządzającą programem",
-      "Aby utworzyć backlog na kolejną iterację"
+      "164",
+      "189",
+      "190",
+      "36"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał: ex post finale pozwala ocenić trwałość efektów i parametrów miękkich po upływie czasu od zakończenia projektu.",
+    "explanation": "Do WTO należy 164 państwa, w tym Polska. Członkiem WTO może zostać każde państwo lub 'odrębne terytorium celne posiadające pełną autonomię w prowadzeniu swych zewnętrznych stosunków handlowych'.",
     "rationales": [
-      "To bezpośrednio wynika z materiału.",
-      "To rola oceny ex ante (feasibility study), nie ex post.",
-      "To kwestia wdrażania programów, nie oceny ex post projektu.",
-      "Backlog to pojęcie Agile, nie metoda oceny ex post."
+      "To dokładna liczba członków WTO z materiału - 164.",
+      "189 to liczba członków Banku Światowego, nie WTO.",
+      "190 to liczba członków MFW, nie WTO.",
+      "36 to liczba członków OECD, nie WTO."
     ]
   },
   {
     "id": 60,
-    "category": "Fundusze UE",
-    "question": "Jaki cel ma Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) wg materiału?",
+    "category": "OECD",
+    "question": "Ile krajów jest obecnie członkami OECD?",
     "options": [
-      "Wsparcie obszarów wiejskich UE i pomoc w rozwiązywaniu konkretnych problemów europejskiej wsi",
-      "Wsparcie zrównoważonych praktyk połowowych",
-      "Wsparcie zatrudnienia i inwestycja w kapitał ludzki",
-      "Wsparcie transportu i ochrony środowiska w krajach < 90% DNB per capita średniej UE"
+      "36",
+      "164",
+      "189",
+      "190"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał opisuje EFRROW jako fundusz wspierający rozwój obszarów wiejskich UE i rozwiązywanie problemów wsi.",
+    "explanation": "OECD ma obecnie 36 członków, Polska od 1996 roku. OECD powstała na mocy Konwencji Paryskiej z 14.12.1960 r., działalność rozpoczęła 30.04.1961 r.",
     "rationales": [
-      "To opis EFRROW z materiału.",
-      "To opis EFMR, nie EFRROW.",
-      "To opis EFS, nie EFRROW.",
-      "To opis Funduszu Spójności (FS), nie EFRROW."
+      "To dokładna liczba członków OECD z materiału - 36.",
+      "164 to liczba członków WTO, nie OECD.",
+      "189 to liczba członków Banku Światowego, nie OECD.",
+      "190 to liczba członków MFW, nie OECD."
     ]
   },
   {
     "id": 61,
-    "category": "Fundusze UE",
-    "question": "Jaki cel ma Europejski Fundusz Morski i Rybacki (EFMR) wg materiału?",
+    "category": "Handel zagraniczny i międzynarodowy",
+    "question": "Co to jest eksport?",
     "options": [
-      "Wsparcie rybaków w przejściu na zrównoważone praktyki połowowe oraz dywersyfikacji społeczności przybrzeżnych",
-      "Wsparcie rozwoju regionalnego w całej UE",
-      "Wsparcie rynku pracy i kapitału ludzkiego",
-      "Wsparcie inwestycji infrastrukturalnych wymagających studium wykonalności"
+      "Sprzedaż i wywóz za granicę dóbr i usług wytworzonych w danym kraju",
+      "Zakup i przywóz do danego kraju dóbr i usług wytworzonych poza jego granicami",
+      "Tylko handel wewnętrzny w obrębie kraju",
+      "Tylko handel surowcami"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał: EFMR wspiera zrównoważone praktyki połowowe oraz dywersyfikację społeczności przybrzeżnych.",
+    "explanation": "Eksport to sprzedaż i wywóz za granicę dóbr i usług wytworzonych w danym kraju.",
     "rationales": [
-      "To opis EFMR z materiału.",
-      "To opis EFRR.",
-      "To opis EFS.",
-      "To opis projektów twardych (rodzaj projektu), a nie funduszu EFMR."
+      "To dokładna definicja eksportu z materiału.",
+      "To definicja importu, nie eksportu.",
+      "Eksport dotyczy handlu z zagranicą, nie wewnętrznego.",
+      "Eksport dotyczy wszystkich dóbr i usług, nie tylko surowców."
     ]
   },
   {
     "id": 62,
-    "category": "Prawo i uwarunkowania",
-    "question": "Jaką zmianę (wg materiału) powiązano z możliwością wsparcia projektów z funduszy unijnych w Polsce?",
+    "category": "Handel zagraniczny i międzynarodowy",
+    "question": "Co to jest import?",
     "options": [
-      "Dostosowanie modelu samorządu terytorialnego do standardów Europejskiej Karty Samorządu Lokalnego",
-      "Wprowadzenie obowiązku pracy zdalnej w administracji",
-      "Zniesienie zasady zrównoważonego rozwoju w Konstytucji",
-      "Zastąpienie oceny ex ante oceną ex post"
+      "Zakup i przywóz do danego kraju dóbr i usług wytworzonych poza jego granicami",
+      "Sprzedaż i wywóz za granicę dóbr i usług wytworzonych w danym kraju",
+      "Tylko handel wewnętrzny",
+      "Tylko handel usługami"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje na znaczenie dostosowania samorządu do standardów Europejskiej Karty Samorządu Lokalnego jako element umożliwiający wsparcie z funduszy UE.",
+    "explanation": "Import to zakup i przywóz do danego kraju dóbr i usług wytworzonych poza jego granicami. Analiza polskiego eksportu i importu to handel zagraniczny naszego kraju.",
     "rationales": [
-      "To wprost opisane w materiale.",
-      "To nie jest temat poruszany jako warunek wsparcia projektów z UE.",
-      "Materiał mówi o zasadzie zrównoważonego rozwoju jako ważnej normie programowej, nie o jej zniesieniu.",
-      "To nie jest zależność opisana w materiale."
+      "To dokładna definicja importu z materiału.",
+      "To definicja eksportu, nie importu.",
+      "Import dotyczy handlu z zagranicą, nie wewnętrznego.",
+      "Import dotyczy zarówno dóbr, jak i usług, nie tylko usług."
     ]
   },
   {
     "id": 63,
-    "category": "Prawo i Konstytucja",
-    "question": "Który artykuł Konstytucji RP jest w materiale wskazany jako opisujący społeczną gospodarkę rynkową?",
+    "category": "Przyczyny importu i eksportu",
+    "question": "Która z poniższych jest przyczyną importu związana z warunkami naturalnymi?",
     "options": [
-      "Art. 20",
-      "Art. 5",
-      "Art. 32",
-      "Art. 1"
+      "Brak określonych towarów z powodu warunków naturalnych (zasoby) lub klimatycznych",
+      "Nadwyżki produkcyjne w kraju",
+      "Chęć uzyskania dewiz",
+      "Kreacja nowych miejsc pracy"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje art. 20 jako przepis opisujący społeczną gospodarkę rynkową opartą m.in. na wolności działalności gospodarczej i dialogu partnerów społecznych.",
+    "explanation": "Przyczyny rozwoju importu obejmują trwały brak określonych towarów, który nie może być nigdy usunięty - występowanie importu niezbędnego z powodu warunków naturalnych (zasoby) lub warunków klimatycznych.",
     "rationales": [
-      "To zgodne z materiałem.",
-      "Art. 5 jest przywołany w kontekście zrównoważonego rozwoju i ochrony środowiska.",
-      "Art. 32 dotyczy zasady równości.",
-      "Art. 1 nie jest wskazany w materiale w tym kontekście."
+      "To przyczyna importu wymieniona w materiale - warunki naturalne i klimatyczne.",
+      "Nadwyżki produkcyjne są przyczyną eksportu, nie importu.",
+      "Chęć uzyskania dewiz jest przyczyną eksportu, nie importu.",
+      "Kreacja miejsc pracy jest przyczyną eksportu, nie importu."
     ]
   },
   {
     "id": 64,
-    "category": "Prawo i Konstytucja",
-    "question": "Która zasada konstytucyjna (wg materiału) wspiera ideę równego traktowania podmiotów w podobnej sytuacji i odmiennego w odmiennej?",
+    "category": "Przyczyny importu i eksportu",
+    "question": "Która z poniższych jest przyczyną eksportu związana z uzyskaniem dewiz?",
     "options": [
-      "Zasada równości (art. 32 ust. 1 Konstytucji RP)",
-      "Zasada zrównoważonego rozwoju (art. 5)",
-      "Zasada time-boxingu (Agile)",
-      "Zasada zakazu podwójnego finansowania"
+      "Chęć uzyskania dewiz",
+      "Brak towarów w kraju eksportującym",
+      "Zamknięcie rynków zagranicznych",
+      "Brak możliwości produkcji"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał przywołuje art. 32 ust. 1 Konstytucji RP jako podstawę zasady równości (w znaczeniu materialnym).",
+    "explanation": "Przyczyny eksportu to m.in.: zbyt duże nadwyżki produkcyjne, chęć uzyskania dewiz, kreacja nowych miejsc pracy, kooperacja zaopatrzeniowa, obowiązywanie określonych umów handlowych.",
     "rationales": [
-      "To zgodne z materiałem.",
-      "Art. 5 dotyczy m.in. ochrony środowiska i zrównoważonego rozwoju, nie zasady równości.",
-      "Time-boxing to pojęcie Agile, nie zasada konstytucyjna.",
-      "Zakaz podwójnego finansowania dotyczy rozliczeń, nie prawa konstytucyjnego o równości."
+      "Chęć uzyskania dewiz jest wymieniona w materiale jako przyczyna eksportu.",
+      "Brak towarów w kraju byłby przyczyną importu, nie eksportu.",
+      "Zamknięcie rynków zagranicznych utrudnia eksport, nie jest jego przyczyną.",
+      "Brak możliwości produkcji uniemożliwia eksport, nie jest jego przyczyną."
     ]
   },
   {
     "id": 65,
-    "category": "Prawo i uwarunkowania",
-    "question": "Z jakich źródeł (wg materiału) dofinansowywane są projekty w Polsce?",
+    "category": "Teorie przedklasyczne",
+    "question": "Który filozof najpełniej ujął zasady dogmatu słusznej ceny w XIII wieku?",
     "options": [
-      "Z państwowych lub regionalnych programów wsparcia, a po wejściu Polski do UE także z funduszy europejskich",
-      "Wyłącznie z funduszy europejskich (bez środków krajowych)",
-      "Wyłącznie z prywatnych darowizn przedsiębiorców",
-      "Wyłącznie z podatku VAT"
+      "Św. Tomasz z Akwinu",
+      "Adam Smith",
+      "David Ricardo",
+      "John Maynard Keynes"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje, że projekty są dofinansowywane z programów wsparcia krajowych/regionalnych, a po akcesji również z funduszy UE.",
+    "explanation": "Zasady dogmatu słusznej ceny w XIII w. najpełniej ujął św. Tomasz z Akwinu. Dogmat głosi, że towar ma być sprzedany po słusznej cenie – nie wyższej oraz nie niższej, podyktowanej kosztami jego wytworzenia.",
     "rationales": [
-      "To opis z materiału.",
-      "Materiał mówi także o programach krajowych i regionalnych.",
-      "To nie jest opisane jako podstawowy mechanizm finansowania projektów.",
-      "VAT to podatek, nie podstawowe źródło dofinansowania projektów."
+      "To dokładna informacja z materiału - św. Tomasz z Akwinu w XIII wieku.",
+      "Adam Smith żył w XVIII wieku i był przedstawicielem teorii klasycznej.",
+      "David Ricardo żył w XVIII-XIX wieku i był przedstawicielem teorii klasycznej.",
+      "John Maynard Keynes żył w XX wieku i był przedstawicielem ekonomii keynesowskiej."
     ]
   },
   {
     "id": 66,
-    "category": "Koszty i kwalifikowalność",
-    "question": "Który przykład najlepiej ilustruje naruszenie zakazu podwójnego finansowania?",
+    "category": "Teorie klasyczne",
+    "question": "Który ekonomista jest autorem teorii kosztów absolutnych?",
     "options": [
-      "Ten sam wydatek (ta sama faktura) zostaje zrefundowany jednocześnie ze środków krajowych i z funduszy UE",
-      "Beneficjent realizuje dwa różne projekty w tym samym czasie",
-      "Beneficjent ma wkład własny i dotację UE",
-      "Projekt ma koszty kwalifikowalne i niekwalifikowalne"
+      "Adam Smith",
+      "David Ricardo",
+      "Heckscher i Ohlin",
+      "Paul Samuelson"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Zakaz podwójnego finansowania dotyczy sytuacji, w której identyczny wydatek jest refundowany z dwóch źródeł.",
+    "explanation": "Teoria kosztów absolutnych została sformułowana przez Adama Smitha. Zakłada ona, że kraje specjalizują się w produkcji towarów, w których mają absolutną przewagę kosztową.",
     "rationales": [
-      "To istota zakazu z materiału: nie wolno refundować tego samego wydatku z dwóch źródeł.",
-      "Równoległe projekty są dopuszczalne, jeśli spełnione są warunki i nie ma podwójnej refundacji.",
-      "Wkład własny + dotacja to standard; zakaz dotyczy refundacji tego samego wydatku dwa razy.",
-      "To normalne w projektach; nie jest to naruszenie zakazu."
+      "Adam Smith jest autorem teorii kosztów absolutnych.",
+      "David Ricardo jest autorem teorii kosztów komparatywnych, nie absolutnych.",
+      "Heckscher i Ohlin są autorami teorii obfitości zasobów (H-O), nie kosztów absolutnych.",
+      "Paul Samuelson jest autorem teorematu wyrównania się cen czynników produkcji, nie teorii kosztów absolutnych."
     ]
   },
   {
     "id": 67,
-    "category": "Projekty UE (konkursy)",
-    "question": "Jaka jest kluczowa różnica między konkursem otwartym a zamkniętym wg materiału?",
+    "category": "Teorie klasyczne",
+    "question": "Który ekonomista jest autorem teorii kosztów komparatywnych (względnych)?",
     "options": [
-      "Otwarty jest ciągły do wyczerpania środków, a zamknięty ma określone okno czasowe naboru",
-      "Otwarty jest tylko dla wybranych, a zamknięty dla wszystkich",
-      "Zamknięty nie ma żadnego terminu, a otwarty ma zawsze 30 dni",
-      "Nie ma różnicy – to dwa określenia tego samego trybu"
+      "David Ricardo",
+      "Adam Smith",
+      "Heckscher i Ohlin",
+      "Paul Samuelson"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał: konkurs otwarty jest ciągły do wyczerpania środków, a konkurs zamknięty ma ograniczenie terminem.",
+    "explanation": "Teoria kosztów komparatywnych (względnych) została sformułowana przez Davida Ricarda. Głosi ona, że wymiana międzynarodowa jest możliwa również wtedy, gdy dany kraj ma przewagę w kosztach wszystkich produktów - ważne są koszty względne.",
     "rationales": [
-      "To najważniejsza różnica opisana w materiale.",
-      "Materiał mówi o otwartym jako publicznym i powszechnym, nie „tylko dla wybranych”.",
-      "30 dni minimalnego okna dotyczy konkursu zamkniętego; otwarty jest ciągły.",
-      "Materiał opisuje wyraźną różnicę."
+      "David Ricardo jest autorem teorii kosztów komparatywnych.",
+      "Adam Smith jest autorem teorii kosztów absolutnych, nie komparatywnych.",
+      "Heckscher i Ohlin są autorami teorii obfitości zasobów (H-O), nie kosztów komparatywnych.",
+      "Paul Samuelson jest autorem teorematu wyrównania się cen czynników produkcji, nie teorii kosztów komparatywnych."
     ]
   },
   {
     "id": 68,
-    "category": "Projekty UE (instytucje)",
-    "question": "Za co (wg materiału) odpowiada Instytucja Pośrednicząca (IP)?",
+    "category": "Teorie neoklasyczne",
+    "question": "Który ekonomista jest autorem teorematu wyrównania się cen czynników produkcji?",
     "options": [
-      "Za poszczególne priorytety programu, podlegając Instytucji Zarządzającej (IZ)",
-      "Za całość programu operacyjnego",
-      "Wyłącznie za prywatne projekty bez udziału funduszy UE",
-      "Wyłącznie za ocenę ex post finale"
+      "Paul Samuelson",
+      "Heckscher i Ohlin",
+      "David Ricardo",
+      "Adam Smith"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał: IP (np. ministerstwa, urzędy marszałkowskie) podlega IZ i odpowiada za poszczególne priorytety.",
+    "explanation": "Teoremat wyrównania się cen czynników produkcji został sformułowany przez P. Samuelsona. Mówi on, że specjalizacja krajów może mieć wpływ na ceny czynników produkcji, prowadząc do wyrównywania się cen czynników produkcji między krajami.",
     "rationales": [
-      "To opis roli IP w materiale.",
-      "Za całość programu odpowiada IZ.",
-      "IP działa w systemie wdrażania programów, a nie wyłącznie w projektach prywatnych.",
-      "Ocena ex post finale to metoda oceny projektu, a nie zadanie instytucji pośredniczącej jako definicja."
+      "Paul Samuelson jest autorem teorematu wyrównania się cen czynników produkcji.",
+      "Heckscher i Ohlin są autorami teorii obfitości zasobów (H-O), nie teorematu Samuelsona.",
+      "David Ricardo jest autorem teorii kosztów komparatywnych, nie teorematu Samuelsona.",
+      "Adam Smith jest autorem teorii kosztów absolutnych, nie teorematu Samuelsona."
     ]
   },
   {
     "id": 69,
-    "category": "Projekty UE (instytucje)",
-    "question": "Jakie elementy instytucjonalne wdrażania programów operacyjnych wymienia materiał?",
+    "category": "Teorie współczesne",
+    "question": "Co to jest teoria przewag konkurencyjnych Portera (Diamond Model)?",
     "options": [
-      "Instytucja Zarządzająca (IZ), Instytucja Pośrednicząca (IP), IP2 / Instytucja Wdrażająca (IW)",
-      "Wyłącznie beneficjent i wykonawca",
-      "Tylko Komitet Sterujący i PMO",
-      "Tylko Trybunał Konstytucyjny i Sejm"
+      "Przewaga kraju wynika z czterech powiązanych czynników: czynniki produkcji, warunki popytu, branże pokrewne i wspierające, strategia i struktura firm",
+      "Przewaga wynika tylko z taniej siły roboczej",
+      "Przewaga wynika tylko z zasobów naturalnych",
+      "Przewaga wynika tylko z wielkości kraju"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje strukturę: IZ (całość programu), IP (priorytety) oraz IP2/IW (kontakty z beneficjentami).",
+    "explanation": "Teoria przewag konkurencyjnych Portera (Diamond Model) głosi, że przewaga kraju wynika z czterech powiązanych czynników tworzących 'diament': czynniki produkcji (jakość kapitału ludzkiego, technologie, infrastruktura), warunki popytu (wymagający rynek krajowy), branże pokrewne i wspierające (sieć dostawców), strategia, struktura i rywalizacja firm (konkurencja wewnętrzna).",
     "rationales": [
-      "To zestaw instytucji wymieniony w materiale.",
-      "To zbyt wąskie i nie odpowiada strukturze wdrażania programu.",
-      "To role z zarządzania projektami, ale nie są wskazane jako system wdrażania programu operacyjnego.",
-      "To instytucje państwowe, ale nie ten kontekst."
+      "To dokładna definicja teorii Portera z materiału - cztery czynniki tworzące diament.",
+      "Tania siła robocza to tylko jeden z możliwych czynników produkcji, nie cała teoria.",
+      "Zasoby naturalne to tylko jeden z możliwych czynników produkcji, nie cała teoria.",
+      "Wielkość kraju nie jest kluczowym czynnikiem w teorii Portera."
     ]
   },
   {
     "id": 70,
-    "category": "Agile",
-    "question": "Co w materiale oznacza „planowanie iteracyjne” w Agile?",
+    "category": "Protekcjonizm vs wolny handel",
+    "question": "Który z poniższych jest argumentem ekonomicznym na rzecz protekcjonizmu?",
     "options": [
-      "Deklarację pracy do wykonania na podstawie elementów backloga przypisywanych do danej iteracji",
-      "Ułożenie pełnego planu szczegółowego na cały projekt i zakaz jego zmian",
-      "Planowanie wyłącznie kosztów niekwalifikowalnych",
-      "Planowanie tylko po zakończeniu projektu"
+      "Ochrona nowo powstających gałęzi przemysłu",
+      "Korzyści wynikające ze specjalizacji międzygałęziowej",
+      "Korzyści skali produkcji",
+      "Obniżenie stopy inflacji"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał: planowanie iteracyjne polega na wybieraniu i deklarowaniu pracy do iteracji na podstawie spriorytetyzowanego backloga.",
+    "explanation": "Argumenty na rzecz protekcjonizmu o charakterze ekonomicznym to m.in.: ochrona nowo powstających gałęzi przemysłu, groźba zniszczenia rynku krajowego, ochrona bilansu płatniczego, ochrona zatrudnienia i dochodów, przeciwdziałanie zakłóceniom na rynkach czynników produkcji, bezpieczeństwo ekonomiczne państwa.",
     "rationales": [
-      "To opis z materiału.",
-      "To bliższe tradycyjnemu podejściu, a materiał mówi o „just in time” i otwartości na zmiany.",
-      "To temat projektów UE, nie definicja planowania iteracyjnego.",
-      "Planowanie w Agile jest cykliczne w trakcie projektu, nie dopiero po zakończeniu."
+      "Ochrona nowo powstających gałęzi przemysłu jest wymieniona w materiale jako argument za protekcjonizmem.",
+      "Korzyści ze specjalizacji to argument za wolnym handlem, nie protekcjonizmem.",
+      "Korzyści skali to argument za wolnym handlem, nie protekcjonizmem.",
+      "Obniżenie stopy inflacji to argument za wolnym handlem, nie protekcjonizmem."
     ]
   },
   {
     "id": 71,
-    "category": "Agile",
-    "question": "Które stwierdzenie o wymaganiach i projektowaniu w Agile jest zgodne z materiałem?",
+    "category": "Protekcjonizm vs wolny handel",
+    "question": "Który z poniższych jest argumentem ekonomicznym na rzecz wolnego handlu?",
     "options": [
-      "Wymagania, projektowanie i produkt powstają w miarę ewoluowania projektu",
-      "Wymagania muszą być kompletne i niezmienne przed startem prac",
-      "Projektowanie jest zabronione w Agile",
-      "Produkt nie powinien być demonstrowany interesariuszom aż do końca projektu"
+      "Korzyści wynikające ze specjalizacji międzygałęziowej",
+      "Ochrona nowo powstających gałęzi przemysłu",
+      "Groźba zniszczenia rynku krajowego",
+      "Ochrona bilansu płatniczego"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wprost: wymagania, projektowanie i produkt powstają w miarę ewoluowania projektu (iteracyjnie).",
+    "explanation": "Argumenty na rzecz swobody handlu o charakterze ekonomicznym to m.in.: korzyści wynikające ze specjalizacji międzygałęziowej, korzyści skali produkcji, korzyści ze wzrostu konkurencji, pobudzenie ekspansji inwestycji kapitałowych i technologicznych, obniżenie stopy inflacji.",
     "rationales": [
-      "To cytat/sens z materiału.",
-      "To cecha podejścia tradycyjnego z „znanym zakresem” i pełnym planem.",
-      "Agile nie zabrania projektowania – ono zachodzi iteracyjnie.",
-      "Materiał mówi o okresowych i końcowych demonstracjach produktu z udziałem klienta/użytkowników."
+      "Korzyści ze specjalizacji to argument za wolnym handlem wymieniony w materiale.",
+      "Ochrona nowo powstających gałęzi to argument za protekcjonizmem, nie wolnym handlem.",
+      "Groźba zniszczenia rynku krajowego to argument za protekcjonizmem, nie wolnym handlem.",
+      "Ochrona bilansu płatniczego to argument za protekcjonizmem, nie wolnym handlem."
     ]
   },
   {
     "id": 72,
-    "category": "Agile",
-    "question": "Co jest w materiale wskazane jako typowy sposób dostarczania rezultatów w Agile?",
+    "category": "Cło",
+    "question": "Jakie są rodzaje ceł ze względu na sposób traktowania partnera?",
     "options": [
-      "Regularnie dostarczane przyrosty działającego oprogramowania",
-      "Jeden duży „big bang release” dopiero na samym końcu",
-      "Dostarczanie tylko dokumentacji, bez działającego produktu",
-      "Dostarczanie wyników wyłącznie po audycie ex post finale"
+      "Preferencyjne, antydumpingowe lub wyrównawcze, odwetowe (retorsyjne), prohibicyjne",
+      "Tylko importowe",
+      "Tylko eksportowe",
+      "Tylko tranzytowe"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał podkreśla regularne przyrosty działającego oprogramowania jako cechę podejścia zwinnego.",
+    "explanation": "Rodzaje ceł ze względu na sposób traktowania partnera to: preferencyjne, antydumpingowe lub wyrównawcze, odwetowe (retorsyjne), prohibicyjne.",
     "rationales": [
-      "To cecha Agile wymieniona w materiale.",
-      "To przeciwieństwo iteracyjnego dostarczania przyrostów.",
-      "Materiał mówi o działających przyrostach i jakości, nie tylko o dokumentacji.",
-      "Ocena ex post finale to metoda oceny po projekcie, nie warunek dostarczania."
+      "To kompletna lista rodzajów ceł ze względu na sposób traktowania partnera z materiału.",
+      "Importowe to rodzaj z punktu widzenia ruchu towarów, nie sposób traktowania partnera.",
+      "Eksportowe to rodzaj z punktu widzenia ruchu towarów, nie sposób traktowania partnera.",
+      "Tranzytowe to rodzaj z punktu widzenia ruchu towarów, nie sposób traktowania partnera."
     ]
   },
   {
     "id": 73,
-    "category": "Tradycyjne vs adaptacyjne",
-    "question": "Jak materiał porównuje strukturę podziału pracy (WBS/struktura pracy) w podejściu tradycyjnym i adaptacyjnym?",
+    "category": "Cło",
+    "question": "Jakie są rodzaje ceł ze względu na ekonomiczny charakter cła?",
     "options": [
-      "Tradycyjne: kompletna struktura podziału pracy; Adaptacyjne: średnio- i niskopoziomowa struktura pracy",
-      "Tradycyjne: brak struktury pracy; Adaptacyjne: zawsze kompletna WBS od początku",
-      "Oba podejścia: identyczna struktura pracy i identyczny poziom szczegółu",
-      "Adaptacyjne: kompletna WBS, bo backlog nie istnieje"
+      "Fiskalne i ochronne (protekcyjne)",
+      "Tylko importowe",
+      "Tylko eksportowe",
+      "Tylko preferencyjne"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "W tabeli porównawczej materiał wskazuje: tradycyjne ma kompletną WBS, adaptacyjne działa bardziej „warstwowo” (średnio/nisko) w miarę potrzeb.",
+    "explanation": "Rodzaje ceł ze względu na ekonomiczny charakter cła to: fiskalne (głównie dla dochodów budżetu) oraz ochronne (protekcyjne - chroniące produkcję krajową).",
     "rationales": [
-      "To zgodne z tabelą w materiale.",
-      "To niezgodne z materiałem.",
-      "Materiał pokazuje różnice, więc to nieprawda.",
-      "Backlog jest w materiale opisany jako element Agile/adaptacyjnego podejścia."
+      "To kompletna lista rodzajów ceł ze względu na ekonomiczny charakter z materiału.",
+      "Importowe to rodzaj z punktu widzenia ruchu towarów, nie ekonomiczny charakter.",
+      "Eksportowe to rodzaj z punktu widzenia ruchu towarów, nie ekonomiczny charakter.",
+      "Preferencyjne to rodzaj ze względu na sposób traktowania partnera, nie ekonomiczny charakter."
     ]
   },
   {
     "id": 74,
-    "category": "Tradycyjne vs adaptacyjne",
-    "question": "Który opis zmian (change) pasuje do podejścia tradycyjnego wg materiału?",
+    "category": "Bezpośrednie inwestycje zagraniczne",
+    "question": "Jaki jest minimalny udział w spółce wymagany, aby inwestycja została uznana za bezpośrednią według OECD i MFW?",
     "options": [
-      "Trudności w wprowadzaniu zmian",
-      "Otwartość na zmiany",
-      "Brak planu, bo wszystko jest improwizacją",
-      "Zmiany są niemożliwe, bo projekt nie ma celu"
+      "10%",
+      "25%",
+      "50%",
+      "75%"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał porównuje: tradycyjne = trudności w zmianach; adaptacyjne = otwartość na zmiany.",
+    "explanation": "Według OECD i MFW inwestycja może być uznana za bezpośrednią, jeśli w jej wyniku udział inwestora w spółce jest nie mniejszy niż 10% (zakup 10% pakietu akcji lub udziałów) – oczywiście niezbędne jest też posiadanie kontroli nad spółką.",
     "rationales": [
-      "To cecha podejścia tradycyjnego w tabeli.",
-      "To cecha podejścia adaptacyjnego, nie tradycyjnego.",
-      "Materiał mówi o kompletnym planie w tradycyjnym, nie o improwizacji.",
-      "To nielogiczne i nie wynika z materiału."
+      "To dokładna informacja z materiału - minimum 10% udziału.",
+      "25% to zbyt wysoki próg - materiał mówi o 10%.",
+      "50% to zbyt wysoki próg - materiał mówi o 10%.",
+      "75% to zbyt wysoki próg - materiał mówi o 10%."
     ]
   },
   {
     "id": 75,
-    "category": "Projekty UE (pojęcia)",
-    "question": "Co najlepiej oddaje sens pojęcia „cross-financing / elastyczne finansowanie” w projektach UE?",
+    "category": "Bezpośrednie inwestycje zagraniczne",
+    "question": "Które z poniższych są motywami bezpośrednich inwestycji zagranicznych?",
     "options": [
-      "Możliwość finansowania w ograniczonym zakresie elementów typowych dla innego typu wsparcia, jeśli zasady programu na to pozwalają (np. drobna infrastruktura w projekcie miękkim)",
-      "Zakaz łączenia jakichkolwiek kategorii wydatków w jednym projekcie",
-      "Refundowanie tego samego wydatku z dwóch źródeł",
-      "Finansowanie projektu wyłącznie ze środków własnych beneficjenta"
+      "Zaopatrzeniowe, rynkowe, kosztowe, polityczne, strategiczne",
+      "Tylko zaopatrzeniowe",
+      "Tylko rynkowe",
+      "Tylko kosztowe"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "„Elastyczne finansowanie” (cross-financing) oznacza dopuszczalne, limitowane „mieszanie” typów wydatków w ramach projektu, gdy regulamin programu na to pozwala.",
+    "explanation": "Motywy BIZ (bezpośrednie inwestycje zagraniczne) - przyczyny, które powodują, że przedsiębiorstwo podejmuje działalność poza granicami kraju, w którym ma siedzibę: zaopatrzeniowe, rynkowe, kosztowe, polityczne, strategiczne.",
     "rationales": [
-      "To najtrafniejsze wyjaśnienie pojęcia z materiału (który podaje nazwę).",
-      "To przeciwieństwo „elastyczności” — cross-financing właśnie dopuszcza pewne połączenia (w ramach zasad).",
-      "To byłoby naruszenie zakazu podwójnego finansowania, a nie cross-financing.",
-      "To nie ma związku z cross-financing."
+      "To kompletna lista motywów BIZ z materiału.",
+      "Zaopatrzeniowe to tylko jeden z motywów BIZ.",
+      "Rynkowe to tylko jeden z motywów BIZ.",
+      "Kosztowe to tylko jeden z motywów BIZ."
     ]
   },
   {
     "id": 76,
-    "category": "Projekty UE (pojęcia)",
-    "question": "Które stwierdzenie o projektach z indykatywnego wykazu (wg materiału) jest prawdziwe?",
+    "category": "Migracje",
+    "question": "Które z poniższych procesów sprzyjają migracjom?",
     "options": [
-      "Nie konkurują o środki z pozostałymi projektami, ale podlegają procedurze oceny jak inne projekty",
-      "Są automatycznie zatwierdzane bez oceny",
-      "Zawsze dotyczą wyłącznie projektów miękkich",
-      "Są wyłączone z obowiązku dokumentacji projektowej"
+      "Postęp w transporcie, nowoczesne systemy mediów, środki przekazu, łączności i technologie informacyjne",
+      "Brak transportu",
+      "Izolacja technologiczna",
+      "Brak komunikacji"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał mówi, że projekty kluczowe z wykazu nie konkurują o środki, ale ocena nadal obowiązuje.",
+    "explanation": "Procesom migracyjnym sprzyjają: postęp w transporcie, nowoczesne systemy mediów, środki przekazu, łączności i technologie informacyjne.",
     "rationales": [
-      "To definicja z materiału.",
-      "Materiał podkreśla, że podlegają procedurze oceny jak pozostałe projekty.",
-      "Materiał mówi o „najważniejszych projektach inwestycyjnych” (czyli raczej twardych), nie wyłącznie miękkich.",
-      "Brak dokumentacji byłby sprzeczny z procedurą oceny."
+      "To kompletna lista procesów sprzyjających migracjom z materiału.",
+      "Brak transportu utrudnia migracje, nie sprzyja im.",
+      "Izolacja technologiczna utrudnia migracje, nie sprzyja im.",
+      "Brak komunikacji utrudnia migracje, nie sprzyja im."
     ]
   },
   {
     "id": 77,
-    "category": "Prakseologia",
-    "question": "Który zestaw pojęć jest w materiale wskazany jako podstawowe kategorie oceny działań w prakseologii?",
+    "category": "Kurs walutowy",
+    "question": "Jakie są funkcje kursu walutowego?",
     "options": [
-      "Skuteczność, korzystność, ekonomiczność",
-      "Backlog, time-boxing, sprint",
-      "Alokacja, IP2, EFRR",
-      "Relevance, impact, sustainability (bez pozostałych)"
+      "Cenotwórcza, informacyjna, alokacyjna",
+      "Tylko cenotwórcza",
+      "Tylko informacyjna",
+      "Tylko alokacyjna"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał w prakseologii wyróżnia skuteczność (bezwymiarową), korzystność (wymiarową) oraz ekonomiczność (W/K, bezwymiarową).",
+    "explanation": "Funkcje kursu walutowego to: cenotwórcza, informacyjna, alokacyjna.",
     "rationales": [
-      "To zestaw kategorii oceny z materiału.",
-      "To pojęcia Agile, nie prakseologiczne kategorie oceny działań.",
-      "To pojęcia z projektów UE, nie prakseologia.",
-      "To kryteria KE, a pytanie dotyczy prakseologii."
+      "To kompletna lista funkcji kursu walutowego z materiału.",
+      "Cenotwórcza to tylko jedna z funkcji kursu walutowego.",
+      "Informacyjna to tylko jedna z funkcji kursu walutowego.",
+      "Alokacyjna to tylko jedna z funkcji kursu walutowego."
     ]
   },
   {
     "id": 78,
-    "category": "Prakseologia",
-    "question": "Które z poniższych stwierdzeń o ekonomiczności (W/K) jest zgodne z materiałem?",
+    "category": "Kurs walutowy",
+    "question": "Co to jest kurs płynny?",
     "options": [
-      "Jest bezwymiarowa, bo jest stosunkiem dwóch wielkości (W i K)",
-      "Jest zawsze wyrażona w złotówkach",
-      "Jest tym samym co skuteczność (osiągnięcie celu)",
-      "Nie ma związku z wynikiem użytecznym"
+      "Kurs, który nie jest ustalony przez państwo, ceny walut kształtują się swobodnie na rynku walutowym pod wpływem podaży i popytu",
+      "Kurs ustalony przez państwo w sztywnych granicach",
+      "Kurs, który nie zmienia się w ogóle",
+      "Kurs tylko dla eksportu"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał: ekonomiczność jest parametrem bezwymiarowym wyrażonym stosunkiem W/K.",
+    "explanation": "Kurs płynny to kurs, który nie jest ustalony przez państwo, ceny walut kształtują się swobodnie na rynku walutowym pod wpływem podaży i popytu.",
     "rationales": [
-      "To wynika bezpośrednio z definicji W/K w materiale.",
-      "Wymiar pieniężny dotyczy korzystności (jednostki cenności), a ekonomiczność jest ilorazem.",
-      "Skuteczność dotyczy osiągnięcia celu, a ekonomiczność relacji W do K.",
-      "Ekonomiczność wprost opiera się na wyniku użytecznym (W)."
+      "To dokładna definicja kursu płynnego z materiału.",
+      "Kurs ustalony przez państwo w sztywnych granicach to kurs stały, nie płynny.",
+      "Kurs płynny może się zmieniać, nie jest stały.",
+      "Kurs płynny dotyczy wszystkich transakcji, nie tylko eksportu."
     ]
   },
   {
     "id": 79,
-    "category": "Prakseologia",
-    "question": "Dlaczego w materiale korzystność jest opisana jako wielkość „mianowana” (wymiarowa)?",
+    "category": "Kurs walutowy",
+    "question": "Co to jest kurs stały?",
     "options": [
-      "Bo jest definiowana w jednostkach cenności (np. pieniądz, wartość), a nie jako sam stosunek",
-      "Bo zawsze jest równa 1",
-      "Bo jest bezwymiarowa jak procent",
-      "Bo dotyczy wyłącznie czasu realizacji projektu"
+      "Kurs, który waha się w określonych granicach w stosunku do jednej waluty lub koszyka walut",
+      "Kurs, który nie zmienia się w ogóle",
+      "Kurs kształtujący się swobodnie na rynku",
+      "Kurs tylko dla importu"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał mówi, że korzystność jest wielkością wymiarową (mianowaną) w jednostkach cenności.",
+    "explanation": "Kurs stały to kurs, który waha się w określonych granicach w stosunku do jednej waluty lub koszyka walut.",
     "rationales": [
-      "To dokładnie wynika z materiału.",
-      "To nie jest opis korzystności w materiale.",
-      "Bezwymiarowa jest skuteczność i ekonomiczność, a nie korzystność.",
-      "Czas jest jednym z parametrów projektu, ale korzystność dotyczy relacji wyniku i kosztu w jednostkach wartości."
+      "To dokładna definicja kursu stałego z materiału.",
+      "Kurs stały może wahać się w granicach, nie jest całkowicie niezmienny.",
+      "Kurs kształtujący się swobodnie na rynku to kurs płynny, nie stały.",
+      "Kurs stały dotyczy wszystkich transakcji, nie tylko importu."
     ]
   },
   {
     "id": 80,
-    "category": "Ocena projektu",
-    "question": "Jaki jest cel oceny projektu wg materiału (po co się ją robi)?",
+    "category": "Bilans płatniczy",
+    "question": "Która instytucja jest odpowiedzialna za publikację bilansu płatniczego w Polsce?",
     "options": [
-      "Aby podejmować bieżące działania korygujące względem celów cząstkowych oraz formułować wnioski i zalecenia na przyszłość",
-      "Aby zawsze zamknąć projekt niezależnie od wyników",
-      "Aby zastąpić planowanie i nie wyznaczać celów",
-      "Aby ograniczyć monitorowanie do jednego raportu rocznie"
+      "NBP (Narodowy Bank Polski)",
+      "MFW",
+      "Bank Światowy",
+      "WTO"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje cel oceny projektu: korekty w trakcie i lepsza realizacja projektów w przyszłości dzięki wnioskom i zaleceniom.",
+    "explanation": "NBP (Narodowy Bank Polski) jest odpowiedzialny za publikację bilansu płatniczego w Polsce. Bilans płatniczy to zestawienie wszystkich transakcji dokonywanych między rezydentami a resztą świata w danym okresie.",
     "rationales": [
-      "To sens definicji celu oceny projektu w materiale.",
-      "Ocena służy podejmowaniu decyzji i usprawnieniom, nie „zamykania za wszelką cenę”.",
-      "Materiał podkreśla znaczenie celów i ich realizacji; ocena nie zastępuje planowania.",
-      "Materiał mówi o systematycznym monitorowaniu, nie o minimalizacji do jednego raportu."
-    ]
-  },
-  {
-    "id": 81,
-    "category": "Uzasadnienie biznesowe i sterowanie",
-    "question": "Jaką rolę pełni uzasadnienie biznesowe (business case) wg materiału?",
-    "options": [
-      "Jest podstawowym dokumentem oceny projektu w każdej fazie i w ocenie końcowej projektu",
-      "Jest dokumentem potrzebnym tylko do rozliczenia podatku VAT",
-      "Jest listą kosztów niekwalifikowalnych beneficjenta",
-      "Jest dokumentem tworzonym wyłącznie po zakończeniu projektu"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał podkreśla, że uzasadnienie biznesowe to kluczowy dokument oceny projektu na etapach i przy ocenie końcowej.",
-    "rationales": [
-      "To wprost wynika z materiału: business case jest podstawowym dokumentem oceny w każdej fazie i na końcu.",
-      "VAT to tylko jeden element finansów; materiał nie łączy business case wyłącznie z VAT.",
-      "Koszty niekwalifikowalne to osobna kategoria, a business case dotyczy sensu i korzyści projektu.",
-      "Materiał mówi, że jest używane w każdej fazie, a nie dopiero po zakończeniu."
-    ]
-  },
-  {
-    "id": 82,
-    "category": "Uzasadnienie biznesowe i sterowanie",
-    "question": "Który organ (wg materiału) wydaje pozytywną ocenę dokumentów projektu umożliwiającą przystąpienie do realizacji?",
-    "options": [
-      "Komitet Sterujący",
-      "Instytucja Zarządzająca (IZ)",
-      "Trybunał Konstytucyjny",
-      "Europejski Fundusz Społeczny (EFS)"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje, że pozytywna ocena przygotowanych dokumentów przez Komitet Sterujący umożliwia rozpoczęcie realizacji.",
-    "rationales": [
-      "To dokładnie opisano w materiale.",
-      "IZ zarządza programem operacyjnym, a nie jest wskazana jako organ zatwierdzający dokumenty projektu w tym fragmencie.",
-      "To organ konstytucyjny – nie jest rolą z materiału dot. sterowania projektem.",
-      "EFS to fundusz, nie organ podejmujący decyzje o starcie projektu."
-    ]
-  },
-  {
-    "id": 83,
-    "category": "Uzasadnienie biznesowe i sterowanie",
-    "question": "Co – obok uzasadnienia biznesowego – jest w materiale wskazane jako pomocne w ocenie projektu w trakcie jego realizacji?",
-    "options": [
-      "Raporty opracowane po wykonaniu ważnych zadań lub danego etapu",
-      "Wyłącznie reklamy projektu w mediach społecznościowych",
-      "Wyłącznie porównanie liczby pracowników przed i po projekcie",
-      "Tylko lista projektów z indykatywnego wykazu"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje, że w ocenie projektu pomocne są raporty powstające po ważnych zadaniach lub etapach (milestone/etap).",
-    "rationales": [
-      "To jest wprost wskazane w materiale jako pomocne w ocenie projektu.",
-      "Promocja nie zastępuje raportowania i oceny postępów projektu.",
-      "To może być jeden wskaźnik w niektórych projektach, ale nie jest wskazane w materiale jako główna metoda oceny.",
-      "Indykatywny wykaz dotyczy projektów kluczowych w programach, a nie raportowania etapów projektu."
-    ]
-  },
-  {
-    "id": 84,
-    "category": "Uzasadnienie biznesowe i sterowanie",
-    "question": "Dlaczego (wg materiału) pozytywna ocena dokumentów projektu jest istotna na etapie przejścia do realizacji?",
-    "options": [
-      "Bo umożliwia formalne przystąpienie do realizacji projektu",
-      "Bo automatycznie gwarantuje brak ryzyka w projekcie",
-      "Bo zastępuje monitorowanie i ewaluację w projekcie",
-      "Bo eliminuje potrzebę planowania czasu i budżetu"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał mówi wprost: pozytywna ocena dokumentów przez Komitet Sterujący umożliwia przystąpienie do realizacji.",
-    "rationales": [
-      "To jest konsekwencja wskazana w materiale.",
-      "Materiał definiuje ryzyko jako niepewność – ocena nie usuwa ryzyka.",
-      "Materiał podkreśla znaczenie monitorowania i ewaluacji – ocena dokumentów ich nie zastępuje.",
-      "Ocena dokumentów nie usuwa konieczności zarządzania czasem i budżetem."
-    ]
-  },
-  {
-    "id": 85,
-    "category": "Uzasadnienie biznesowe i sterowanie",
-    "question": "Które stwierdzenie o business case jest zgodne z materiałem?",
-    "options": [
-      "Jest wykorzystywany zarówno w trakcie kolejnych faz, jak i przy ocenie końcowej projektu",
-      "Dotyczy wyłącznie projektów miękkich, a nie twardych",
-      "Jest tym samym co backlog w Agile",
-      "To dokument finansowy zastępujący budżet projektu"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "W materiale business case jest dokumentem oceny projektu na etapach oraz przy ocenie końcowej.",
-    "rationales": [
-      "To zgodne z materiałem.",
-      "Materiał nie ogranicza business case tylko do projektów miękkich.",
-      "Backlog to narzędzie Agile, a business case to dokument uzasadnienia i oceny projektu.",
-      "Budżet i business case to różne rzeczy; business case uzasadnia sens i korzyści, nie „zastępuje budżetu”."
-    ]
-  },
-  {
-    "id": 86,
-    "category": "PCM (Project Cycle Management)",
-    "question": "Do czego służy metodyka PCM wg materiału?",
-    "options": [
-      "Do przygotowania, realizacji i oceny projektów finansowanych ze środków UE",
-      "Wyłącznie do planowania sprintów w Scrum",
-      "Wyłącznie do rozliczania VAT w projektach",
-      "Wyłącznie do zarządzania portfelem projektów w wielu organizacjach naraz"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje PCM jako metodykę do przygotowania, realizacji i oceny projektów finansowanych z UE.",
-    "rationales": [
-      "To jest sens definicji PCM w materiale.",
-      "To opis Scrum/Agile, a nie PCM.",
-      "PCM nie jest metodyką rozliczeń podatkowych.",
-      "Portfel to inny obszar; PCM dotyczy cyklu życia projektu."
-    ]
-  },
-  {
-    "id": 87,
-    "category": "PCM (Project Cycle Management)",
-    "question": "Który element (wg materiału) został zwrócony uwagą i uzupełniony w PCM dopiero w latach 80. XX wieku?",
-    "options": [
-      "Faza ewaluacji (znaczenie oceny w realizacji projektu)",
-      "Backlog i time-boxing",
-      "Zakaz podwójnego finansowania",
-      "Indykatywny wykaz projektów kluczowych"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał mówi, że dopiero w latach 80. XX wieku zwrócono uwagę na znaczenie oceny i uzupełniono PCM o fazę ewaluacji.",
-    "rationales": [
-      "To jest wprost w materiale: uzupełnienie o fazę ewaluacji.",
-      "To pojęcia Agile, nie PCM.",
-      "To zasada rozliczeń w projektach UE, nie element PCM jako metodyki cyklu.",
-      "To pojęcie z systemu wyboru projektów, nie element PCM."
-    ]
-  },
-  {
-    "id": 88,
-    "category": "PCM (Project Cycle Management)",
-    "question": "Jak w materiale nazywa się końcowa faza PCM obejmująca sprawdzanie i podsumowanie efektów projektu?",
-    "options": [
-      "Ewaluacja i audyt",
-      "Programowanie",
-      "Identyfikacja",
-      "Finansowanie"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wymienia na końcu PCM fazę „Ewaluacja i audyt”.",
-    "rationales": [
-      "To jest wprost podane jako końcowa faza w materiale.",
-      "Programowanie jest na początku cyklu PCM.",
-      "Identyfikacja jest wcześniejszą fazą, nie końcową.",
-      "Finansowanie występuje przed wdrażaniem/realizacją i przed ewaluacją."
-    ]
-  },
-  {
-    "id": 89,
-    "category": "Projekt (PMI) i atrybuty",
-    "question": "Który zestaw dwóch cech najlepiej oddaje istotę projektu wg PMI (wg materiału)?",
-    "options": [
-      "Tymczasowość i unikatowy rezultat (produkt/usługa)",
-      "Ciągłość i powtarzalność działań",
-      "Brak celu i brak końca",
-      "Wyłącznie praca jednej osoby bez interesariuszy"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał przytacza definicję PMI: projekt jest tymczasowy i ma stworzyć unikatowy rezultat.",
-    "rationales": [
-      "To bezpośrednio wynika z definicji PMI w materiale.",
-      "To opis procesu operacyjnego, a nie projektu.",
-      "Projekt ma cel i koniec; brak celu/kontrolowanego końca przeczy definicji.",
-      "Projekt nie jest ograniczony do jednej osoby; materiał mówi o potrzebach udziałowców."
-    ]
-  },
-  {
-    "id": 90,
-    "category": "Projekt (PMI) i atrybuty",
-    "question": "Co (wg materiału) jest celem zastosowania wiedzy, narzędzi i technik w zarządzaniu projektem?",
-    "options": [
-      "Zaspokojenie potrzeb udziałowców (interesariuszy) projektu",
-      "Zwiększenie liczby dokumentów bez względu na wartość",
-      "Unikanie wszelkich zmian w projekcie za wszelką cenę",
-      "Zastąpienie programów i portfeli jednym projektem"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał definiuje zarządzanie projektem jako zastosowanie wiedzy/umiejętności/narzędzi/technik w celu zaspokojenia potrzeb udziałowców projektu.",
-    "rationales": [
-      "To definicja z materiału.",
-      "Dokumentacja może być potrzebna, ale nie jest celem samym w sobie.",
-      "Materiał nie definiuje celu zarządzania projektem jako „unikanie zmian”.",
-      "Program i portfel to odrębne pojęcia; to nie jest cel zarządzania projektem."
-    ]
-  },
-  {
-    "id": 91,
-    "category": "Ryzyko (PMI/PMBOK)",
-    "question": "Które stwierdzenie o ryzyku wg PMI (wg materiału) jest prawdziwe?",
-    "options": [
-      "Ryzyko może mieć wpływ zarówno pozytywny, jak i negatywny na projekt",
-      "Ryzyko dotyczy wyłącznie zagrożeń finansowych",
-      "Ryzyko oznacza pewność wystąpienia problemu",
-      "Ryzyko występuje tylko po zakończeniu projektu (ex post)"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał podaje, że ryzyko to niepewność zdarzenia/warunku, które może mieć istotnie pozytywny lub negatywny wpływ na projekt.",
-    "rationales": [
-      "To jest wprost w definicji z materiału (pozytywny lub negatywny wpływ).",
-      "Materiał nie ogranicza ryzyka do finansów; dotyczy przebiegu projektu ogólnie.",
-      "Ryzyko to niepewność, nie pewność.",
-      "Ryzyko istnieje w całym cyklu życia projektu, nie tylko po zakończeniu."
-    ]
-  },
-  {
-    "id": 92,
-    "category": "Ryzyko (PMI/PMBOK)",
-    "question": "Jaki efekt ma (wg materiału) podejście PMBOK do zarządzania ryzykiem w całym cyklu życia projektu?",
-    "options": [
-      "Maksymalizuje efekty i minimalizuje straty projektu",
-      "Gwarantuje, że nie wystąpi żadne ryzyko",
-      "Eliminuje potrzebę identyfikacji i analizy ryzyka",
-      "Zastępuje ocenę ex ante studium wykonalności"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje, że takie podejście wpływa na maksymalizację efektów i minimalizowanie strat realizowanego projektu.",
-    "rationales": [
-      "To zdanie jest wprost w materiale.",
-      "Zarządzanie ryzykiem nie daje gwarancji braku ryzyk – ma nimi sterować.",
-      "Materiał mówi o identyfikowaniu, analizowaniu i reagowaniu oraz monitorowaniu.",
-      "Studium wykonalności to ex ante, a zarządzanie ryzykiem to proces przez cały cykl życia."
-    ]
-  },
-  {
-    "id": 93,
-    "category": "Ocena projektu",
-    "question": "Który zestaw kryteriów oceny projektów jest wymieniony w materiale (jako osobne kryteria poza kryteriami KE)?",
-    "options": [
-      "Cel, czas, koszt, jakość, efekty strategiczne, efekty społeczne",
-      "Backlog, sprint, time-boxing, demo",
-      "EFRR, EFS, FS, EFMR",
-      "Indykatywny wykaz, alokacja, IP2, IW"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "W części zagadnień materiał wymienia kryteria oceny projektów: cel, czas, koszt, jakość oraz efekty strategiczne i społeczne.",
-    "rationales": [
-      "To dokładny zestaw kryteriów wymieniony w materiale wśród zagadnień.",
-      "To pojęcia Agile/Scrum, nie kryteria oceny projektu z materiału.",
-      "To fundusze UE, a nie kryteria oceny projektu w tym miejscu materiału.",
-      "To pojęcia dotyczące systemu projektów UE, a nie kryteria oceny projektu."
-    ]
-  },
-  {
-    "id": 94,
-    "category": "Ocena projektu",
-    "question": "Które stwierdzenie najlepiej opisuje „ocenę projektu” wg materiału?",
-    "options": [
-      "Jest systematycznym monitorowaniem i oceną cząstkową parametrów projektu w ustalonych chwilach czasu",
-      "Jest jednorazowym audytem wykonywanym tylko po upływie roku od zakończenia projektu",
-      "Jest wyłącznie kontrolą kosztów niekwalifikowalnych",
-      "Jest procesem, który nie powinien prowadzić do działań korygujących"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał definiuje ocenę projektu jako systematyczne monitorowanie i ocenę cząstkową parametrów w czasie (z uwzględnieniem faz realizacji).",
-    "rationales": [
-      "To bezpośrednio wynika z definicji w materiale.",
-      "Rok po zakończeniu dotyczy ewentualnej oceny ex post finale, a nie definicji oceny projektu jako całości.",
-      "Koszty to tylko fragment; materiał mówi o parametrach projektu i fazach realizacji.",
-      "Materiał wprost mówi o podejmowaniu działań korygujących."
-    ]
-  },
-  {
-    "id": 95,
-    "category": "Projekty UE (rodzaje)",
-    "question": "Który przykład najlepiej pasuje do „projektu miękkiego” wg materiału?",
-    "options": [
-      "Szkolenia i działania związane z inwestycją w człowieka",
-      "Budowa infrastruktury wymagająca studium wykonalności",
-      "Zakup gruntu jako główny wydatek projektu",
-      "Projekt bez określonej grupy docelowej"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał opisuje projekty miękkie jako związane z inwestycją w człowieka (np. szkolenia).",
-    "rationales": [
-      "To typowy przykład projektu miękkiego zgodny z materiałem.",
-      "To opis projektu twardego (infrastrukturalnego).",
-      "Zakup gruntu w materiale pojawia się jako przykład kosztu niekwalifikowalnego, a nie definicja projektu miękkiego.",
-      "Materiał podkreśla znaczenie grup docelowych/beneficjentów w projektach UE."
-    ]
-  },
-  {
-    "id": 96,
-    "category": "Projekty UE (rodzaje)",
-    "question": "Które stwierdzenie o dokumentach aplikacyjnych dla projektów twardych i miękkich jest zgodne z materiałem?",
-    "options": [
-      "Projekty twarde wymagają wniosku i załączenia studium wykonalności lub biznesplanu, a projekty miękkie zwykle składają sam wniosek",
-      "Projekty miękkie zawsze wymagają studium wykonalności, a twarde nie",
-      "Żaden typ projektu nie wymaga żadnych załączników",
-      "Tylko projekty miękkie wymagają biznesplanu"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał rozróżnia dokumentację: twarde (infrastrukturalne) wymagają studium wykonalności/biznesplanu, miękkie zwykle tylko wniosku.",
-    "rationales": [
-      "To dokładne rozróżnienie z materiału.",
-      "To odwrotność tego, co w materiale.",
-      "Materiał mówi o wymaganych załącznikach dla projektów twardych.",
-      "Materiał wiąże biznesplan/studium z projektami twardymi, nie miękkimi."
-    ]
-  },
-  {
-    "id": 97,
-    "category": "Prawo i uwarunkowania",
-    "question": "Jak w materiale opisano źródła dofinansowania projektów w Polsce?",
-    "options": [
-      "Z programów państwowych lub regionalnych, a po wejściu do UE także z funduszy europejskich",
-      "Wyłącznie z funduszy UE (bez środków krajowych)",
-      "Wyłącznie z darowizn prywatnych firm",
-      "Wyłącznie z podatku VAT"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał wskazuje, że projekty są dofinansowywane z programów krajowych/regionalnych, a od wejścia Polski do UE także z funduszy europejskich.",
-    "rationales": [
-      "To zgodne z materiałem.",
-      "Materiał mówi też o programach państwowych i regionalnych.",
-      "To nie jest opisane jako główne źródło dofinansowania w materiale.",
-      "VAT to podatek, a nie źródło dofinansowania projektu."
-    ]
-  },
-  {
-    "id": 98,
-    "category": "Prawo i uwarunkowania",
-    "question": "Na jaki akt prawny powołuje się materiał przy opisie podmiotów mogących realizować projekty (zdolność prawna)?",
-    "options": [
-      "Kodeks cywilny (Ustawa z dnia 23 kwietnia 1964 r.)",
-      "Konstytucja RP (art. 20)",
-      "Europejski Fundusz Rozwoju Regionalnego (EFRR)",
-      "PMBOK Guide"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Materiał odwołuje się do Kodeksu cywilnego przy opisie osób fizycznych, osób prawnych i jednostek organizacyjnych z przyznaną zdolnością prawną.",
-    "rationales": [
-      "To jest wprost wskazane w materiale.",
-      "Konstytucja jest omawiana w innym fragmencie (np. art. 5, 20, 32), ale tu chodzi o zdolność prawną wg KC.",
-      "To fundusz UE, nie akt prawny regulujący zdolność prawną.",
-      "PMBOK to standard zarządzania projektami, nie polski akt prawny o zdolności prawnej."
-    ]
-  },
-  {
-    "id": 99,
-    "category": "Podstawy",
-    "question": "Które stwierdzenie najlepiej opisuje „otoczenie” projektu/organizacji w ujęciu zarządzania?",
-    "options": [
-      "To zestaw czynników (zewnętrznych i wewnętrznych), które wpływają na decyzje, ryzyka i realizację celów",
-      "To wyłącznie konkurencja cenowa na rynku",
-      "To tylko dokumentacja projektu przechowywana w archiwum",
-      "To wyłącznie przepisy prawa UE, bez prawa krajowego"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Otoczenie obejmuje szeroki kontekst działania projektu (np. instytucje, prawo, interesariuszy, rynek), co wpływa na przebieg i decyzje.",
-    "rationales": [
-      "To najpełniejsze i najbardziej zgodne z podejściem zarządczym ujęcie otoczenia.",
-      "Konkurencja to tylko jedna część otoczenia.",
-      "Dokumentacja jest częścią projektu, ale nie stanowi definicji otoczenia.",
-      "Otoczenie prawne obejmuje zarówno prawo UE, jak i krajowe oraz inne czynniki."
-    ]
-  },
-  {
-    "id": 100,
-    "category": "Podstawy",
-    "question": "Co najlepiej opisuje pojęcie „synergia” w pracy zespołowej (w zarządzaniu)?",
-    "options": [
-      "Efekt, w którym współpraca daje wynik większy niż suma efektów działań pojedynczych osób osobno",
-      "Sytuację, w której każdy pracuje całkowicie sam, bez koordynacji",
-      "Redukcję kosztów przez ograniczenie komunikacji",
-      "Mechanizm polegający na eliminacji celów, aby uniknąć konfliktów"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Synergia oznacza dodatkową wartość powstającą dzięki współpracy i dopasowaniu ról oraz działań.",
-    "rationales": [
-      "To definicja efektu synergii: współdziałanie tworzy wartość dodaną.",
-      "Brak koordynacji zwykle osłabia wynik; synergia zakłada współpracę.",
-      "Ograniczanie komunikacji nie buduje synergii – zazwyczaj ją niszczy.",
-      "Synergia nie polega na rezygnacji z celów, tylko na lepszym ich osiąganiu."
+      "NBP jest odpowiedzialny za publikację bilansu płatniczego w Polsce.",
+      "MFW to międzynarodowa instytucja finansowa, nie publikuje bilansu płatniczego Polski.",
+      "Bank Światowy to międzynarodowa instytucja, nie publikuje bilansu płatniczego Polski.",
+      "WTO to organizacja handlowa, nie publikuje bilansu płatniczego."
     ]
   }
 ]
-

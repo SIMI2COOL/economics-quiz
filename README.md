@@ -1,7 +1,7 @@
-# Międzynarodowy quiz z zarządzania projektami
+# Quiz z ekonomii międzynarodowej
 
 To repozytorium zawiera prostą aplikację webową z quizem (w 100% po polsku), przygotowaną na podstawie materiału:
-`Zagadnienia-do-egzaminu-z-przedmiotu-Zarządzanie-projektami-międzynarodowymi.txt`.
+`Ekonomia międzynarodowa.txt`.
 
 ## Jak uruchomić
 
