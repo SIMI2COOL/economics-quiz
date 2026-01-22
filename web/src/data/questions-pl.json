@@ -1,1522 +1,1522 @@
 [
   {
     "id": 1,
-    "category": "Ekonomia międzynarodowa - podstawy",
-    "question": "Co najlepiej definiuje ekonomię międzynarodową?",
+    "category": "Międzynarodowe organizacje gospodarcze (MFW)",
+    "question": "Ile państw jest obecnie członkami Międzynarodowego Funduszu Walutowego (MFW)?",
     "options": [
-      "Część ekonomii zajmująca się transakcjami między państwami w dziedzinie towarów i usług, przepływami finansowymi i ruchem czynników produkcji",
-      "Dyscyplina zajmująca się wyłącznie handlem wewnętrznym w obrębie jednego kraju",
-      "Nauka o zarządzaniu przedsiębiorstwami krajowymi bez kontaktów z zagranicą",
-      "Teoria dotycząca tylko polityki monetarnej pojedynczego państwa"
+      "188 państw",
+      "189 państw",
+      "190 państw",
+      "191 państw"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Ekonomia międzynarodowa to część ekonomii zajmująca się transakcjami między państwami w dziedzinie towarów i usług, przepływami finansowymi i ruchem czynników produkcji, zajmuje się współzależnościami gospodarczymi pomiędzy państwami.",
+    "correctAnswerIndex": 2,
+    "explanation": "MFW liczy obecnie 190 członków.",
     "rationales": [
-      "To dokładna definicja ekonomii międzynarodowej z materiału źródłowego.",
-      "Handel wewnętrzny to przedmiot ekonomii krajowej, nie międzynarodowej.",
-      "Ekonomia międzynarodowa zajmuje się właśnie kontaktami międzynarodowymi, nie ich brakiem.",
-      "Polityka monetarna to tylko jeden aspekt, a ekonomia międzynarodowa jest znacznie szersza."
+      "To nieprawidłowa liczba członków MFW.",
+      "To liczba członków Banku Światowego, nie MFW.",
+      "To dokładna liczba członków MFW z materiału źródłowego.",
+      "To nieprawidłowa liczba członków MFW."
     ]
   },
   {
     "id": 2,
-    "category": "Ekonomia międzynarodowa - podstawy",
-    "question": "Kiedy wyodrębniła się ekonomia międzynarodowa jako subdyscyplina?",
+    "category": "Międzynarodowe organizacje gospodarcze (MFW)",
+    "question": "Gdzie mieści się siedziba Międzynarodowego Funduszu Walutowego?",
     "options": [
-      "W starożytności, wraz z pierwszymi wymianami handlowymi",
-      "W okresie międzywojennym, w Polsce początki w latach 60-tych XX wieku",
-      "Dopiero w XXI wieku, po powstaniu Unii Europejskiej",
-      "W średniowieczu, wraz z rozwojem miast handlowych"
+      "W Genewie",
+      "W Waszyngtonie",
+      "W Paryżu",
+      "W Brukseli"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Ekonomia międzynarodowa wyodrębniła się z ekonomii w okresie międzywojennym, w Polsce początki to lata 60-te XX wieku.",
+    "explanation": "Siedziba MFW mieści się w Waszyngtonie.",
     "rationales": [
-      "Chociaż handel międzynarodowy istniał w starożytności, ekonomia międzynarodowa jako subdyscyplina powstała później.",
-      "To dokładna informacja z materiału źródłowego.",
-      "Ekonomia międzynarodowa istniała już przed powstaniem UE.",
-      "Chociaż handel rozwijał się w średniowieczu, subdyscyplina powstała później."
+      "Genewa to siedziba WTO, nie MFW.",
+      "To dokładna lokalizacja siedziby MFW z materiału źródłowego.",
+      "Paryż to siedziba OECD, nie MFW.",
+      "Bruksela to siedziba UE, nie MFW."
     ]
   },
   {
     "id": 3,
-    "category": "Ekonomia międzynarodowa - podstawy",
-    "question": "Która z poniższych przyczyn była podstawą wyodrębnienia ekonomii międzynarodowej jako subdyscypliny?",
+    "category": "Międzynarodowe organizacje gospodarcze (MFW)",
+    "question": "Kiedy została zawarta umowa międzynarodowa powołująca MFW?",
     "options": [
-      "Stałe wzrastające znaczenie handlu międzynarodowego i innych form współpracy międzynarodowej oraz różnice między stosunkami ekonomicznymi w granicach jednego państwa i w skali międzynarodowej",
-      "Spadek znaczenia handlu międzynarodowego w gospodarce światowej",
-      "Brak różnic między gospodarką krajową a międzynarodową",
-      "Wyłącznie rozwój technologii komputerowych"
+      "22 lipca 1944 r. w Bretton Woods",
+      "1 stycznia 1945 r. w Nowym Jorku",
+      "15 kwietnia 1944 r. w Waszyngtonie",
+      "30 października 1947 r. w Genewie"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Podstawy wyodrębnienia subdyscypliny to: stałe wzrastające znaczenie handlu międzynarodowego i innych form współpracy międzynarodowej oraz różnice występujące między stosunkami ekonomicznymi nawiązywanymi w granicach jednego państwa i skali międzynarodowej.",
+    "explanation": "Umowa międzynarodowa powołująca MFW została zawarta 22 lipca 1944 r. przez 44 państwa na konferencji w Bretton Woods (USA).",
     "rationales": [
-      "To dokładne przyczyny wyodrębnienia subdyscypliny z materiału.",
-      "Wzrost, nie spadek znaczenia handlu był przyczyną wyodrębnienia.",
-      "Właśnie różnice między gospodarką krajową a międzynarodową były jedną z przyczyn wyodrębnienia.",
-      "Technologie komputerowe to tylko jeden z wielu czynników, nie główna przyczyna wyodrębnienia."
+      "To dokładna data i miejsce zawarcia umowy z materiału źródłowego.",
+      "To data wejścia w życie GATT, nie utworzenia MFW.",
+      "To nieprawidłowa data utworzenia MFW.",
+      "To data podpisania GATT, nie utworzenia MFW."
     ]
   },
   {
     "id": 4,
-    "category": "Gospodarka światowa",
-    "question": "Co najlepiej definiuje gospodarkę światową?",
+    "category": "Międzynarodowe organizacje gospodarcze (MFW)",
+    "question": "Kiedy MFW rozpoczął działalność operacyjną?",
     "options": [
-      "System trwałych powiązań ekonomicznych między krajami, obejmujących swym zasięgiem cały świat",
-      "Suma wszystkich gospodarek krajowych bez żadnych powiązań między nimi",
-      "System gospodarczy działający tylko w krajach rozwiniętych",
-      "Tylko handel towarami, bez przepływów kapitału i technologii"
+      "W 1944 roku",
+      "W 1945 roku",
+      "W 1946 roku",
+      "W 1947 roku"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Gospodarka światowa to system trwałych powiązań ekonomicznych między krajami, obejmujących swym zasięgiem cały świat - historycznie ukształtowany i zmieniający się w czasie system powiązań produkcyjnych, technologicznych, handlowych, finansowych i instytucjonalnych.",
+    "correctAnswerIndex": 3,
+    "explanation": "Działalność operacyjną MFW rozpoczął w 1947 roku.",
     "rationales": [
-      "To dokładna definicja gospodarki światowej z materiału.",
-      "Gospodarka światowa to właśnie system powiązań, nie suma izolowanych gospodarek.",
-      "Gospodarka światowa obejmuje wszystkie kraje, nie tylko rozwinięte.",
-      "Gospodarka światowa obejmuje wszystkie formy powiązań: handel, kapitał, technologię, nie tylko towary."
+      "To rok zawarcia umowy, nie rozpoczęcia działalności operacyjnej.",
+      "To nieprawidłowy rok rozpoczęcia działalności.",
+      "To nieprawidłowy rok rozpoczęcia działalności.",
+      "To dokładna informacja z materiału źródłowego."
     ]
   },
   {
     "id": 5,
-    "category": "Gospodarka światowa",
-    "question": "Kiedy ukształtowała się gospodarka światowa?",
+    "category": "Międzynarodowe organizacje gospodarcze (MFW)",
+    "question": "Kiedy Polska wystąpiła z MFW i kiedy przystąpiła ponownie?",
     "options": [
-      "W starożytności, wraz z pierwszymi cywilizacjami",
-      "W średniowieczu, wraz z rozwojem miast",
-      "W II połowie XIX wieku",
-      "Dopiero po II wojnie światowej"
+      "Wystąpiła w 1948 r., przystąpiła w 1986 r.",
+      "Wystąpiła w 1950 r., przystąpiła ponownie w latach 80-tych",
+      "Wystąpiła w 1950 r., przystąpiła ponownie w 1990 r.",
+      "Nigdy nie wystąpiła z MFW"
     ],
-    "correctAnswerIndex": 2,
-    "explanation": "Gospodarka światowa ukształtowała się w II połowie XIX wieku.",
+    "correctAnswerIndex": 1,
+    "explanation": "Polska znalazła się wśród krajów założycielskich MFW, jednak w 1950 r. wystąpiła z niego i przystąpiła ponownie.",
     "rationales": [
-      "Chociaż handel istniał w starożytności, gospodarka światowa jako system ukształtowała się później.",
-      "Chociaż handel rozwijał się w średniowieczu, system gospodarki światowej ukształtował się w XIX wieku.",
+      "To nieprawidłowe daty dla Polski w MFW.",
       "To dokładna informacja z materiału źródłowego.",
-      "Gospodarka światowa istniała już przed II wojną światową."
+      "To nieprawidłowe daty dla Polski w MFW.",
+      "Polska rzeczywiście wystąpiła z MFW w 1950 r."
     ]
   },
   {
     "id": 6,
-    "category": "Gospodarka światowa",
-    "question": "Która rewolucja przemysłowa była najważniejszą przyczyną globalizacji?",
+    "category": "Międzynarodowe organizacje gospodarcze (Bank Światowy)",
+    "question": "Ile państw jest obecnie członkami Banku Światowego?",
     "options": [
-      "I rewolucja przemysłowa (XVIII i XIX wiek)",
-      "II rewolucja przemysłowa (koniec XIX w. do I wojny)",
-      "III rewolucja przemysłowa (lata 70-80 XX wieku)",
-      "IV rewolucja przemysłowa (rewolucja 4.0)"
+      "188 państw",
+      "189 państw",
+      "190 państw",
+      "191 państw"
     ],
-    "correctAnswerIndex": 2,
-    "explanation": "III rewolucja przemysłowa (lata 70-80 XX wieku) była najważniejszą przyczyną globalizacji procesu gospodarowania.",
+    "correctAnswerIndex": 1,
+    "explanation": "Bank Światowy liczy obecnie 189 krajów członków.",
     "rationales": [
-      "I rewolucja przemysłowa intensyfikowała handel, ale nie była główną przyczyną globalizacji.",
-      "II rewolucja przyspieszała postęp techniczny, ale nie była główną przyczyną globalizacji.",
-      "To dokładna informacja z materiału - III rewolucja przemysłowa najważniejsza przyczyna globalizacji.",
-      "IV rewolucja przemysłowa to rewolucja 4.0, która nastąpiła później niż globalizacja."
+      "To nieprawidłowa liczba członków Banku Światowego.",
+      "To dokładna liczba członków Banku Światowego z materiału źródłowego.",
+      "To liczba członków MFW, nie Banku Światowego.",
+      "To nieprawidłowa liczba członków Banku Światowego."
     ]
   },
   {
     "id": 7,
-    "category": "Globalizacja - stymulatory i bariery",
-    "question": "Który z poniższych czynników jest stymulatorem globalizacji?",
+    "category": "Międzynarodowe organizacje gospodarcze (Bank Światowy)",
+    "question": "Kiedy Polska przystąpiła ponownie do Banku Światowego?",
     "options": [
-      "Niestabilność przepisów prawa",
-      "Ksenofobia i egocentryzm",
-      "Odmienności kulturowe i religijne",
-      "Liberalizacja handlu"
+      "W 1980 roku",
+      "W 1986 roku",
+      "W 1990 roku",
+      "W 1995 roku"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Liberalizacja handlu jest stymulatorem globalizacji, podczas gdy niestabilność przepisów prawa, ksenofobia, egocentryzm oraz odmienności kulturowe i religijne spowalniają globalizację.",
+    "correctAnswerIndex": 1,
+    "explanation": "Polska była wśród państw-założycieli Banku, jednak w 1950 r. wypowiedziała członkostwo, a do umowy ponownie przystąpiła w 1986 roku.",
     "rationales": [
-      "Niestabilność przepisów prawa ma negatywny wpływ i spowalnia globalizację.",
-      "Ksenofobia i egocentryzm są czynnikami socjopsychologicznymi spowalniającymi globalizację.",
-      "Odmienności kulturowe i religijne spowalniają globalizację, nie są stymulatorami.",
-      "Liberalizacja handlu jest wymieniona w materiale jako stymulator globalizacji."
+      "To nieprawidłowy rok przystąpienia Polski do Banku Światowego.",
+      "To dokładna informacja z materiału źródłowego.",
+      "To nieprawidłowy rok przystąpienia Polski do Banku Światowego.",
+      "To nieprawidłowy rok przystąpienia Polski do Banku Światowego."
     ]
   },
   {
     "id": 8,
-    "category": "Globalizacja - stymulatory i bariery",
-    "question": "Które z poniższych są barierami globalizacji?",
+    "category": "Międzynarodowe organizacje gospodarcze (Bank Światowy)",
+    "question": "Jaka jest wizja Banku Światowego od 2023 roku?",
     "options": [
-      "Ułatwienia transportowe",
-      "Czynniki socjopsychologiczne: kultury i religie (odmienności, ksenofobia, egocentryzm)",
-      "Integracja międzynarodowa",
-      "Liberalizacja handlu"
+      "Wspieranie rozwoju gospodarczego krajów członkowskich",
+      "Stworzenie świata wolnego od ubóstwa na nadającej się do życia planecie",
+      "Promowanie wolnego handlu",
+      "Stabilizacja międzynarodowego systemu walutowego"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Czynniki socjopsychologiczne takie jak odmienności kulturowe, ksenofobia i egocentryzm spowalniają globalizację, podczas gdy ułatwienia transportowe, integracja międzynarodowa i liberalizacja handlu są stymulatorami.",
+    "explanation": "Wizja Banku Światowego od 2023 roku: stworzenie świata wolnego od ubóstwa na nadającej się do życia planecie.",
     "rationales": [
-      "Ułatwienia transportowe są stymulatorami globalizacji.",
-      "Czynniki socjopsychologiczne (kultury, religie, ksenofobia, egocentryzm) spowalniają globalizację.",
-      "Integracja międzynarodowa jest stymulatorem globalizacji.",
-      "Liberalizacja handlu jest stymulatorem globalizacji."
+      "To podstawowe zadanie Banku, nie wizja od 2023 roku.",
+      "To dokładna wizja Banku Światowego od 2023 roku z materiału źródłowego.",
+      "To cel WTO, nie wizja Banku Światowego.",
+      "To misja MFW, nie wizja Banku Światowego."
     ]
   },
   {
     "id": 9,
-    "category": "Globalizacja - skutki",
-    "question": "Który z poniższych jest negatywnym skutkiem globalizacji?",
+    "category": "Międzynarodowe organizacje gospodarcze (WTO)",
+    "question": "Ile państw należy obecnie do Światowej Organizacji Handlu (WTO)?",
     "options": [
-      "Większa dostępność do technologii",
-      "Mechanizm konkurencji przyspieszający zmiany strukturalne oraz postęp techniczny",
-      "Różnorodność towarów",
-      "Pogłębianie się nierówności społecznych wskutek nierównomiernej dystrybucji dóbr, usług i finansów"
+      "162 państwa",
+      "163 państwa",
+      "164 państwa",
+      "165 państw"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Pogłębianie się nierówności społecznych wskutek nierównomiernej dystrybucji dóbr, usług i finansów jest negatywnym skutkiem globalizacji, podczas gdy pozostałe opcje są pozytywnymi skutkami.",
+    "correctAnswerIndex": 2,
+    "explanation": "Do WTO należy obecnie 164 państwa, w tym Polska.",
     "rationales": [
-      "Większa dostępność do technologii jest pozytywnym skutkiem globalizacji.",
-      "Mechanizm konkurencji przyspieszający zmiany strukturalne jest pozytywnym skutkiem globalizacji.",
-      "Różnorodność towarów jest pozytywnym skutkiem globalizacji.",
-      "Pogłębianie się nierówności społecznych jest wymienione w materiale jako negatywny skutek globalizacji."
+      "To nieprawidłowa liczba członków WTO.",
+      "To nieprawidłowa liczba członków WTO.",
+      "To dokładna liczba członków WTO z materiału źródłowego.",
+      "To nieprawidłowa liczba członków WTO."
     ]
   },
   {
     "id": 10,
-    "category": "Globalizacja - skutki",
-    "question": "Który z poniższych jest pozytywnym skutkiem globalizacji?",
+    "category": "Międzynarodowe organizacje gospodarcze (WTO)",
+    "question": "Gdzie mieści się siedziba Światowej Organizacji Handlu?",
     "options": [
-      "Drenaż mózgów, czyli przenoszenie się najlepszych specjalistów do światowych ośrodków badawczych",
-      "Możliwość nieograniczonego transferu technologii i przepływu siły roboczej",
-      "Wzrost bezrobocia na skutek coraz większej automatyzacji produkcji",
-      "Zależność gospodarcza (kryzysy w jednym kraju przenoszą się na inne)"
+      "W Waszyngtonie",
+      "W Genewie",
+      "W Paryżu",
+      "W Brukseli"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Możliwość nieograniczonego transferu technologii i przepływu siły roboczej jest pozytywnym skutkiem globalizacji, podczas gdy drenaż mózgów, wzrost bezrobocia i zależność gospodarcza są negatywnymi skutkami.",
+    "explanation": "Siedziba WTO mieści się w Genewie.",
     "rationales": [
-      "Drenaż mózgów jest wymieniony w materiale jako negatywny skutek globalizacji.",
-      "Możliwość transferu technologii i przepływu siły roboczej jest wymieniona w materiale jako pozytywny skutek globalizacji.",
-      "Wzrost bezrobocia na skutek automatyzacji jest negatywnym skutkiem globalizacji.",
-      "Zależność gospodarcza i przenoszenie się kryzysów jest negatywnym skutkiem globalizacji."
+      "Waszyngton to siedziba MFW, nie WTO.",
+      "To dokładna lokalizacja siedziby WTO z materiału źródłowego.",
+      "Paryż to siedziba OECD, nie WTO.",
+      "Bruksela to siedziba UE, nie WTO."
     ]
   },
   {
     "id": 11,
-    "category": "Slowbalisation i deglobalizacja",
-    "question": "Co oznacza termin 'slowbalisation'?",
+    "category": "Międzynarodowe organizacje gospodarcze (WTO)",
+    "question": "Kiedy zostało podpisane porozumienie ustanawiające WTO i kiedy weszło w życie?",
     "options": [
-      "Przyspieszenie globalizacji",
-      "Całkowite zatrzymanie globalizacji",
-      "Regionalizacja bez globalizacji",
-      "Opóźnienie globalizacji"
+      "Podpisane 15.04.1994 w Marrakeszu, weszło w życie 1.01.1995",
+      "Podpisane 1.01.1995 w Genewie, weszło w życie 1.01.1996",
+      "Podpisane 30.10.1947 w Genewie, weszło w życie 1.01.1948",
+      "Podpisane 22.07.1944 w Bretton Woods, weszło w życie 1.01.1945"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Slowbalisation oznacza opóźnienie globalizacji - trend spadku tempa wzrostu handlu z 5,1% (2000) przez 4,6% (2010) do 2,6% (2020).",
+    "correctAnswerIndex": 0,
+    "explanation": "Porozumienie ustanawiające Światową Organizację Handlu zostało podpisane, wraz z Aktem Końcowym, 15.04.1994 r. w Marrakeszu; weszło w życie 1.01.1995r.",
     "rationales": [
-      "Slowbalisation oznacza spowolnienie, nie przyspieszenie globalizacji.",
-      "Slowbalisation to spowolnienie, nie całkowite zatrzymanie globalizacji.",
-      "Slowbalisation to spowolnienie globalizacji, nie regionalizacja.",
-      "Slowbalisation to opóźnienie globalizacji, co jest definicją z materiału."
+      "To dokładne daty z materiału źródłowego.",
+      "To nieprawidłowe daty dla WTO.",
+      "To daty podpisania i wejścia w życie GATT, nie WTO.",
+      "To daty utworzenia MFW, nie WTO."
     ]
   },
   {
     "id": 12,
-    "category": "Slowbalisation i deglobalizacja",
-    "question": "Co oznacza semiglobalizacja?",
+    "category": "Międzynarodowe organizacje gospodarcze (OECD)",
+    "question": "Ile państw jest obecnie członkami OECD?",
     "options": [
-      "Całkowita integracja wszystkich krajów świata",
-      "Całkowity brak integracji między krajami",
-      "Integracja tylko krajów rozwiniętych",
-      "Świat częściowo zintegrowany, częściowo podzielony - globalizacja istnieje, ale ograniczają ją bariery polityczne, kulturowe i regulacyjne"
+      "34 członków",
+      "35 członków",
+      "36 członków",
+      "37 członków"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Semiglobalizacja to półglobalizacja - świat częściowo zintegrowany, częściowo podzielony. Globalizacja istnieje, ale ograniczają ją bariery polityczne, kulturowe i regulacyjne. P. Ghemawat twierdził, że globalizacja nigdy nie była pełna.",
+    "correctAnswerIndex": 2,
+    "explanation": "OECD liczy obecnie 36 członków, Polska od 1996 roku.",
     "rationales": [
-      "Semiglobalizacja to częściowa integracja, nie całkowita.",
-      "Semiglobalizacja zakłada istnienie integracji, choć częściowej.",
-      "Semiglobalizacja dotyczy całego świata, nie tylko krajów rozwiniętych.",
-      "To dokładna definicja semiglobalizacji z materiału."
+      "To nieprawidłowa liczba członków OECD.",
+      "To nieprawidłowa liczba członków OECD.",
+      "To dokładna liczba członków OECD z materiału źródłowego.",
+      "To nieprawidłowa liczba członków OECD."
     ]
   },
   {
     "id": 13,
-    "category": "Slowbalisation i deglobalizacja",
-    "question": "Co oznacza deglobalizacja?",
+    "category": "Międzynarodowe organizacje gospodarcze (OECD)",
+    "question": "Kiedy Polska przystąpiła do OECD?",
     "options": [
-      "Przyspieszenie globalizacji",
-      "Odwrót od globalizacji - proces odwracania integracji gospodarczej i politycznej, spadek znaczenia handlu i inwestycji międzynarodowych",
-      "Regionalizacja bez zmian w globalizacji",
-      "Tylko zmiany w handlu, bez wpływu na inwestycje"
+      "W 1994 roku",
+      "W 1995 roku",
+      "W 1996 roku",
+      "W 1997 roku"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Deglobalizacja to odwrót od globalizacji - proces odwracania integracji gospodarczej i politycznej, spadek znaczenia handlu i inwestycji międzynarodowych, rosnąca rola protekcjonizmu, regionalizacji, autarkii.",
+    "correctAnswerIndex": 2,
+    "explanation": "Polska przystąpiła do OECD w 1996 roku.",
     "rationales": [
-      "Deglobalizacja to odwrót, nie przyspieszenie globalizacji.",
-      "To dokładna definicja deglobalizacji z materiału.",
-      "Deglobalizacja to odwrót od globalizacji, nie tylko regionalizacja.",
-      "Deglobalizacja dotyczy zarówno handlu, jak i inwestycji międzynarodowych."
+      "To nieprawidłowy rok przystąpienia Polski do OECD.",
+      "To nieprawidłowy rok przystąpienia Polski do OECD.",
+      "To dokładna informacja z materiału źródłowego (Polska od 96').",
+      "To nieprawidłowy rok przystąpienia Polski do OECD."
     ]
   },
   {
     "id": 14,
-    "category": "Podmioty gospodarki światowej",
-    "question": "Które z poniższych są podmiotami gospodarki światowej?",
+    "category": "Międzynarodowe organizacje gospodarcze (OECD)",
+    "question": "Kiedy OECD rozpoczęło działalność i co zastąpiło?",
     "options": [
-      "Tylko przedsiębiorstwa krajowe",
-      "Tylko międzynarodowe organizacje gospodarcze",
-      "Tylko gospodarki narodowe",
-      "Przedsiębiorstwa krajowe, przedsiębiorstwa międzynarodowe (korporacje transnarodowe), gospodarki narodowe, międzynarodowe ugrupowania integracyjne, międzynarodowe organizacje gospodarcze"
+      "Rozpoczęło działalność 30.04.1961, zastąpiło OEEC z 1948",
+      "Rozpoczęło działalność 1.01.1960, zastąpiło GATT",
+      "Rozpoczęło działalność 14.12.1960, zastąpiło MFW",
+      "Rozpoczęło działalność 1.01.1962, zastąpiło Bank Światowy"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Podmiotami gospodarki światowej są: przedsiębiorstwa krajowe, przedsiębiorstwa międzynarodowe (korporacje transnarodowe), gospodarki narodowe poszczególnych krajów wraz z instytucją państwa, międzynarodowe (regionalne) ugrupowania integracyjne oraz międzynarodowe organizacje gospodarcze.",
+    "correctAnswerIndex": 0,
+    "explanation": "OECD powstała na mocy Konwencji Paryskiej z 14.12.1960 r, działalność rozpoczęła 30.04.1961r; zastąpiła istniejącą od 1948r Organizację Europejskiej Współpracy Gospodarczej (OEEC).",
     "rationales": [
-      "Przedsiębiorstwa krajowe to tylko jeden z wielu podmiotów.",
-      "Międzynarodowe organizacje gospodarcze to tylko jeden z wielu podmiotów.",
-      "Gospodarki narodowe to tylko jeden z wielu podmiotów.",
-      "To kompletna lista podmiotów gospodarki światowej z materiału."
+      "To dokładne informacje z materiału źródłowego.",
+      "To nieprawidłowe daty i organizacja zastąpiona przez OECD.",
+      "To nieprawidłowe daty i organizacja zastąpiona przez OECD.",
+      "To nieprawidłowe daty i organizacja zastąpiona przez OECD."
     ]
   },
   {
     "id": 15,
-    "category": "Podmioty gospodarki światowej",
-    "question": "Co to jest korporacja transnarodowa?",
+    "category": "Światowy system handlu (GATT)",
+    "question": "Kiedy został podpisany układ GATT i kiedy wszedł w życie?",
     "options": [
-      "Przedsiębiorstwo działające tylko w jednym kraju",
-      "Organizacja rządowa działająca w wielu krajach",
-      "Tylko bank działający międzynarodowo",
-      "Przedsiębiorstwo, które spełnia warunek prowadzenia działalności biznesowej opartej na własności aktywów i ich kontroli przynajmniej w 2 krajach"
+      "Podpisany 30.10.1947 w Genewie, wszedł w życie 1.01.1948",
+      "Podpisany 22.07.1944 w Bretton Woods, wszedł w życie 1.01.1945",
+      "Podpisany 15.04.1994 w Marrakeszu, wszedł w życie 1.01.1995",
+      "Podpisany 14.12.1960 w Paryżu, wszedł w życie 30.04.1961"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Przedsiębiorstwo międzynarodowe (korporacja transnarodowa) to przedsiębiorstwo, które spełnia warunek prowadzenia działalności biznesowej opartej na własności aktywów i ich kontroli przynajmniej w 2 krajach.",
+    "correctAnswerIndex": 0,
+    "explanation": "Układ GATT podpisany został w Genewie 30 października 1947' wszedł w życie 1.01.48.",
     "rationales": [
-      "Korporacja transnarodowa musi działać w przynajmniej 2 krajach, nie tylko w jednym.",
-      "Korporacja transnarodowa to przedsiębiorstwo, nie organizacja rządowa.",
-      "Korporacja transnarodowa może być bankiem, ale nie tylko - może być każdym rodzajem przedsiębiorstwa.",
-      "To dokładna definicja korporacji transnarodowej z materiału."
+      "To dokładne daty z materiału źródłowego.",
+      "To daty utworzenia MFW, nie GATT.",
+      "To daty utworzenia WTO, nie GATT.",
+      "To daty utworzenia OECD, nie GATT."
     ]
   },
   {
     "id": 16,
-    "category": "Formy ugrupowań integracyjnych",
-    "question": "Która z poniższych jest formą ekonomicznej integracji?",
+    "category": "Światowy system handlu (GATT)",
+    "question": "Kiedy GATT uległ rozwiązaniu i co go zastąpiło?",
     "options": [
-      "Tylko strefa wolnego handlu",
-      "Tylko unia polityczna",
-      "Tylko wspólny rynek",
-      "Strefa wolnego handlu, unia celna, wspólny rynek, unia gospodarcza, unia polityczna"
+      "W 1993 r., zastąpiony przez WTO",
+      "W 1994 r., zastąpiony przez WTO",
+      "W 1995 r., zastąpiony przez OECD",
+      "W 1996 r., zastąpiony przez MFW"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Formy ekonomicznej integracji to: strefa wolnego handlu, unia celna, wspólny rynek, unia gospodarcza, unia polityczna.",
+    "correctAnswerIndex": 1,
+    "explanation": "W 1994 r. GATT uległ rozwiązaniu, a w jego miejsce została utworzona Światowa Organizacja Handlu.",
     "rationales": [
-      "Strefa wolnego handlu to tylko jedna z form integracji.",
-      "Unia polityczna to tylko jedna z form integracji.",
-      "Wspólny rynek to tylko jedna z form integracji.",
-      "To kompletna lista form integracji ekonomicznej z materiału."
+      "To nieprawidłowy rok rozwiązania GATT.",
+      "To dokładna informacja z materiału źródłowego.",
+      "OECD nie zastąpiło GATT.",
+      "MFW nie zastąpiło GATT."
     ]
   },
   {
     "id": 17,
-    "category": "Międzynarodowy Fundusz Walutowy",
-    "question": "Kiedy i gdzie został utworzony Międzynarodowy Fundusz Walutowy?",
+    "category": "Globalizacja - trendy",
+    "question": "Jak zmieniało się średnie tempo wzrostu handlu według materiału?",
     "options": [
-      "Po II wojnie światowej w Genewie",
-      "W 1950 r. w Waszyngtonie",
-      "W 1995 r. w Marrakeszu",
-      "22 lipca 1944 r. na konferencji w Bretton Woods (USA)"
+      "Wzrosło z 2,6% (2000) do 5,1% (2020)",
+      "Spadło z 5,1% (2000) do 2,6% (2020)",
+      "Pozostało stabilne na poziomie 4%",
+      "Wzrosło z 4,6% (2000) do 5,1% (2020)"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Międzynarodowy Fundusz Walutowy został utworzony na podstawie umowy międzynarodowej zawartej 22 lipca 1944 r. przez 44 państwa na konferencji w miejscowości Bretton Woods (USA). Działalność operacyjną MFW rozpoczął w 1947 roku.",
+    "correctAnswerIndex": 1,
+    "explanation": "Średnie tempo wzrostu handlu spadło z 5,1% (2000) --> 4,6% (2010) --> 2,6% (2020).",
     "rationales": [
-      "MFW został utworzony przed zakończeniem II wojny światowej, nie po niej, i w Bretton Woods, nie w Genewie.",
-      "1947 to rok rozpoczęcia działalności operacyjnej, nie utworzenia, a siedziba jest w Waszyngtonie, ale utworzenie było w Bretton Woods.",
-      "1995 to rok utworzenia WTO, nie MFW.",
-      "To dokładna informacja z materiału - 22 lipca 1944 r. w Bretton Woods."
+      "To odwrotna tendencja niż w materiale.",
+      "To dokładna informacja z materiału źródłowego pokazująca spadek tempa wzrostu handlu.",
+      "To nieprawidłowa informacja - tempo spadło, nie pozostało stabilne.",
+      "To nieprawidłowa informacja - tempo spadło, nie wzrosło."
     ]
   },
   {
     "id": 18,
-    "category": "Międzynarodowy Fundusz Walutowy",
-    "question": "Jaka jest misja Międzynarodowego Funduszu Walutowego?",
+    "category": "Globalizacja - trendy",
+    "question": "Co oznacza termin 'slowbalisation'?",
     "options": [
-      "Wspieranie rozwoju gospodarczego i walka z ubóstwem",
-      "Promowanie rozwoju handlu światowego",
-      "Zarządzanie kursami walutowymi wszystkich krajów",
-      "Zapewnienie stabilności międzynarodowego systemu walutowego, realizowana w ramach dwóch podstawowych obszarów działalności: nadzorczej i kredytowej"
+      "Przyspieszenie globalizacji",
+      "Całkowite zatrzymanie globalizacji",
+      "Opóźnienie globalizacji",
+      "Regionalizacja bez globalizacji"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Misja MFW to zapewnienie stabilności międzynarodowego systemu walutowego; realizowana jest w ramach dwóch podstawowych obszarów działalności: nadzorczej i kredytowej.",
+    "correctAnswerIndex": 2,
+    "explanation": "SLOWBALISATION to opóźnienie globalizacji (na egzamin definicja).",
     "rationales": [
-      "Wspieranie rozwoju i walka z ubóstwem to misja Banku Światowego, nie MFW.",
-      "Promowanie handlu światowego to zadanie WTO, nie MFW.",
-      "MFW nie zarządza bezpośrednio kursami walutowymi wszystkich krajów.",
-      "To dokładna misja MFW z materiału."
+      "To odwrotne znaczenie niż slowbalisation.",
+      "To nieprawidłowa definicja slowbalisation.",
+      "To dokładna definicja slowbalisation z materiału źródłowego.",
+      "To nieprawidłowa definicja slowbalisation."
     ]
   },
   {
     "id": 19,
-    "category": "Bank Światowy",
-    "question": "Kiedy i gdzie został utworzony Bank Światowy?",
+    "category": "Globalizacja - semiglobalizacja",
+    "question": "Kto stwierdził, że 'globalizacja nigdy nie była pełna'?",
     "options": [
-      "W 1950 r. w Waszyngtonie",
-      "W 1995 r. w Marrakeszu",
-      "W 1960 r. w Paryżu",
-      "Na konferencji w Bretton Woods w 1944 r."
+      "V. Posner",
+      "P. Ghemawat",
+      "P. Samuelson",
+      "Grubiel i Lloyd"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Bank Światowy (Międzynarodowy Bank Odbudowy i Rozwoju) został utworzony na konferencji w Bretton Woods w 1944 r.",
+    "correctAnswerIndex": 1,
+    "explanation": "P. Ghemawat stwierdził, że globalizacja nigdy nie była pełna.",
     "rationales": [
-      "1950 to rok, w którym Polska wystąpiła z Banku, nie utworzenia.",
-      "1995 to rok utworzenia WTO, nie Banku Światowego.",
-      "1960 to rok utworzenia OECD, nie Banku Światowego.",
-      "To dokładna informacja z materiału - Bretton Woods 1944."
+      "V. Posner stworzył teorię luki technologicznej, nie wypowiadał się o semiglobalizacji.",
+      "To dokładna informacja z materiału źródłowego.",
+      "P. Samuelson stworzył teoremat wyrównania się cen czynników produkcji, nie wypowiadał się o semiglobalizacji.",
+      "Grubiel i Lloyd stworzyli teorię handlu wewnątrzgałęziowego, nie wypowiadał się o semiglobalizacji."
     ]
   },
   {
     "id": 20,
-    "category": "Bank Światowy",
-    "question": "Jakie jest podstawowe zadanie Banku Światowego?",
+    "category": "Gospodarka światowa - rewolucje przemysłowe",
+    "question": "Kiedy określenie 'rewolucja 4.0' zaczęło być stosowane?",
     "options": [
-      "Zapewnienie stabilności międzynarodowego systemu walutowego",
-      "Promowanie rozwoju handlu światowego",
-      "Zarządzanie kursami walutowymi",
-      "Wspieranie rozwoju gospodarczego i walka z ubóstwem"
+      "Od 2016 r.",
+      "Od 2017 r.",
+      "Od 2018 r.",
+      "Od 2019 r."
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Podstawowe zadanie Banku Światowego to wspieranie rozwoju gospodarczego i walka z ubóstwem. Wizja (od 2023 roku): stworzenie świata wolnego od ubóstwa na nadającej się do życia planecie.",
+    "correctAnswerIndex": 2,
+    "explanation": "IV rewolucja przemysłowa (rewolucja 4.0) - określenie stosowane od 2018 r.",
     "rationales": [
-      "Zapewnienie stabilności systemu walutowego to misja MFW, nie Banku Światowego.",
-      "Promowanie handlu światowego to zadanie WTO, nie Banku Światowego.",
-      "Zarządzanie kursami walutowymi nie jest głównym zadaniem Banku Światowego.",
-      "To dokładne zadanie Banku Światowego z materiału."
+      "To nieprawidłowy rok rozpoczęcia używania terminu rewolucja 4.0.",
+      "To nieprawidłowy rok rozpoczęcia używania terminu rewolucja 4.0.",
+      "To dokładna informacja z materiału źródłowego.",
+      "To nieprawidłowy rok rozpoczęcia używania terminu rewolucja 4.0."
     ]
   },
   {
     "id": 21,
-    "category": "Bank Światowy",
-    "question": "Które z poniższych instytucji wchodzą w skład Grupy Banku Światowego?",
+    "category": "Teorie handlu - neotechnologiczne",
+    "question": "Kto i kiedy stworzył koncepcję 'opóźnienia naśladowczego' - teorię luki technologicznej?",
     "options": [
-      "Tylko MBOiR",
-      "MFW i Bank Światowy",
-      "WTO i Bank Światowy",
-      "MBOiR, MSR, MKF, MIGA, ICSID"
+      "V. Posner w 1958 r.",
+      "V. Posner w 1961 r.",
+      "P. Samuelson w 1961 r.",
+      "P. Ghemawat w 1961 r."
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Grupa Banku Światowego składa się z: Międzynarodowego Banku Odbudowy i Rozwoju (MBOiR), Międzynarodowego Stowarzyszenia Rozwoju (MSR), Międzynarodowej Korporacji Finansowej (MKF), Wielostronnej Agencji Gwarancji Inwestycyjnych (MIGA) oraz Międzynarodowego Centrum Rozstrzygania Sporów Inwestycyjnych (ICSID).",
+    "correctAnswerIndex": 1,
+    "explanation": "M.V. Posner jako pierwszy uchylił założenie mówiące o dysponowaniu przez wszystkie kraje jednakową technologią, tworząc tym samym opublikowaną w 1961 r. koncepcję OPÓŹNIENIA NAŚLADOWCZEGO – TEORIĘ LUKI TECHNOLOGICZNEJ.",
     "rationales": [
-      "MBOiR to tylko jedna z instytucji Grupy Banku Światowego.",
-      "MFW nie wchodzi w skład Grupy Banku Światowego.",
-      "WTO nie wchodzi w skład Grupy Banku Światowego.",
-      "To kompletna lista instytucji Grupy Banku Światowego z materiału."
+      "To nieprawidłowy rok publikacji teorii Posnera.",
+      "To dokładna informacja z materiału źródłowego.",
+      "P. Samuelson stworzył teoremat wyrównania się cen czynników produkcji, nie teorię luki technologicznej.",
+      "P. Ghemawat wypowiadał się o semiglobalizacji, nie stworzył teorii luki technologicznej."
     ]
   },
   {
     "id": 22,
-    "category": "WTO",
-    "question": "Kiedy i gdzie zostało podpisane porozumienie ustanawiające Światową Organizację Handlu?",
+    "category": "Teorie handlu - neoklasyczne",
+    "question": "Kto stworzył teoremat wyrównania się cen czynników produkcji?",
     "options": [
-      "22 lipca 1944 r. w Bretton Woods",
-      "14.12.1960 r. w Paryżu",
-      "30.10.1947 r. w Genewie",
-      "15.04.1994 r. w Marrakeszu, weszło w życie 1.01.1995 r."
+      "V. Posner",
+      "P. Samuelson",
+      "P. Ghemawat",
+      "Grubiel i Lloyd"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Porozumienie ustanawiające Światową Organizację Handlu zostało podpisane, wraz z Aktem Końcowym, 15.04.1994 r. w Marrakeszu; weszło w życie 1.01.1995 r.",
+    "correctAnswerIndex": 1,
+    "explanation": "Teoremat wyrównania się cen czynników produkcji został stworzony przez P. Samuelsona.",
     "rationales": [
-      "1944 w Bretton Woods to utworzenie MFW i Banku Światowego, nie WTO.",
-      "1960 w Paryżu to utworzenie OECD, nie WTO.",
-      "1947 w Genewie to podpisanie GATT, nie WTO (choć WTO zastąpiło GATT).",
-      "To dokładna informacja z materiału - Marrakesz 1994, wejście w życie 1995."
+      "V. Posner stworzył teorię luki technologicznej, nie teoremat wyrównania się cen.",
+      "To dokładna informacja z materiału źródłowego.",
+      "P. Ghemawat wypowiadał się o semiglobalizacji, nie stworzył tego teorematu.",
+      "Grubiel i Lloyd stworzyli teorię handlu wewnątrzgałęziowego, nie ten teoremat."
     ]
   },
   {
     "id": 23,
-    "category": "WTO",
-    "question": "Gdzie mieści się siedziba WTO?",
+    "category": "Teorie handlu - wewnątrzgałęziowy",
+    "question": "Kto stworzył teorię handlu wewnątrzgałęziowego (wymienioną jako ważna na egzaminie)?",
     "options": [
-      "W Waszyngtonie",
-      "W Paryżu",
-      "W Marrakeszu",
-      "W Genewie"
+      "V. Posner",
+      "P. Samuelson",
+      "Grubiel i Lloyd",
+      "P. Ghemawat"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Siedziba WTO mieści się w Genewie.",
+    "correctAnswerIndex": 2,
+    "explanation": "Teoria wewnątrzgałęziowego handlu została stworzona przez Grubiel i Lloyd (wymieniona jako ważna na egzaminie).",
     "rationales": [
-      "Waszyngton to siedziba MFW i Banku Światowego, nie WTO.",
-      "Paryż to siedziba OECD, nie WTO.",
-      "Marrakesz to miejsce podpisania porozumienia, nie siedziba WTO.",
-      "To dokładna informacja z materiału - siedziba WTO w Genewie."
+      "V. Posner stworzył teorię luki technologicznej, nie handlu wewnątrzgałęziowego.",
+      "P. Samuelson stworzył teoremat wyrównania się cen, nie teorię handlu wewnątrzgałęziowego.",
+      "To dokładna informacja z materiału źródłowego.",
+      "P. Ghemawat wypowiadał się o semiglobalizacji, nie stworzył teorii handlu wewnątrzgałęziowego."
     ]
   },
   {
     "id": 24,
-    "category": "OECD",
-    "question": "Kiedy powstała Organizacja Współpracy Gospodarczej i Rozwoju (OECD)?",
+    "category": "Teorie handlu - paradoks Leontiefa",
+    "question": "W jakich latach W. Leontief zastosował metodę przepływów międzygałęziowych do badania struktury handlu USA?",
     "options": [
-      "W 1944 r. w Bretton Woods",
-      "W 1995 r. w Marrakeszu",
-      "W 1947 r. w Genewie",
-      "Na mocy Konwencji Paryskiej z 14.12.1960 r., działalność rozpoczęła 30.04.1961 r."
+      "W latach 30. XX wieku",
+      "W latach 40. XX wieku",
+      "W latach 50. XX wieku",
+      "W latach 60. XX wieku"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "OECD powstała na mocy Konwencji Paryskiej z 14.12.1960 r., działalność rozpoczęła 30.04.1961 r.; zastąpiła istniejącą od 1948 r. Organizację Europejskiej Współpracy Gospodarczej (OEEC).",
+    "correctAnswerIndex": 1,
+    "explanation": "W latach 40 XXw. Leontief zastosował metodę przepływów międzygałęziowych do znalezienia odpowiedzi na pytanie czy w strukturze handlu zagranicznego USA znajduje się odbicie twierdzenia H-O.",
     "rationales": [
-      "1944 w Bretton Woods to utworzenie MFW i Banku Światowego, nie OECD.",
-      "1995 to utworzenie WTO, nie OECD.",
-      "1947 to podpisanie GATT, nie OECD.",
-      "To dokładna informacja z materiału - Konwencja Paryska 1960, działalność od 1961."
+      "To nieprawidłowy okres badań Leontiefa.",
+      "To dokładna informacja z materiału źródłowego.",
+      "To nieprawidłowy okres badań Leontiefa.",
+      "To nieprawidłowy okres badań Leontiefa."
     ]
   },
   {
     "id": 25,
-    "category": "Handel zagraniczny i międzynarodowy",
-    "question": "Jaka jest różnica między handlem zagranicznym a handlem międzynarodowym?",
+    "category": "Nowoczesne teorie handlu - servicification",
+    "question": "Który z poniższych jest przykładem servicification of trade wymienionym w materiale?",
     "options": [
-      "Nie ma różnicy - to synonimy",
-      "Handel zagraniczny dotyczy tylko towarów, a handel międzynarodowy tylko usług",
-      "Handel zagraniczny to handel między krajami sąsiednimi, a międzynarodowy między odległymi",
-      "Handel zagraniczny to wymiana rozpatrywana z punktu widzenia jednego kraju i jego otoczenia zagranicznego, a handel międzynarodowy to wymiana pomiędzy różnymi gospodarkami narodowymi analizowana z perspektywy globalnej"
+      "Handel ropą naftową",
+      "Smartfon: oprócz urządzenia ogromna część wartości to system operacyjny, aplikacje, usługi w chmurze",
+      "Handel surowcami mineralnymi",
+      "Handel produktami rolnymi"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "HANDEL ZAGRANICZNY to wymiana rozpatrywana z punktu widzenia jednego kraju i jego otoczenia zagranicznego. HANDEL MIĘDZYNARODOWY to wymiana pomiędzy różnymi gospodarkami narodowymi, kiedy strumienie handlu analizowane są z perspektywy globalnej (z 'lotu ptaka') między parą krajów, na poziomie grupy gospodarek, kontynentu lub pomiędzy kontynentami.",
+    "correctAnswerIndex": 1,
+    "explanation": "Przykład servicification: smartfon - oprócz samego urządzenia ogromna część wartości to system operacyjny, aplikacje, usługi w chmurze.",
     "rationales": [
-      "To nie są synonimy - różnią się perspektywą analizy.",
-      "Oba dotyczą zarówno towarów, jak i usług - różnica jest w perspektywie analizy.",
-      "Różnica nie dotyczy odległości geograficznej, ale perspektywy analizy.",
-      "To dokładne rozróżnienie z materiału - perspektywa krajowa vs globalna."
+      "Handel ropą to tradycyjny handel towarami, nie przykład servicification.",
+      "To dokładny przykład z materiału źródłowego pokazujący servicification of trade.",
+      "Handel surowcami to tradycyjny handel towarami, nie przykład servicification.",
+      "Handel produktami rolnymi to tradycyjny handel towarami, nie przykład servicification."
     ]
   },
   {
     "id": 26,
-    "category": "Przyczyny importu i eksportu",
-    "question": "Która z poniższych jest przyczyną rozwoju importu?",
+    "category": "Nowoczesne teorie handlu - servicification",
+    "question": "Który z poniższych jest drugim przykładem servicification of trade wymienionym w materiale?",
     "options": [
-      "Nadwyżki produkcyjne w kraju importującym",
-      "Brak określonych towarów i usług w kraju importującym",
-      "Brak możliwości eksportu",
-      "Zamknięcie granic"
+      "Handel samochodami spalinowymi",
+      "Samochód elektryczny: sprzedaż obejmuje nie tylko auto, ale też software, aktualizacje, dostęp do sieci ładowania",
+      "Handel częściami samochodowymi",
+      "Handel paliwami"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Przyczyny rozwoju importu to m.in.: brak określonych towarów i usług w kraju importującym (trwały lub przejściowy), występowanie międzynarodowych różnic kosztów i cen towarów, zróżnicowanie towarów oraz preferencji konsumentów.",
+    "explanation": "Przykład servicification: samochód elektryczny - sprzedaż obejmuje nie tylko auto, ale też software, aktualizacje, dostęp do sieci ładowania.",
     "rationales": [
-      "Nadwyżki produkcyjne są przyczyną eksportu, nie importu.",
-      "Brak określonych towarów i usług w kraju jest wymieniony w materiale jako przyczyna importu.",
-      "Brak możliwości eksportu nie jest przyczyną importu.",
-      "Zamknięcie granic utrudnia import, nie jest jego przyczyną."
+      "To tradycyjny handel towarami, nie przykład servicification.",
+      "To dokładny przykład z materiału źródłowego pokazujący servicification of trade.",
+      "To tradycyjny handel towarami, nie przykład servicification.",
+      "To tradycyjny handel towarami, nie przykład servicification."
     ]
   },
   {
     "id": 27,
-    "category": "Przyczyny importu i eksportu",
-    "question": "Która z poniższych jest przyczyną eksportu?",
+    "category": "Nowoczesne teorie handlu - Porter's Diamond",
+    "question": "Który przykład z teorii przewag konkurencyjnych Portera (Diamond Model) jest wymieniony w materiale dla Niemiec?",
     "options": [
-      "Brak towarów w kraju eksportującym",
-      "Zamknięcie rynków zagranicznych",
-      "Brak możliwości produkcji",
-      "Zbyt duże nadwyżki produkcyjne"
+      "Niemcy – motoryzacja (Mercedes, BMW, VW) → silna baza inżynierów, wymagający klienci, sieć dostawców, mocna konkurencja",
+      "Niemcy – elektronika → wsparcie państwa",
+      "Niemcy – rolnictwo → tradycyjne metody",
+      "Niemcy – handel → otwarte rynki"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Przyczyny eksportu to m.in.: zbyt duże nadwyżki produkcyjne, chęć uzyskania dewiz, kreacja nowych miejsc pracy, kooperacja zaopatrzeniowa, obowiązywanie określonych umów handlowych.",
+    "correctAnswerIndex": 0,
+    "explanation": "Przykład z materiału: Niemcy – motoryzacja (Mercedes, BMW, VW) → silna baza inżynierów, wymagający klienci, sieć dostawców, mocna konkurencja.",
     "rationales": [
-      "Brak towarów w kraju byłby przyczyną importu, nie eksportu.",
-      "Zamknięcie rynków zagranicznych utrudnia eksport, nie jest jego przyczyną.",
-      "Brak możliwości produkcji uniemożliwia eksport, nie jest jego przyczyną.",
-      "Zbyt duże nadwyżki produkcyjne są wymienione w materiale jako przyczyna eksportu."
+      "To dokładny przykład z materiału źródłowego dla Niemiec w teorii Portera.",
+      "To przykład dla Korei Płd., nie Niemiec.",
+      "To nieprawidłowy przykład dla Niemiec w teorii Portera.",
+      "To nieprawidłowy przykład dla Niemiec w teorii Portera."
     ]
   },
   {
     "id": 28,
-    "category": "Teorie przedklasyczne",
-    "question": "Co charakteryzowało teorię przedklasyczną handlu międzynarodowego?",
+    "category": "Nowoczesne teorie handlu - Porter's Diamond",
+    "question": "Który przykład z teorii przewag konkurencyjnych Portera (Diamond Model) jest wymieniony w materiale dla Korei Południowej?",
     "options": [
-      "Wolny handel bez żadnych ograniczeń",
-      "Teoria oparta wyłącznie na kosztach komparatywnych",
-      "Teoria oparta wyłącznie na obfitości zasobów",
-      "Psychoza lęku przed brakiem towarów; dążenie do uzyskania możliwie jak największej ilości dóbr za jak najniższą cenę, czasem drogą rabunku lub dominacji gospodarczej"
+      "Korea Płd. – motoryzacja → silna baza inżynierów",
+      "Korea Płd. – elektronika (Samsung, LG) → wsparcie państwa, innowacyjny rynek wewnętrzny, specjalizacja w technologii",
+      "Korea Płd. – rolnictwo → tradycyjne metody",
+      "Korea Płd. – handel → otwarte rynki"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Teoria przedklasyczna charakteryzowała się psychozą lęku przed brakiem towarów; dzięki podziałowi pracy dążono do zaspokojenia potrzeb produkcyjnych i konsumpcyjnych. Dążenie do uzyskania możliwie jak największej ilości dóbr, za jak najniższą cenę. Impuls do pozyskiwania towarów między innymi drogą rabunku, rozbojów lub dominacji gospodarczej.",
+    "correctAnswerIndex": 1,
+    "explanation": "Przykład z materiału: Korea Płd. – elektronika (Samsung, LG) → wsparcie państwa, innowacyjny rynek wewnętrzny, specjalizacja w technologii.",
     "rationales": [
-      "Wolny handel to koncepcja późniejsza, nie charakterystyczna dla teorii przedklasycznej.",
-      "Koszty komparatywne to teoria klasyczna (Ricardo), nie przedklasyczna.",
-      "Obfitość zasobów to teoria neoklasyczna (H-O), nie przedklasyczna.",
-      "To dokładny opis teorii przedklasycznej z materiału."
+      "To przykład dla Niemiec, nie Korei Płd.",
+      "To dokładny przykład z materiału źródłowego dla Korei Płd. w teorii Portera.",
+      "To nieprawidłowy przykład dla Korei Płd. w teorii Portera.",
+      "To nieprawidłowy przykład dla Korei Płd. w teorii Portera."
     ]
   },
   {
     "id": 29,
-    "category": "Teorie przedklasyczne",
-    "question": "Co głosił dogmat słusznej ceny?",
+    "category": "Międzynarodowe przepływy kapitału - BIZ",
+    "question": "Według OECD i MFW, jaki minimalny udział inwestora w spółce jest wymagany, aby inwestycja mogła być uznana za bezpośrednią?",
     "options": [
-      "Cena powinna być zawsze najwyższa możliwa",
-      "Cena powinna być zawsze najniższa możliwa",
-      "Cena nie ma związku z kosztami wytworzenia",
-      "Towar ma być sprzedany po słusznej cenie – nie wyższej oraz nie niższej. Każdy towar ma swoją cenę podyktowaną kosztami jego wytworzenia"
+      "5%",
+      "10%",
+      "15%",
+      "20%"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Zgodnie z dogmatem słusznej ceny towar ma być sprzedany po słusznej cenie – nie wyższej oraz nie niższej. Każdy towar ma swoją cenę podyktowaną kosztami jego wytworzenia. Zasady te w XIII w. najpełniej ujął św. Tomasz z Akwinu.",
+    "correctAnswerIndex": 1,
+    "explanation": "Według OECD i MFW inwestycja może być uznana za bezpośrednią, jeśli w jej wyniku udział inwestora w spółce jest nie mniejszy niż 10% (zakup 10% pakietu akcji lub udziałów).",
     "rationales": [
-      "Dogmat mówi o słusznej cenie, nie najwyższej możliwej.",
-      "Dogmat mówi o słusznej cenie, nie najniższej możliwej.",
-      "Dogmat wprost łączy cenę z kosztami wytworzenia.",
-      "To dokładna treść dogmatu słusznej ceny z materiału."
+      "To za niski próg dla uznania inwestycji za bezpośrednią.",
+      "To dokładna informacja z materiału źródłowego.",
+      "To za wysoki próg dla uznania inwestycji za bezpośrednią.",
+      "To za wysoki próg dla uznania inwestycji za bezpośrednią."
     ]
   },
   {
     "id": 30,
-    "category": "Teorie klasyczne",
-    "question": "Co głosi teoria kosztów absolutnych Adama Smitha?",
+    "category": "Kurs walutowy - aprecjacja",
+    "question": "Który przykład aprecjacji jest podany w materiale?",
     "options": [
-      "Wszystkie kraje powinny produkować wszystkie towary",
-      "Kraje nie powinny specjalizować się w produkcji",
-      "Koszty produkcji są zawsze jednakowe we wszystkich krajach",
-      "Kraje specjalizują się w produkcji towarów, w których mają absolutną przewagę kosztową (niższe koszty wytworzenia), co prowadzi do wzrostu produkcji i korzyści z wymiany"
+      "Zmiana kursu z 1 euro = 4,30 PLN na 1 euro = 4,60 PLN",
+      "Zmiana kursu z 1 euro = 4,60 PLN na 1 euro = 4,30 PLN",
+      "Zmiana kursu z 1 euro = 4,50 PLN na 1 euro = 4,70 PLN",
+      "Zmiana kursu z 1 euro = 4,70 PLN na 1 euro = 4,50 PLN"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Teoria kosztów absolutnych zakłada, że kraje decydują co importują i co produkują. Specjalizacja każdego kraju jedynie w kilku, a nie wszystkich produktach, prowadzi do lepszego wykorzystywania podstawowego zasobu – pracy ludzkiej i powoduje wzrost produkcji towarów, co z kolei jest bezpośrednią przyczyną osiągania przez partnerów określonych korzyści - zwiększona wielkość produkcji do podziału między krajami.",
+    "correctAnswerIndex": 1,
+    "explanation": "Aprecjacja: wzrost wartości waluty krajowej w stosunku do waluty obcej. Przykład: Zmiana kursu z 1 euro = 4,60 PLN na 1 euro = 4,30 PLN.",
     "rationales": [
-      "Teoria zakłada specjalizację, nie produkcję wszystkich towarów przez wszystkie kraje.",
-      "Teoria zakłada specjalizację, nie jej brak.",
-      "Teoria zakłada różnice w kosztach między krajami, nie ich jednakowość.",
-      "To główna teza teorii kosztów absolutnych - specjalizacja w towarach z absolutną przewagą kosztową."
+      "To przykład deprecjacji, nie aprecjacji.",
+      "To dokładny przykład aprecjacji z materiału źródłowego.",
+      "To przykład deprecjacji, nie aprecjacji.",
+      "To przykład aprecjacji, ale nie ten z materiału."
     ]
   },
   {
     "id": 31,
-    "category": "Teorie klasyczne",
-    "question": "Co głosi teoria kosztów komparatywnych (względnych) Ricarda?",
+    "category": "Kurs walutowy - deprecjacja",
+    "question": "Który przykład deprecjacji jest podany w materiale?",
     "options": [
-      "Wymiana jest możliwa tylko gdy jeden kraj ma przewagę we wszystkich produktach",
-      "Koszty względne nie mają znaczenia",
-      "Wszystkie kraje muszą mieć takie same koszty",
-      "Wymiana międzynarodowa jest możliwa również wtedy, gdy dany kraj ma przewagę nad drugim w kosztach wytwarzania mierzonych nakładami pracy wszystkich produktów - ważne są koszty względne, nie absolutne"
+      "Zmiana kursu z 1 euro = 4,30 PLN na 1 euro = 4,60 PLN",
+      "Zmiana kursu z 1 euro = 4,60 PLN na 1 euro = 4,30 PLN",
+      "Zmiana kursu z 1 euro = 4,50 PLN na 1 euro = 4,70 PLN",
+      "Zmiana kursu z 1 euro = 4,70 PLN na 1 euro = 4,50 PLN"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Twierdzenie teorii kosztów komparatywnych: Wymiana międzynarodowa jest możliwa również wtedy, gdy dany kraj ma przewagę nad drugim w kosztach wytwarzania mierzonych nakładami pracy wszystkich produktów. Ważne są koszty względne (komparatywne), nie absolutne.",
+    "correctAnswerIndex": 2,
+    "explanation": "Deprecjacja: obniżenie siły nabywczej pieniądza krajowego. Przykład: Zmiana kursu z 1 euro = 4,50 PLN na 1 euro = 4,70 PLN.",
     "rationales": [
-      "Teoria pokazuje, że wymiana jest możliwa nawet gdy jeden kraj ma przewagę we wszystkich produktach - ważne są koszty względne.",
-      "Koszty względne są kluczowe w teorii komparatywnej.",
-      "Teoria zakłada różnice w kosztach, nie ich jednakowość.",
-      "To główna teza teorii kosztów komparatywnych Ricarda."
+      "To przykład aprecjacji, nie deprecjacji.",
+      "To przykład aprecjacji, nie deprecjacji.",
+      "To dokładny przykład deprecjacji z materiału źródłowego.",
+      "To przykład deprecjacji, ale nie ten z materiału."
     ]
   },
   {
     "id": 32,
-    "category": "Teorie neoklasyczne",
-    "question": "Co głosi teoria obfitości zasobów Heckschera-Ohlina (H-O)?",
+    "category": "Globalizacja - deglobalizacja",
+    "question": "Które z poniższych wydarzeń są wymienione w materiale jako przyspieszające deglobalizację?",
     "options": [
-      "Kraje eksportują towary wymagające rzadkich czynników",
-      "Obfitość zasobów nie ma wpływu na handel",
-      "Wszystkie kraje mają takie same zasoby",
-      "Kraj będzie eksportował te towary, do których wytworzenia zużywa się relatywnie dużo czynnika produkcji w danym kraju względnie obfitego, a sprowadzał towary wymagające relatywnie dużo czynnika w danym kraju względnie rzadkiego"
+      "Tylko kryzys 2008",
+      "Kryzys 2008, covid-19, wojna w Ukrainie, napięcia USA-Chiny",
+      "Tylko covid-19 i wojna w Ukrainie",
+      "Tylko napięcia USA-Chiny"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Twierdzenie H-O: kraj będzie eksportował te towary, do których wytworzenia zużywa się relatywnie dużo czynnika produkcji w danym kraju względnie obfitego a sprowadzał z zagranicy towary, których produkcja wymaga relatywnie dużo czynnika produkcji w danym kraju względnie rzadkiego.",
+    "correctAnswerIndex": 1,
+    "explanation": "Wydarzenia przyspieszające deglobalizację: kryzys 2008, covid-19, wojna w Ukrainie, napięcia USA-Chiny.",
     "rationales": [
-      "Kraje eksportują towary wymagające obfitych czynników, nie rzadkich.",
-      "Obfitość zasobów jest kluczowa w teorii H-O.",
-      "Teoria H-O zakłada różnice w wyposażeniu krajów w czynniki produkcji.",
-      "To dokładna treść twierdzenia H-O z materiału."
+      "To tylko jedno z wymienionych wydarzeń, nie wszystkie.",
+      "To kompletna lista wydarzeń przyspieszających deglobalizację z materiału źródłowego.",
+      "To niekompletna lista wydarzeń.",
+      "To tylko jedno z wymienionych wydarzeń, nie wszystkie."
     ]
   },
   {
     "id": 33,
-    "category": "Teorie neoklasyczne",
-    "question": "Co odkrył paradoks Leontiefa?",
+    "category": "Teorie handlu - przedklasyczne",
+    "question": "Kto i kiedy najpełniej ujął zasady dogmatu słusznej ceny?",
     "options": [
-      "USA eksportuje tylko dobra kapitałochłonne",
-      "USA nie handluje z innymi krajami",
-      "Teoria H-O w pełni wyjaśnia strukturę handlu USA",
-      "W towarach eksportowanych przez USA W. Leontief odkrył więcej pracy a mniej kapitału, niż w towarach stanowiących substytuty dóbr importowanych przez ten kraj - co przeczyło teorii H-O"
+      "Arystoteles w IV w. p.n.e.",
+      "Św. Tomasz z Akwinu w XIII w.",
+      "Adam Smith w XVIII w.",
+      "David Ricardo w XIX w."
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "W latach 40 XX w. Leontief zastosował metodę przepływów międzygałęziowych do znalezienia odpowiedzi na pytanie czy w strukturze handlu zagranicznego USA znajduje się odbicie twierdzenia H-O. W towarach eksportowanych przez USA W. Leontief odkrył więcej pracy a mniej kapitału, niż w towarach stanowiących substytuty dóbr importowanych przez ten kraj. Główne przyczyny: więcej niż 2 czynniki produkcji, praca nie jest czynnikiem jednorodnym, różnice w konsumpcji, bariery celne.",
+    "correctAnswerIndex": 1,
+    "explanation": "Zasady dogmatu słusznej ceny w XIII w. najpełniej ujął św. Tomasz z Akwinu.",
     "rationales": [
-      "Paradoks pokazał, że USA eksportuje dobra pracochłonne, nie kapitałochłonne.",
-      "USA handluje z innymi krajami - paradoks dotyczy struktury tego handlu.",
-      "Paradoks pokazał, że teoria H-O nie w pełni wyjaśnia struktury handlu USA.",
-      "To dokładny opis paradoksu Leontiefa z materiału."
+      "Arystoteles nie formułował dogmatu słusznej ceny w takim kształcie.",
+      "To dokładna informacja z materiału źródłowego.",
+      "Adam Smith żył później i nie formułował dogmatu słusznej ceny.",
+      "David Ricardo żył później i nie formułował dogmatu słusznej ceny."
     ]
   },
   {
     "id": 34,
-    "category": "Teorie współczesne",
-    "question": "Co to są Globalne Łańcuchy Wartości (GVC)?",
+    "category": "Polityka handlowa - protekcjonizm",
+    "question": "Kiedy i gdzie protekcjonizm wystąpił po raz pierwszy jako świadoma polityka?",
     "options": [
-      "Handel tylko gotowymi produktami między krajami",
-      "Produkcja całego dobra w jednym kraju",
-      "Tylko handel surowcami",
-      "Produkcja jednego dobra rozbita na wiele etapów w różnych krajach. Kluczowe znaczenie ma pozycja kraju w łańcuchu - niski poziom to montaż i dostawy surowców, wysoki poziom to R&D, projektowanie, branding, marketing"
+      "W XVI w. we Francji",
+      "W XVII w. w Anglii",
+      "W XVIII w. w Niemczech",
+      "W XIX w. w USA"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Globalne łańcuchy wartość (Global Value Theory – GVC): Produkcja jednego dobra rozbita na wiele etapów w różnych krajach. Kluczowe znaczenie ma pozycja kraju w łańcuchu; - niski poziom -> montaż, dostawy surowców; - wysoki poziom -> R&D, projektowanie, branding, marketing.",
+    "correctAnswerIndex": 1,
+    "explanation": "Protekcjonizm jako świadoma polityka ochrony produkcji i rynku narodowego przed zagraniczną konkurencją wystąpił po raz pierwszy w merkantylizmie w XVII w. i był wtedy pierwszą i podstawową formą programu interwencji państwa w życie gospodarcze we wczesnokapitalistycznej Anglii.",
     "rationales": [
-      "GVC to podział produkcji na etapy, nie handel gotowymi produktami.",
-      "GVC zakłada produkcję w wielu krajach, nie w jednym.",
-      "GVC obejmuje wszystkie etapy produkcji, nie tylko surowce.",
-      "To dokładna definicja GVC z materiału."
+      "To nieprawidłowy wiek i kraj pierwszego wystąpienia protekcjonizmu.",
+      "To dokładna informacja z materiału źródłowego.",
+      "To nieprawidłowy wiek i kraj pierwszego wystąpienia protekcjonizmu.",
+      "To nieprawidłowy wiek i kraj pierwszego wystąpienia protekcjonizmu."
     ]
   },
   {
     "id": 35,
-    "category": "Teorie współczesne",
-    "question": "Co oznacza 'servicification of trade' (usługizacja handlu)?",
+    "category": "Instrumenty polityki handlowej - cło",
+    "question": "Która z poniższych jest definicją cła autorstwa A. Budnikowskiego i E. Kaweckiej-Wyrzykowskiej?",
     "options": [
-      "Spadek roli usług w handlu",
-      "Handel tylko towarami materialnymi",
-      "Brak usług w handlu międzynarodowym",
-      "Rosnąca rola usług w handlu światowym, także jako elementu towarów; przesunięcie ciężaru z towarów na usługi jako głównego źródła przewagi konkurencyjnej"
+      "Opłata pobierana od towaru zagranicznego w związku z przekroczeniem przez niego granicy celnej",
+      "Opłata pobierana przez państwo w określonej z góry wysokości w związku z przewiezieniem towaru przez granicę",
+      "Podatek, który nakłada się na towary przechodzące przez granicę celną określonego państwa",
+      "Forma podatku, którym obłożony jest towar przekraczający granicę celną państwa"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Servicification of trade (usługizacja handlu) - rosnąca rola usług w handlu światowym, także jako elementu towarów; przesunięcie ciężaru z towarów na usługi jako głównego źródła przewagi konkurencyjnej w handlu. Przykład: smartfon - oprócz urządzenia ogromna część wartości to system operacyjny, aplikacje, usługi w chmurze.",
+    "correctAnswerIndex": 0,
+    "explanation": "Cło według A. Budnikowskiego i E. Kaweckiej-Wyrzykowskiej: opłata pobierana od towaru zagranicznego w związku z przekroczeniem przez niego granicy celnej.",
     "rationales": [
-      "Usługizacja to wzrost, nie spadek roli usług.",
-      "Usługizacja zakłada rosnącą rolę usług, nie tylko towary materialne.",
-      "Usługizacja pokazuje rosnącą rolę usług, nie ich brak.",
-      "To dokładna definicja usługizacji handlu z materiału."
+      "To dokładna definicja z materiału źródłowego autorstwa A. Budnikowskiego i E. Kaweckiej-Wyrzykowskiej.",
+      "To definicja J. Rymarczyka, nie A. Budnikowskiego i E. Kaweckiej-Wyrzykowskiej.",
+      "To definicja K. Budzowskiego (2008), nie A. Budnikowskiego i E. Kaweckiej-Wyrzykowskiej.",
+      "To definicja A.B. Kisiel-Łowczyca, nie A. Budnikowskiego i E. Kaweckiej-Wyrzykowskiej."
     ]
   },
   {
     "id": 36,
-    "category": "Protekcjonizm vs wolny handel",
-    "question": "Co to jest protekcjonizm?",
+    "category": "Międzynarodowe przepływy siły roboczej - migracje zarobkowe",
+    "question": "Która organizacja w 2019 roku zdefiniowała migracje zarobkowe jako 'przemieszczanie się osoby lub grupy osób przez granicę międzynarodową lub w obrębie państwa motywowane wyłącznie lub przede wszystkim możliwościami ekonomicznymi'?",
     "options": [
-      "Całkowite otwarcie rynków bez żadnych barier",
-      "Tylko promowanie eksportu bez ochrony rynku krajowego",
-      "Brak ingerencji państwa w handel",
-      "Koncepcja opierająca się na przekonaniu, że w międzynarodowych stosunkach ekonomicznych nie ma zgodności interesów różnych krajów, obejmuje ogół działań interwencyjnych mających na celu ochronę produkcji krajowej przed konkurencyjnym importem oraz popieranie własnego eksportu"
+      "Międzynarodowa Organizacja ds. Migracji, 2019",
+      "Komisja Europejska",
+      "OECD",
+      "Bank Światowy"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Protekcjonizm to koncepcja opierająca się na przekonaniu, że w międzynarodowych stosunkach ekonomicznych nie ma zgodności interesów różnych krajów, a nieograniczona swoboda działania sił rynkowych może działać na niekorzyść krajów słabo rozwiniętych. Obejmuje ogół działań interwencyjnych na rynku, mających na celu ochronę produkcji krajowej przed konkurencyjnym importem oraz popieranie własnego eksportu za pomocą środków polityki ekonomicznej.",
+    "correctAnswerIndex": 0,
+    "explanation": "Międzynarodowa Organizacja ds. Migracji w 2019 roku zdefiniowała migracje zarobkowe jako 'przemieszczanie się osoby lub grupy osób przez granicę międzynarodową lub w obrębie państwa motywowane wyłącznie lub przede wszystkim możliwościami ekonomicznymi'.",
     "rationales": [
-      "Całkowite otwarcie rynków to wolny handel, nie protekcjonizm.",
-      "Protekcjonizm obejmuje zarówno ochronę rynku krajowego, jak i promowanie eksportu.",
-      "Protekcjonizm zakłada ingerencję państwa, nie jej brak.",
-      "To dokładna definicja protekcjonizmu z materiału."
+      "To dokładna informacja z materiału źródłowego.",
+      "Komisja Europejska ma inną definicję migracji zarobkowych.",
+      "OECD nie podało tej konkretnej definicji.",
+      "Bank Światowy nie podało tej konkretnej definicji."
     ]
   },
   {
     "id": 37,
-    "category": "Protekcjonizm vs wolny handel",
-    "question": "Co to jest wolny handel?",
+    "category": "Międzynarodowe przepływy technologii",
+    "question": "Kto zdefiniował technologię jako 'wiedzę niezbędną do wytwarzania dóbr i usług'?",
     "options": [
-      "Ochrona produkcji krajowej przed importem",
-      "Stosowanie ceł i kontyngentów",
-      "Promowanie tylko eksportu",
-      "Państwo nie ingeruje w sferę stosunków gospodarczych z zagranicą, wierząc, że działanie sił rynkowych ukształtuje te stosunki w sposób gwarantujący maksymalizację korzyści z wymiany"
+      "W. Orlikowski",
+      "T. Schlie",
+      "L. Steele",
+      "L. Balcerowicz"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Wolny handel to sytuacja, w której 'państwo nie ingeruje w sferę stosunków gospodarczych z zagranicą, wierząc, że działanie sił rynkowych ukształtuje te stosunki w sposób gwarantujący maksymalizację korzyści z wymiany'. Państwo powstrzymuje się od stosowania wszelkich barier ograniczających dostęp zagranicznych towarów i przedsiębiorstw do rynku krajowego oraz rezygnuje ze środków wspierania własnego eksportu.",
+    "correctAnswerIndex": 2,
+    "explanation": "L. Steele zdefiniował technologię jako 'wiedzę niezbędną do wytwarzania dóbr i usług'.",
     "rationales": [
-      "Ochrona produkcji krajowej to protekcjonizm, nie wolny handel.",
-      "Stosowanie ceł i kontyngentów to protekcjonizm, nie wolny handel.",
-      "Promowanie tylko eksportu to element protekcjonizmu, nie wolnego handlu.",
-      "To dokładna definicja wolnego handlu z materiału."
+      "W. Orlikowski zdefiniował technologię jako 'sprzęt, maszyny, urządzenia wykorzystywane przez człowieka w działalności produkcyjnej'.",
+      "T. Schlie zdefiniował technologię jako 'łańcuch wartości, ciąg powiązanych ze sobą czynności'.",
+      "To dokładna informacja z materiału źródłowego.",
+      "L. Balcerowicz zdefiniował międzynarodowy transfer wiedzy technicznej, nie technologię w ten sposób."
     ]
   },
   {
     "id": 38,
-    "category": "Instrumenty polityki handlowej",
-    "question": "Które z poniższych są instrumentami nietaryfowymi polityki handlowej?",
+    "category": "Ekonomia międzynarodowa - podstawy",
+    "question": "Kiedy w Polsce miały miejsce początki ekonomii międzynarodowej jako subdyscypliny?",
     "options": [
-      "Tylko cła",
-      "Tylko subsydia eksportowe",
-      "Tylko normy techniczne",
-      "Bariery parataryfowe (opłaty wyrównawcze, subsydia eksportowe, dumping, cła antydumpingowe) oraz bariery pozataryfowe (kwoty, ograniczenia ilościowe, normy techniczne, zakazy, licencje)"
+      "W latach 40-tych XX wieku",
+      "W latach 50-tych XX wieku",
+      "W latach 60-tych XX wieku",
+      "W latach 70-tych XX wieku"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Rodzaje instrumentów nietaryfowych: Bariery parataryfowe (ograniczają wymianę poprzez podwyższenie ceny dobra): zmienne opłaty wyrównawcze, dodatkowe opłaty nakładane na import, subwencjonowanie produkcji krajowej i eksportu (subsydia eksportowe), dumping, cła antydumpingowe, depozyty importowe, kontyngenty taryfowe. Bariery pozataryfowe (wpływają na wolumen obrotów): kwoty wartościowe lub ilościowe, ograniczenia ilościowe - 'dobrowolne' ograniczenia eksportu (VERs), ograniczenia dewizowe, normy techniczne, zdrowotne, zakazy eksportu lub importu, licencje importowe.",
+    "correctAnswerIndex": 2,
+    "explanation": "Ekonomia międzynarodowa wyodrębniła się z ekonomii w okresie międzywojennym, w Polsce początki to lata 60-te XX wieku.",
     "rationales": [
-      "Cła to instrumenty taryfowe, nie nietaryfowe.",
-      "Subsydia eksportowe to tylko jeden z instrumentów nietaryfowych.",
-      "Normy techniczne to tylko jeden z instrumentów nietaryfowych.",
-      "To kompletna lista instrumentów nietaryfowych z materiału."
+      "To nieprawidłowy okres początków w Polsce.",
+      "To nieprawidłowy okres początków w Polsce.",
+      "To dokładna informacja z materiału źródłowego.",
+      "To nieprawidłowy okres początków w Polsce."
     ]
   },
   {
     "id": 39,
-    "category": "Cło",
-    "question": "Co to jest cło?",
+    "category": "Gospodarka światowa",
+    "question": "Która rewolucja przemysłowa przyniosła przełom ilościowy i jakościowy oraz intensyfikację handlu międzynarodowego?",
     "options": [
-      "Podatek od sprzedaży wewnętrznej",
-      "Opłata za transport wewnętrzny",
-      "Subsydium dla eksporterów",
-      "Opłata pobierana od towaru zagranicznego w związku z przekroczeniem przez niego granicy celnej"
+      "I rewolucja przemysłowa (XVIII i XIX w.)",
+      "II rewolucja przemysłowa (koniec XIX w. do I wojny)",
+      "III rewolucja przemysłowa (lata 70-80 XX wieku)",
+      "IV rewolucja przemysłowa (rewolucja 4.0)"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Cło to opłata pobierana od towaru zagranicznego w związku z przekroczeniem przez niego granicy celnej. Inne definicje: opłata pobierana przez państwo w określonej z góry wysokości w związku z przewiezieniem towaru przez granicę; podatek, który nakłada się na towary przechodzące przez granicę celną określonego państwa.",
+    "correctAnswerIndex": 0,
+    "explanation": "I rewolucja przemysłowa (XVIII i XIX w.) przyniosła przełom ilościowy i jakościowy, intensyfikację handlu międzynarodowego, intensyfikację podziału pracy, trwałe zmiany w strukturze produkcji i zmiany w strukturze rolnictwa.",
     "rationales": [
-      "Podatek od sprzedaży wewnętrznej to VAT lub podatek obrotowy, nie cło.",
-      "Cło dotyczy przekraczania granicy celnej, nie transportu wewnętrznego.",
-      "Subsydium dla eksporterów to inny instrument, nie cło.",
-      "To dokładna definicja cła z materiału."
+      "To dokładna informacja z materiału źródłowego.",
+      "II rewolucja przyniosła przyspieszenie postępu technicznego, nie te efekty.",
+      "III rewolucja była najważniejszą przyczyną globalizacji, nie przyniosła tych efektów.",
+      "IV rewolucja to rewolucja 4.0, nie przyniosła tych efektów."
     ]
   },
   {
     "id": 40,
-    "category": "Cło",
-    "question": "Jakie są rodzaje ceł z punktu widzenia ruchu towarów?",
+    "category": "Gospodarka światowa",
+    "question": "Która rewolucja przemysłowa przyniosła przyspieszenie postępu technicznego?",
     "options": [
-      "Tylko importowe",
+      "II rewolucja przemysłowa (koniec XIX w. do I wojny)",
+      "I rewolucja przemysłowa (XVIII i XIX w.)",
+      "III rewolucja przemysłowa (lata 70-80 XX wieku)",
+      "IV rewolucja przemysłowa (rewolucja 4.0)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "II rewolucja przemysłowa (koniec XIX w. do I wojny) przyniosła przyspieszenie postępu technicznego.",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego.",
+      "I rewolucja przyniosła intensyfikację handlu, nie przyspieszenie postępu technicznego.",
+      "III rewolucja była najważniejszą przyczyną globalizacji, nie przyniosła tego efektu.",
+      "IV rewolucja to rewolucja 4.0, nie przyniosła tego efektu."
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Globalizacja - stymulatory i bariery",
+    "question": "Które z poniższych są stymulatorami globalizacji?",
+    "options": [
+      "Niestabilność przepisów prawa",
+      "Ksenofobia i egocentryzm",
+      "Ułatwienia transportowe i integracja międzynarodowa",
+      "Odmienności kulturowe i religijne"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Stymulatory globalizacji: wszelkie ułatwienia transportowe oraz integracja międzynarodowa (z jednej strony stymulują).",
+    "rationales": [
+      "Niestabilność przepisów prawa ma negatywny wpływ i spowalnia globalizację.",
+      "Ksenofobia i egocentryzm są czynnikami socjopsychologicznymi spowalniającymi globalizację.",
+      "To dokładna informacja z materiału źródłowego.",
+      "Odmienności kulturowe i religijne spowalniają globalizację."
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Formy ugrupowań integracyjnych",
+    "question": "Która z poniższych jest pierwszą formą ekonomicznej integracji?",
+    "options": [
+      "Strefa wolnego handlu",
+      "Unia celna",
+      "Wspólny rynek",
+      "Unia gospodarcza"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Formy ekonomicznej integracji w kolejności: Strefa wolnego handlu, Unia celna, Wspólny rynek, Unia gospodarcza, Unia polityczna.",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego - pierwsza forma to strefa wolnego handlu.",
+      "Unia celna to druga forma, nie pierwsza.",
+      "Wspólny rynek to trzecia forma, nie pierwsza.",
+      "Unia gospodarcza to czwarta forma, nie pierwsza."
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Międzynarodowe organizacje gospodarcze (Bank Światowy)",
+    "question": "Która instytucja wchodzi w skład Grupy Banku Światowego i ma skrót MBOiR?",
+    "options": [
+      "Międzynarodowy Bank Odbudowy i Rozwoju (MBOiR)",
+      "Międzynarodowe Stowarzyszenie Rozwoju (MSR)",
+      "Międzynarodowa Korporacja Finansowa (MKF)",
+      "Wielostronna Agencja Gwarancji Inwestycyjnych (MIGA)"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Grupa Banku Światowego: Międzynarodowy Bank Odbudowy i Rozwoju – w skrócie MBOiR.",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego.",
+      "MSR to Międzynarodowe Stowarzyszenie Rozwoju, nie MBOiR.",
+      "MKF to Międzynarodowa Korporacja Finansowa, nie MBOiR.",
+      "MIGA to Wielostronna Agencja Gwarancji Inwestycyjnych, nie MBOiR."
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Światowy system handlu",
+    "question": "Które państwo i w którym roku zaproponowało utworzenie Światowej Organizacji Handlu (ITO)?",
+    "options": [
+      "USA w 1945 r.",
+      "USA w 1944 r.",
+      "Wielka Brytania w 1945 r.",
+      "Francja w 1946 r."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Świadomość potrzeby koordynacji polityki handlu zagranicznego pojawiła się po zakończeniu IIWŚ. Inicjatorem były USA, które jeszcze w 45'r. Zaproponowały utworzenie Światowej Organizacji Handlu (ITO).",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego.",
+      "To rok utworzenia MFW, nie propozycji ITO.",
+      "Wielka Brytania nie była inicjatorem ITO.",
+      "Francja nie była inicjatorem ITO."
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Globalizacja - skutki negatywne",
+    "question": "Który z poniższych negatywnych skutków globalizacji jest wymieniony w materiale jako 'drenaż mózgów'?",
+    "options": [
+      "Wzrost bezrobocia na skutek automatyzacji",
+      "Pranie brudnych pieniędzy",
+      "Drenaż mózgów, czyli przenoszenie się najlepszych specjalistów do światowych ośrodków badawczych",
+      "Konsumpcjonizm"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Negatywny skutek globalizacji: 'drenaż mózgów', czyli przenoszenie się najlepszych specjalistów do światowych ośrodków badawczych.",
+    "rationales": [
+      "Wzrost bezrobocia to inny negatywny skutek, nie drenaż mózgów.",
+      "Pranie brudnych pieniędzy to inny negatywny skutek, nie drenaż mózgów.",
+      "To dokładna definicja drenażu mózgów z materiału źródłowego.",
+      "Konsumpcjonizm to inny negatywny skutek, nie drenaż mózgów."
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Globalizacja - skutki pozytywne",
+    "question": "Który z poniższych pozytywnych skutków globalizacji jest wymieniony w materiale?",
+    "options": [
+      "Większa dostępność do technologii",
+      "Spadek konkurencji",
+      "Centralizacja zarządzania",
+      "Brak różnorodności towarów"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pozytywny skutek globalizacji: Większa dostępność do technologii.",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego.",
+      "Globalizacja przynosi wyższy poziom konkurencji, nie spadek.",
+      "Globalizacja przynosi przejście od centralizacji do decentralizacji, nie centralizację.",
+      "Globalizacja przynosi różnorodność towarów, nie jej brak."
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Podmioty gospodarki światowej",
+    "question": "Ile krajów musi obejmować działalność przedsiębiorstwa, aby było uznane za korporację transnarodową?",
+    "options": [
+      "Przynajmniej 2 kraje",
+      "Przynajmniej 1 kraj",
+      "Przynajmniej 3 kraje",
+      "Przynajmniej 5 krajów"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Przedsiębiorstwo międzynarodowe (korporacje transnarodowe): Przedsiębiorstwo, które spełnia warunek prowadzenia działalności biznesowej opartej na własności aktywów i ich kontroli przynajmniej w 2 krajach.",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego.",
+      "To za mało - potrzeba przynajmniej 2 krajów.",
+      "To więcej niż wymagane minimum.",
+      "To więcej niż wymagane minimum."
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Formy ugrupowań integracyjnych",
+    "question": "Która z poniższych jest pierwszą formą ekonomicznej integracji?",
+    "options": [
+      "Strefa wolnego handlu",
+      "Unia celna",
+      "Wspólny rynek",
+      "Unia gospodarcza"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Formy ekonomicznej integracji w kolejności: Strefa wolnego handlu, Unia celna, Wspólny rynek, Unia gospodarcza, Unia polityczna.",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego - pierwsza forma to strefa wolnego handlu.",
+      "Unia celna to druga forma, nie pierwsza.",
+      "Wspólny rynek to trzecia forma, nie pierwsza.",
+      "Unia gospodarcza to czwarta forma, nie pierwsza."
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Formy ugrupowań integracyjnych",
+    "question": "Która z poniższych jest ostatnią (najwyższą) formą ekonomicznej integracji?",
+    "options": [
+      "Wspólny rynek",
+      "Unia gospodarcza",
+      "Unia polityczna",
+      "Strefa wolnego handlu"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Formy ekonomicznej integracji w kolejności: Strefa wolnego handlu, Unia celna, Wspólny rynek, Unia gospodarcza, Unia polityczna.",
+    "rationales": [
+      "Wspólny rynek to trzecia forma, nie ostatnia.",
+      "Unia gospodarcza to czwarta forma, nie ostatnia.",
+      "To dokładna informacja z materiału źródłowego - ostatnia forma to unia polityczna.",
+      "Strefa wolnego handlu to pierwsza forma, nie ostatnia."
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Handel zagraniczny i międzynarodowy",
+    "question": "Co to jest handel zagraniczny według materiału źródłowego?",
+    "options": [
+      "Wymiana rozpatrywana z punktu widzenia jednego kraju i jego otoczenia zagranicznego",
+      "Wymiana pomiędzy różnymi gospodarkami narodowymi analizowana z 'lotu ptaka'",
+      "Tylko eksport towarów",
+      "Tylko import towarów"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "HANDEL ZAGRANICZNY to wymiana rozpatrywana z punktu widzenia jednego kraju i jego otoczenia zagranicznego.",
+    "rationales": [
+      "To dokładna definicja handlu zagranicznego z materiału źródłowego.",
+      "To definicja handlu międzynarodowego, nie zagranicznego.",
+      "Handel zagraniczny obejmuje zarówno eksport, jak i import.",
+      "Handel zagraniczny obejmuje zarówno eksport, jak i import."
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Handel zagraniczny i międzynarodowy",
+    "question": "Co to jest handel międzynarodowy według materiału źródłowego?",
+    "options": [
+      "Wymiana pomiędzy różnymi gospodarkami narodowymi, kiedy strumienie handlu analizowane są z przysłowiowego 'lotu ptaka' między parą krajów",
+      "Wymiana rozpatrywana z punktu widzenia jednego kraju",
+      "Tylko handel w ramach ugrupowania integracyjnego",
+      "Tylko handel między kontynentami"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "HANDEL MIĘDZYNARODOWY to wymiana pomiędzy różnymi gospodarkami narodowymi, kiedy strumienie handlu analizowane są z przysłowiowego 'lotu ptaka' między parą krajów, na poziomie pewnej grupy gospodarek np. w ramach ugrupowania integracyjnego, kontynentu lub pomiędzy kontynentami.",
+    "rationales": [
+      "To dokładna definicja handlu międzynarodowego z materiału źródłowego.",
+      "To definicja handlu zagranicznego, nie międzynarodowego.",
+      "Handel międzynarodowy może być w ramach ugrupowania, ale to tylko jeden z przykładów.",
+      "Handel międzynarodowy może być między kontynentami, ale to tylko jeden z przykładów."
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Teorie handlu - przedklasyczne",
+    "question": "Które starożytne cywilizacje są wymienione w materiale w kontekście teorii przedklasycznej?",
+    "options": [
+      "Starożytny Egipt, Fenicja, Grecja, Rzym",
+      "Tylko Starożytny Egipt",
+      "Tylko Grecja i Rzym",
+      "Tylko Fenicja"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Teoria przedklasyczna: Starożytny Egipt, Fenicja, Grecja, Rzym.",
+    "rationales": [
+      "To dokładna lista cywilizacji z materiału źródłowego.",
+      "To niekompletna lista z materiału.",
+      "To niekompletna lista z materiału.",
+      "To niekompletna lista z materiału."
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Teorie handlu - klasyczne",
+    "question": "Ile krajów i ile produktów zakłada teoria kosztów absolutnych?",
+    "options": [
+      "Jeden kraj, jeden produkt",
+      "Dwa kraje, jeden produkt",
+      "Dwa kraje, dwa produkty",
+      "Trzy kraje, dwa produkty"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Teoria kosztów absolutnych: Dwa kraje, dwa produkty!",
+    "rationales": [
+      "To nieprawidłowe założenia teorii kosztów absolutnych.",
+      "To nieprawidłowe założenia teorii kosztów absolutnych.",
+      "To dokładna informacja z materiału źródłowego.",
+      "To nieprawidłowe założenia teorii kosztów absolutnych."
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Teorie handlu - neoklasyczne (H-O)",
+    "question": "Ile czynników produkcji zakłada teoria Heckschera-Ohlina (H-O)?",
+    "options": [
+      "Dwa czynniki - kapitał i praca",
+      "Jeden czynnik - praca",
+      "Trzy czynniki - kapitał, praca, ziemia",
+      "Cztery czynniki - kapitał, praca, ziemia, technologia"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Teoria obfitości zasobów - teoria Heckschera-Ohlina (H-O): dwa kraje, dwa towary, dwa jednolite czynniki produkcji: kapitał i praca.",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego.",
+      "To założenie teorii klasycznej, nie H-O.",
+      "To więcej czynników niż zakłada teoria H-O.",
+      "To więcej czynników niż zakłada teoria H-O."
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Teorie handlu - neotechnologiczne",
+    "question": "Ile faz przechodzi produkt-innowacja według teorii cyklu życia produktu?",
+    "options": [
+      "Trzy fazy",
+      "Dwie fazy",
+      "Cztery fazy",
+      "Pięć faz"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Teoria cyklu życia produktu: handel międzynarodowy jest pochodną przechodzenia danego produktu-innowacji kolejno przez trzy fazy: Fazę innowacyjną - wprowadzenia, Fazę dojrzewania – wzrostu, Fazę standaryzacji.",
+    "rationales": [
+      "To dokładna informacja z materiału źródłowego - trzy fazy.",
+      "To nieprawidłowa liczba faz w teorii cyklu życia produktu.",
+      "To nieprawidłowa liczba faz w teorii cyklu życia produktu.",
+      "To nieprawidłowa liczba faz w teorii cyklu życia produktu."
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Teorie handlu - korzyści skali",
+    "question": "Które korzyści skali polegają na spadku kosztów przeciętnych nie w wyniku zwiększenia skali produkcji w danym przedsiębiorstwie, ale wielkości produkcji danej branży?",
+    "options": [
+      "Wewnętrzne korzyści skali",
+      "Korzyści techniczne",
+      "Zewnętrzne korzyści skali",
+      "Korzyści organizacyjne"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Zewnętrzne korzyści skali polegają na spadku kosztów przeciętnych nie w wyniku zwiększenia skali produkcji w danym przedsiębiorstwie, ale wielkości produkcji danej branży.",
+    "rationales": [
+      "Wewnętrzne korzyści skali mają miejsce, gdy wzrost rozmiarów produkcji wewnątrz przedsiębiorstwa pozwala na obniżenie kosztów przeciętnych.",
+      "To nieprawidłowa kategoria korzyści skali.",
+      "To dokładna definicja zewnętrznych korzyści skali z materiału źródłowego.",
+      "To nieprawidłowa kategoria korzyści skali."
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Teorie handlu - wewnątrzgałęziowy",
+    "question": "Co to jest handel wewnątrzgałęziowy według materiału źródłowego?",
+    "options": [
+      "Wymiana produktów pochodzących z różnych gałęzi przemysłu",
+      "Tylko handel surowcami",
+      "Wymiana produktów pochodzących z jednej gałęzi przemysłu",
+      "Tylko handel usługami"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Handel wewnątrzgałęziowy to wymiana produktów pochodzących z jednej gałęzi przemysłu. Gałąź to dobra będące bliskimi substytutami w produkcji lub konsumpcji.",
+    "rationales": [
+      "To definicja handlu międzygałęziowego, nie wewnątrzgałęziowego.",
+      "Handel wewnątrzgałęziowy może dotyczyć różnych produktów, nie tylko surowców.",
+      "To dokładna definicja handlu wewnątrzgałęziowego z materiału źródłowego.",
+      "Handel wewnątrzgałęziowy może dotyczyć różnych produktów, nie tylko usług."
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Nowoczesne teorie handlu - GVC",
+    "question": "Co oznacza niski poziom w Globalnych Łańcuchach Wartości (GVC)?",
+    "options": [
+      "R&D, projektowanie, branding, marketing",
+      "Tylko montaż",
+      "Montaż, dostawy surowców",
+      "Tylko dostawy surowców"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Globalne łańcuchy wartości (GVC): niski poziom -> montaż, dostawy surowców; wysoki poziom -> R&D, projektowanie, branding, marketing.",
+    "rationales": [
+      "To wysoki poziom w GVC, nie niski.",
+      "To niekompletna definicja niskiego poziomu.",
+      "To dokładna informacja z materiału źródłowego o niskim poziomie w GVC.",
+      "To niekompletna definicja niskiego poziomu."
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Nowoczesne teorie handlu - Digital Trade",
+    "question": "Które z poniższych są przykładami handlu cyfrowego wymienionymi w materiale?",
+    "options": [
+      "Tylko Amazon",
+      "Tylko platformy e-commerce",
+      "Amazon, Netflix, Spotify, kursy online, aplikacje",
+      "Tylko usługi online"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Handel cyfrowy (Digital Trade) obejmuje e-commerce, platformy cyfrowe i usługi online (np. Amazon, Netflix, Spotify, kursy online, aplikacje).",
+    "rationales": [
+      "To tylko jeden z przykładów, nie wszystkie.",
+      "To tylko jedna kategoria, nie wszystkie przykłady.",
+      "To dokładna lista przykładów z materiału źródłowego.",
+      "To tylko jedna kategoria, nie wszystkie przykłady."
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Nowoczesne teorie handlu - Porter's Diamond",
+    "question": "Ile czynników tworzy 'diament' w teorii przewag konkurencyjnych Portera?",
+    "options": [
+      "Dwa czynniki",
+      "Trzy czynniki",
+      "Cztery czynniki",
+      "Pięć czynników"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Teoria przewag konkurencyjnych Portera (Diamond Model): przewaga kraju wynika z czterech powiązanych czynników: czynniki produkcji, warunki popytu, branże pokrewne i wspierające, strategia, struktura i rywalizacja firm.",
+    "rationales": [
+      "To za mało czynników w teorii Portera.",
+      "To za mało czynników w teorii Portera.",
+      "To dokładna informacja z materiału źródłowego - cztery czynniki tworzące 'diament'.",
+      "To za dużo czynników w teorii Portera."
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Nowoczesne teorie handlu - New Growth Theory",
+    "question": "Które regiony są wymienione w materiale jako dominujące w sektorach wysokich technologii?",
+    "options": [
+      "Tylko USA",
+      "Tylko UE",
+      "USA i UE",
+      "USA, UE i Japonia"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Teorie handlu oparte na wiedzy i innowacjach: USA i UE – dominacja w sektorach wysokich technologii: AI, biotechnologia, farmacja.",
+    "rationales": [
+      "To niekompletna lista z materiału.",
+      "To niekompletna lista z materiału.",
+      "To dokładna informacja z materiału źródłowego.",
+      "Japonia nie jest wymieniona w tym kontekście w materiale."
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Polityka handlowa - protekcjonizm",
+    "question": "Który z poniższych jest argumentem ekonomicznym na rzecz protekcjonizmu wymienionym w materiale?",
+    "options": [
+      "Zwiększenie importu",
+      "Wzrost konkurencji",
+      "Spadek inflacji",
+      "Ochrona nowo powstających gałęzi przemysłu"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Argumenty na rzecz protekcjonizmu o charakterze ekonomicznym: Ochrona nowo powstających gałęzi przemysłu, Groźba zniszczenia rynku krajowego, Ochrona bilansu płatniczego, Ochrona zatrudnienia, dochodów, Przeciwdziałanie zakłóceniom na rynkach czynników produkcji, Bezpieczeństwo ekonomiczne państwa.",
+    "rationales": [
+      "Zwiększenie importu to efekt wolnego handlu, nie argument za protekcjonizmem.",
+      "Wzrost konkurencji to argument za wolnym handlem, nie protekcjonizmem.",
+      "Spadek inflacji to argument za wolnym handlem, nie protekcjonizmem.",
+      "To dokładna informacja z materiału źródłowego."
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Polityka handlowa - wolny handel",
+    "question": "Co oznacza wolny handel według materiału źródłowego?",
+    "options": [
+      "Państwo ingeruje w stosunki gospodarcze z zagranicą",
+      "Państwo promuje tylko eksport",
+      "Państwo stosuje cła i kontyngenty",
+      "Państwo nie ingeruje w sferę stosunków gospodarczych z zagranicą, wierząc, że działanie sił rynkowych ukształtuje te stosunki w sposób gwarantujący maksymalizację korzyści z wymiany"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Wolny handel: 'państwo nie ingeruje w sferę stosunków gospodarczych z zagranicą, wierząc, że działanie sił rynkowych ukształtuje te stosunki w sposób gwarantujący maksymalizację korzyści z wymiany'.",
+    "rationales": [
+      "To definicja protekcjonizmu, nie wolnego handlu.",
+      "Promowanie tylko eksportu to element protekcjonizmu, nie wolnego handlu.",
+      "Stosowanie ceł i kontyngentów to protekcjonizm, nie wolny handel.",
+      "To dokładna definicja wolnego handlu z materiału źródłowego."
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Instrumenty polityki handlowej - nietaryfowe",
+    "question": "Które z poniższych są barierami parataryfowymi wymienionymi w materiale?",
+    "options": [
+      "Tylko opłaty wyrównawcze",
+      "Tylko normy techniczne",
+      "Tylko kwoty",
+      "(zmienne) opłaty wyrównawcze, dodatkowe opłaty nakładane na import, subwencjonowanie produkcji krajowej i eksportu (subsydia eksportowe), dumping, cła antydumpingowe, depozyty importowe, kontyngenty taryfowe"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Bariery parataryfowe (ograniczają wymianę poprzez podwyższenie ceny dobra): (zmienne) opłaty wyrównawcze, dodatkowe opłaty nakładane na import, subwencjonowanie produkcji krajowej i eksportu (subsydia eksportowe), dumping, cła antydumpingowe, depozyty importowe, kontyngenty taryfowe.",
+    "rationales": [
+      "To tylko jeden z instrumentów, nie wszystkie bariery parataryfowe.",
+      "Normy techniczne to bariery pozataryfowe, nie parataryfowe.",
+      "Kwoty to bariery pozataryfowe, nie parataryfowe.",
+      "To kompletna lista barier parataryfowych z materiału źródłowego."
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Instrumenty polityki handlowej - nietaryfowe",
+    "question": "Co oznaczają skróty VERs w kontekście barier pozataryfowych?",
+    "options": [
+      "Voluntary Export Restrictions",
+      "Value Export Regulations",
+      "Variable Export Rates",
+      "Voluntary Export Restraints"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Ograniczenia ilościowe - 'dobrowolne' ograniczenia eksportu (VERs – Voluntary Export Restraints).",
+    "rationales": [
+      "To nieprawidłowa rozszerzona forma skrótu VERs.",
+      "To nieprawidłowa rozszerzona forma skrótu VERs.",
+      "To nieprawidłowa rozszerzona forma skrótu VERs.",
+      "To dokładna rozszerzona forma skrótu VERs z materiału źródłowego."
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Instrumenty polityki handlowej - cło",
+    "question": "Które z poniższych są rodzajami ceł z punktu widzenia ruchu towarów wymienionymi w materiale?",
+    "options": [
       "Tylko eksportowe",
       "Tylko tranzytowe",
+      "Tylko importowe i eksportowe",
       "Eksportowe, importowe, tranzytowe"
     ],
     "correctAnswerIndex": 3,
     "explanation": "Rodzaje ceł z punktu widzenia ruchu towarów: Eksportowe, Importowe, Tranzytowe.",
     "rationales": [
-      "Importowe to tylko jeden z rodzajów ceł.",
-      "Eksportowe to tylko jeden z rodzajów ceł.",
-      "Tranzytowe to tylko jeden z rodzajów ceł.",
-      "To kompletna lista rodzajów ceł z punktu widzenia ruchu towarów z materiału."
+      "To tylko jeden z rodzajów ceł, nie wszystkie.",
+      "To tylko jeden z rodzajów ceł, nie wszystkie.",
+      "To niekompletna lista rodzajów ceł.",
+      "To kompletna lista rodzajów ceł z punktu widzenia ruchu towarów z materiału źródłowego."
     ]
   },
   {
-    "id": 41,
-    "category": "Bezpośrednie inwestycje zagraniczne",
-    "question": "Co to są bezpośrednie inwestycje zagraniczne (BIZ)?",
+    "id": 67,
+    "category": "Instrumenty polityki handlowej - taryfa celna",
+    "question": "Kto aktualizuje codziennie taryfę użytkową Taric/Isztar 4?",
     "options": [
-      "Kupno akcji bez kontroli nad przedsiębiorstwem",
-      "Krótkoterminowe lokaty kapitałowe",
-      "Tylko kredyty handlowe",
-      "Inwestycja dokonana w kraju innym niż kraj pochodzenia inwestora, w celu uzyskania trwałego przychodu, przy czym zamiarem inwestora jest posiadanie efektywnej kontroli zarządzania przedsiębiorstwem"
+      "Komisja Europejska",
+      "Ministerstwo Finansów",
+      "Narodowy Bank Polski",
+      "DG TAXUD"
     ],
     "correctAnswerIndex": 3,
-    "explanation": "Bezpośrednie inwestycje zagraniczne to inwestycja dokonana w kraju innym niż kraj pochodzenia inwestora, w celu uzyskania trwałego przychodu, przy czym zamiarem inwestora jest posiadanie efektywnej kontroli zarządzania przedsiębiorstwem [MFW]. Według OECD i MFW inwestycja może być uznana za bezpośrednią, jeśli w jej wyniku udział inwestora w spółce jest nie mniejszy niż 10%.",
+    "explanation": "Taric/Isztar 4 - Taryfa użytkowa dostępna online we wszystkich językach urzędowych Unii w postaci bazy danych, aktualizowana codziennie przez DG TAXUD.",
     "rationales": [
-      "Kupno akcji bez kontroli to inwestycje portfelowe, nie bezpośrednie.",
-      "BIZ to inwestycje długoterminowe z kontrolą, nie krótkoterminowe lokaty.",
-      "Kredyty handlowe to inna forma przepływów kapitałowych, nie BIZ.",
-      "To dokładna definicja BIZ z materiału."
+      "Komisja Europejska nie aktualizuje bezpośrednio taryfy.",
+      "Ministerstwo Finansów nie aktualizuje taryfy UE.",
+      "NBP nie jest odpowiedzialny za taryfę celną UE.",
+      "To dokładna informacja z materiału źródłowego."
     ]
   },
   {
-    "id": 42,
-    "category": "Bezpośrednie inwestycje zagraniczne",
-    "question": "Jakie są formy bezpośrednich inwestycji zagranicznych?",
+    "id": 68,
+    "category": "Międzynarodowe przepływy kapitału - BIZ",
+    "question": "Co oznacza GREENFIELD INVESTMENT?",
     "options": [
-      "Tylko utworzenie nowego przedsiębiorstwa",
-      "Tylko przejęcie istniejącego przedsiębiorstwa",
-      "Tylko kupno akcji bez kontroli",
-      "Utworzenie nowego przedsiębiorstwa za granicą (GREENFIELD INVESTMENT) oraz przejęcie istniejącego przedsiębiorstwa za granicą (BROWNFIELD INVESTMENT)"
+      "Przejęcie istniejącego przedsiębiorstwa za granicą",
+      "Krótkoterminowa lokata kapitałowa",
+      "Kupno akcji bez kontroli",
+      "Utworzenie nowego przedsiębiorstwa za granicą"
     ],
     "correctAnswerIndex": 3,
     "explanation": "Formy BIZ: Utworzenie nowego przedsiębiorstwa za granicą - GREENFIELD INVESTMENT oraz Aktywizacja - przejęcie istniejącego przedsiębiorstwa za granicą - BROWNFIELD INVESTMENT.",
     "rationales": [
-      "Utworzenie nowego przedsiębiorstwa to tylko jedna z form BIZ.",
-      "Przejęcie istniejącego przedsiębiorstwa to tylko jedna z form BIZ.",
-      "Kupno akcji bez kontroli to inwestycje portfelowe, nie BIZ.",
-      "To kompletna lista form BIZ z materiału."
+      "To definicja BROWNFIELD INVESTMENT, nie GREENFIELD.",
+      "To nie forma BIZ.",
+      "To inwestycje portfelowe, nie BIZ.",
+      "To dokładna definicja GREENFIELD INVESTMENT z materiału źródłowego."
     ]
   },
   {
-    "id": 43,
-    "category": "Migracje",
-    "question": "Co to są migracje zarobkowe?",
+    "id": 69,
+    "category": "Międzynarodowe przepływy kapitału - BIZ",
+    "question": "Które z poniższych są motywami BIZ wymienionymi w materiale?",
     "options": [
-      "Tylko migracje wewnętrzne w obrębie jednego kraju",
-      "Tylko migracje z przyczyn politycznych",
-      "Tylko migracje z przyczyn rodzinnych",
-      "Przemieszczanie się osoby lub grupy osób przez granicę międzynarodową lub w obrębie państwa motywowane wyłącznie lub przede wszystkim możliwościami ekonomicznymi"
+      "Tylko zaopatrzeniowe i rynkowe",
+      "Tylko strategiczne",
+      "Tylko kosztowe i polityczne",
+      "Zaopatrzeniowe, rynkowe, kosztowe, polityczne, strategiczne"
     ],
     "correctAnswerIndex": 3,
-    "explanation": "Migracje zarobkowe to 'przemieszczanie się osoby lub grupy osób przez granicę międzynarodową lub w obrębie państwa motywowane wyłącznie lub przede wszystkim możliwościami ekonomicznymi' [Międzynarodowa Organizacja ds. Migracji, 2019] lub 'migracja głównie z przyczyn ekonomicznych lub w celu poszukiwania istotnych ulepszeń w zakresie poziomu życia' [Komisja Europejska].",
+    "explanation": "Motywy BIZ: Zaopatrzeniowe, Rynkowe, Kosztowe, Polityczne, Strategiczne.",
     "rationales": [
-      "Migracje zarobkowe mogą być zarówno międzynarodowe, jak i wewnętrzne.",
-      "Migracje z przyczyn politycznych to migracje polityczne, nie zarobkowe.",
-      "Migracje z przyczyn rodzinnych to migracje rodzinne, nie zarobkowe.",
-      "To dokładna definicja migracji zarobkowych z materiału."
+      "To niekompletna lista motywów BIZ.",
+      "To niekompletna lista motywów BIZ.",
+      "To niekompletna lista motywów BIZ.",
+      "To kompletna lista motywów BIZ z materiału źródłowego."
     ]
   },
   {
-    "id": 44,
-    "category": "Transfer technologii",
-    "question": "Co to jest transfer technologii?",
+    "id": 70,
+    "category": "Międzynarodowe przepływy siły roboczej",
+    "question": "Jaki jest minimalny okres zmiany miejsca pobytu i zamieszkania, aby była to migracja według materiału?",
     "options": [
-      "Tylko sprzedaż gotowych produktów",
-      "Tylko handel surowcami",
-      "Tylko przepływ kapitału",
-      "Przemieszczanie się wiedzy technicznej, które prowadzi do zmian jakościowych zachodzących zarówno w poszczególnych krajach, jak i w gospodarce światowej"
+      "Nie krótszy niż 6 miesięcy",
+      "Nie krótszy niż 3 lata",
+      "Nie krótszy niż 2 lata",
+      "Nie krótszy niż jeden rok"
     ],
     "correctAnswerIndex": 3,
-    "explanation": "Transfer technologii to przemieszczanie się wiedzy technicznej, które prowadzi do zmian jakościowych zachodzących zarówno w poszczególnych krajach, jak i w gospodarce światowej. Międzynarodowy transfer wiedzy technicznej ma miejsce wtedy, gdy określona wiedza dostępna w danym momencie w jednym kraju staje się znana w inny sposób niż całkiem niezależne badania, poszukiwania, gromadzenie doświadczenia etc.",
+    "explanation": "Przepływ siły roboczej (migracja) to zmiana miejsca pobytu i zamieszkania na okres nie krótszy niż jeden rok.",
     "rationales": [
-      "Sprzedaż gotowych produktów może zawierać technologię, ale transfer technologii to szersze pojęcie.",
-      "Handel surowcami to przepływ towarów, nie transfer technologii.",
-      "Przepływ kapitału to inna kategoria, choć może towarzyszyć transferowi technologii.",
-      "To dokładna definicja transferu technologii z materiału."
+      "To za krótki okres dla uznania migracji.",
+      "To dłuższy okres niż wymagany minimum.",
+      "To dłuższy okres niż wymagany minimum.",
+      "To dokładna informacja z materiału źródłowego."
     ]
   },
   {
-    "id": 45,
+    "id": 71,
+    "category": "Międzynarodowe przepływy technologii",
+    "question": "Kto zdefiniował międzynarodowy transfer wiedzy technicznej jako proces, w którym określona wiedza dostępna w jednym kraju staje się znana w inny sposób niż całkiem niezależne badania?",
+    "options": [
+      "W. Orlikowski",
+      "T. Schlie",
+      "L. Steele",
+      "L. Balcerowicz"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Międzynarodowy transfer wiedzy technicznej ma miejsce wtedy, gdy określona wiedza dostępna w danym momencie w jednym kraju staje się znana w inny sposób niż całkiem niezależne badania, poszukiwania, gromadzenie doświadczenia etc. [L. Balcerowicz].",
+    "rationales": [
+      "W. Orlikowski zdefiniował technologię jako obiekty fizyczne, nie transfer.",
+      "T. Schlie zdefiniował technologię jako procesy, nie transfer.",
+      "L. Steele zdefiniował technologię jako wiedzę, nie transfer.",
+      "To dokładna informacja z materiału źródłowego - definicja L. Balcerowicza."
+    ]
+  },
+  {
+    "id": 72,
     "category": "Kurs walutowy",
-    "question": "Co to jest kurs walutowy?",
+    "question": "Które z poniższych są funkcjami kursu walutowego wymienionymi w materiale?",
     "options": [
-      "Tylko cena złota",
-      "Tylko stopa procentowa",
-      "Tylko inflacja",
-      "Wartość waluty danego kraju wyrażona w walucie obcej; cena waluty obcej wyrażona w walucie krajowej; stosunek, w jakim dokonuje się wymiany określonej ilości danej waluty na jednostkę innej waluty"
+      "Tylko cenotwórcza",
+      "Tylko cenotwórcza i informacyjna",
+      "Tylko informacyjna i alokacyjna",
+      "Cenotwórcza, informacyjna, alokacyjna"
     ],
     "correctAnswerIndex": 3,
-    "explanation": "KURS WALUTOWY to wartość waluty danego kraju wyrażona w walucie obcej; cena waluty obcej wyrażona w walucie krajowej; stosunek, w jakim dokonuje się wymiany określonej ilości danej waluty na jednostkę innej waluty.",
+    "explanation": "Funkcje kursu walutowego: Cenotwórcza, Informacja, Alokacyjna.",
     "rationales": [
-      "Cena złota to inna kategoria, choć historycznie związana z systemami walutowymi.",
-      "Stopa procentowa to inna kategoria ekonomiczna.",
-      "Inflacja to inna kategoria ekonomiczna.",
-      "To dokładna definicja kursu walutowego z materiału."
+      "To tylko jedna z funkcji, nie wszystkie.",
+      "To niekompletna lista funkcji.",
+      "To niekompletna lista funkcji.",
+      "To kompletna lista funkcji kursu walutowego z materiału źródłowego."
     ]
   },
   {
-    "id": 46,
-    "category": "Kurs walutowy",
-    "question": "Co to jest aprecjacja waluty?",
+    "id": 73,
+    "category": "Rynek walutowy",
+    "question": "Która z poniższych jest cechą rynku walutowego wymienioną w materiale?",
     "options": [
-      "Spadek wartości waluty krajowej",
-      "Brak zmian w kursie walutowym",
-      "Tylko zmiana kursu w wyniku decyzji władz",
-      "Wzrost wartości waluty krajowej w stosunku do waluty obcej, np. zmiana kursu z 1 euro = 4,60 PLN na 1 euro = 4,30 PLN"
+      "Jest umiejscowiony geograficznie w jednym miejscu",
+      "Należy do najdroższych rynków",
+      "Funkcjonuje tylko w godzinach pracy",
+      "Nie jest umiejscowiony geograficznie"
     ],
     "correctAnswerIndex": 3,
-    "explanation": "Aprecjacja to wzrost wartości waluty krajowej w stosunku do waluty obcej. Przykład: Zmiana kursu z 1 euro = 4,60 PLN na 1 euro = 4,30 PLN. Skutki: pogorszenie konkurencyjności towarów krajowych za granicą, spadek cen towarów importowanych, wzrost importu/spadek eksportu.",
+    "explanation": "Cechy rynku walutowego: Nie jest umiejscowiony geograficznie, Funkcjonuje całą dobę, Należy do najtańszych, ze względu na niskie koszty transakcji i do najlepiej zintegrowanych w skali międzynarodowej.",
     "rationales": [
-      "Spadek wartości waluty krajowej to deprecjacja, nie aprecjacja.",
-      "Aprecjacja to zmiana kursu, nie jego brak.",
-      "Aprecjacja może być wynikiem działań sił rynkowych lub decyzji władz (rewaluacja).",
-      "To dokładna definicja aprecjacji z materiału wraz z przykładem."
+      "Rynek walutowy nie jest umiejscowiony geograficznie, nie w jednym miejscu.",
+      "Rynek walutowy należy do najtańszych, nie najdroższych rynków.",
+      "Rynek walutowy funkcjonuje całą dobę, nie tylko w godzinach pracy.",
+      "To dokładna informacja z materiału źródłowego."
     ]
   },
   {
-    "id": 47,
-    "category": "Kurs walutowy",
-    "question": "Co to jest deprecjacja waluty?",
+    "id": 74,
+    "category": "Rynek walutowy",
+    "question": "Który rodzaj rynku walutowego dokonuje transakcji z dostawą walut natychmiast lub najdalej w ciągu 2 dni roboczych?",
     "options": [
-      "Wzrost wartości waluty krajowej",
-      "Brak zmian w kursie walutowym",
-      "Tylko zmiana kursu w wyniku decyzji władz",
-      "Obniżenie siły nabywczej pieniądza krajowego, np. zmiana kursu z 1 euro = 4,50 PLN na 1 euro = 4,70 PLN"
+      "Rynek terminowy",
+      "Rynek futures",
+      "Rynek forward",
+      "Rynek bieżący"
     ],
     "correctAnswerIndex": 3,
-    "explanation": "Deprecjacja to obniżenie siły nabywczej pieniądza krajowego. Przykład: Zmiana kursu z 1 euro = 4,50 PLN na 1 euro = 4,70 PLN. Skutki: poprawa konkurencyjności towarów eksportowanych oraz wzrost cen towarów importowanych, spadek importu/wzrost eksportu.",
+    "explanation": "Rodzaje rynku walutowego: Bieżący --> dokonywanie transakcji z dostawą walut natychmiast lub najdalej w ciągu 2 dni roboczych.",
     "rationales": [
-      "Wzrost wartości waluty krajowej to aprecjacja, nie deprecjacja.",
-      "Deprecjacja to zmiana kursu, nie jego brak.",
-      "Deprecjacja może być wynikiem działań sił rynkowych lub decyzji władz (dewaluacja).",
-      "To dokładna definicja deprecjacji z materiału wraz z przykładem."
+      "Rynek terminowy to inny rodzaj - kurs ustalony teraz, dostawa w przyszłości.",
+      "Rynek futures to rodzaj rynku terminowego, nie bieżącego.",
+      "Rynek forward to rodzaj rynku terminowego, nie bieżącego.",
+      "To dokładna informacja z materiału źródłowego o rynku bieżącym."
     ]
   },
   {
-    "id": 48,
+    "id": 75,
+    "category": "Międzynarodowy system walutowy",
+    "question": "Jaki system walutowy funkcjonuje obecnie według materiału?",
+    "options": [
+      "System jednodywizowy",
+      "System dwudywizowy",
+      "System bez walut",
+      "System wielodywizowy"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Dziś system wielodywizowy! Charakterystyczna cecha - występowanie wielu walut, które odgrywają rolę pieniądza międzynarodowego, obok dolara i euro, są to waluty wielu krajów, w których znajdują się międzynarodowe centra finansowe (UK, Szwajcaria, Japonia).",
+    "rationales": [
+      "To nieprawidłowy system - obecnie jest wielodywizowy.",
+      "To nieprawidłowy system - obecnie jest wielodywizowy.",
+      "To nieprawidłowy system - istnieją waluty.",
+      "To dokładna informacja z materiału źródłowego - system wielodywizowy."
+    ]
+  },
+  {
+    "id": 76,
     "category": "Bilans płatniczy",
-    "question": "Co to jest bilans płatniczy?",
+    "question": "Co to jest bilans płatniczy według materiału źródłowego?",
     "options": [
       "Tylko bilans handlowy (eksport minus import)",
-      "Tylko przepływy kapitałowe",
       "Tylko rezerwy walutowe",
+      "Tylko przepływy kapitałowe",
       "Zestawienie wszystkich transakcji dokonywanych między rezydentami a resztą świata w danym okresie"
     ],
     "correctAnswerIndex": 3,
     "explanation": "Bilans płatniczy to zestawienie wszystkich transakcji dokonywanych między rezydentami a resztą świata w danym okresie.",
     "rationales": [
       "Bilans handlowy to tylko część bilansu płatniczego.",
-      "Przepływy kapitałowe to tylko część bilansu płatniczego.",
       "Rezerwy walutowe to tylko jeden z elementów bilansu płatniczego.",
-      "To dokładna definicja bilansu płatniczego z materiału."
-    ]
-  },
-  {
-    "id": 49,
-    "category": "Ekonomia międzynarodowa - podstawy",
-    "question": "Która z poniższych cech charakteryzuje ekonomię międzynarodową jako subdyscyplinę?",
-    "options": [
-      "Zajmuje się współzależnościami gospodarczymi pomiędzy państwami",
-      "Zajmuje się wyłącznie polityką wewnętrzną państw",
-      "Pomija aspekty finansowe w relacjach międzynarodowych",
-      "Nie uwzględnia przepływów czynników produkcji"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Ekonomia międzynarodowa zajmuje się współzależnościami gospodarczymi pomiędzy państwami, bada szczegółowo tę część gospodarowania, która ma wymiar międzynarodowy.",
-    "rationales": [
-      "Współzależności gospodarcze między państwami to kluczowy przedmiot ekonomii międzynarodowej.",
-      "Polityka wewnętrzna to przedmiot innych dyscyplin, nie ekonomii międzynarodowej.",
-      "Aspekty finansowe są ważnym elementem ekonomii międzynarodowej.",
-      "Przepływy czynników produkcji są jednym z głównych obszarów ekonomii międzynarodowej."
-    ]
-  },
-  {
-    "id": 50,
-    "category": "Ekonomia międzynarodowa - podstawy",
-    "question": "W którym okresie wyodrębniła się ekonomia międzynarodowa w Polsce?",
-    "options": [
-      "Lata 60-te XX wieku",
-      "Lata 20-te XX wieku",
-      "Lata 90-te XX wieku",
-      "Początek XXI wieku"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "W Polsce początki ekonomii międzynarodowej to lata 60-te XX wieku, podczas gdy subdyscyplina wyodrębniła się z ekonomii w okresie międzywojennym.",
-    "rationales": [
-      "To dokładna informacja z materiału - lata 60-te XX wieku w Polsce.",
-      "Okres międzywojenny to wyodrębnienie subdyscypliny ogólnie, nie w Polsce.",
-      "Lata 90-te to późniejszy okres, nie początki w Polsce.",
-      "Początek XXI wieku to zbyt późny okres."
-    ]
-  },
-  {
-    "id": 51,
-    "category": "Gospodarka światowa",
-    "question": "Która z poniższych cech charakteryzuje gospodarkę światową?",
-    "options": [
-      "Kategoria ekonomiczna o charakterze dynamicznym – pewien system znajdujący się w stałym ruchu i rozwoju",
-      "System statyczny bez zmian w czasie",
-      "Obejmuje tylko kraje rozwinięte",
-      "Nie uwzględnia powiązań technologicznych"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Gospodarka światowa to kategoria ekonomiczna o charakterze dynamicznym – pewien system znajdujący się w stałym ruchu i rozwoju. Jest także kategorią historyczną - mogła powstać dopiero na określonym poziomie rozwoju historycznego.",
-    "rationales": [
-      "To dokładna cecha gospodarki światowej z materiału - charakter dynamiczny.",
-      "Gospodarka światowa jest dynamiczna, nie statyczna.",
-      "Gospodarka światowa obejmuje wszystkie kraje, nie tylko rozwinięte.",
-      "Powiązania technologiczne są ważnym elementem gospodarki światowej."
-    ]
-  },
-  {
-    "id": 52,
-    "category": "Gospodarka światowa",
-    "question": "Która rewolucja przemysłowa przyniosła przełom ilościowy i jakościowy oraz intensyfikację handlu międzynarodowego?",
-    "options": [
-      "I rewolucja przemysłowa (XVIII i XIX wiek)",
-      "II rewolucja przemysłowa",
-      "III rewolucja przemysłowa",
-      "IV rewolucja przemysłowa"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "I rewolucja przemysłowa (XVIII i XIX wiek) przyniosła przełom ilościowy i jakościowy, intensyfikację handlu międzynarodowego, intensyfikację podziału pracy, trwałe zmiany w strukturze produkcji oraz zmiany w strukturze rolnictwa.",
-    "rationales": [
-      "To dokładna informacja z materiału - I rewolucja przemysłowa.",
-      "II rewolucja przyniosła przyspieszenie postępu technicznego, nie była początkiem intensyfikacji handlu.",
-      "III rewolucja była najważniejszą przyczyną globalizacji, ale intensyfikacja handlu zaczęła się wcześniej.",
-      "IV rewolucja to rewolucja 4.0, która nastąpiła później."
-    ]
-  },
-  {
-    "id": 53,
-    "category": "Globalizacja - stymulatory i bariery",
-    "question": "Który z poniższych czynników techniczno-organizacyjnych jest stymulatorem globalizacji?",
-    "options": [
-      "Wszelkie ułatwienia transportowe",
-      "Niestabilność przepisów prawa",
-      "Ksenofobia",
-      "Egocentryzm"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Czynniki techniczno-organizacyjne takie jak ułatwienia transportowe są stymulatorami globalizacji, podczas gdy niestabilność przepisów prawa, ksenofobia i egocentryzm są barierami.",
-    "rationales": [
-      "Ułatwienia transportowe są wymienione w materiale jako stymulatory globalizacji.",
-      "Niestabilność przepisów prawa ma negatywny wpływ i spowalnia globalizację.",
-      "Ksenofobia jest czynnikiem socjopsychologicznym spowalniającym globalizację.",
-      "Egocentryzm jest czynnikiem socjopsychologicznym spowalniającym globalizację."
-    ]
-  },
-  {
-    "id": 54,
-    "category": "Globalizacja - skutki",
-    "question": "Który z poniższych jest negatywnym skutkiem globalizacji związany z konkurencją?",
-    "options": [
-      "Zyskują wielkie koncerny kosztem mniejszych przedsiębiorstw",
-      "Większa dostępność do technologii",
-      "Różnorodność towarów",
-      "Wyższy poziom konkurencji"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Negatywnym skutkiem globalizacji jest to, że zyskują wielkie koncerny kosztem mniejszych przedsiębiorstw, co prowadzi do braku różnorodności i wzmożonej konkurencji niekorzystnej dla małych firm.",
-    "rationales": [
-      "To negatywny skutek globalizacji wymieniony w materiale - zyskują wielkie koncerny.",
-      "Większa dostępność do technologii jest pozytywnym skutkiem globalizacji.",
-      "Różnorodność towarów jest pozytywnym skutkiem globalizacji.",
-      "Wyższy poziom konkurencji może być pozytywny, ale w tym kontekście chodzi o niekorzystną konkurencję dla małych firm."
-    ]
-  },
-  {
-    "id": 55,
-    "category": "Slowbalisation i deglobalizacja",
-    "question": "Które wydarzenia przyspieszyły proces deglobalizacji?",
-    "options": [
-      "Kryzys 2008, covid-19, wojna w Ukrainie, napięcia USA-Chiny",
-      "Tylko kryzys 2008",
-      "Tylko covid-19",
-      "Brak takich wydarzeń"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Wydarzenia przyspieszające deglobalizację to: kryzys 2008, covid-19, wojna w Ukrainie, napięcia USA-Chiny. Deglobalizacja to odwrót od globalizacji z rosnącą rolą protekcjonizmu, regionalizacji, autarkii.",
-    "rationales": [
-      "To kompletna lista wydarzeń przyspieszających deglobalizację z materiału.",
-      "Kryzys 2008 to tylko jedno z wydarzeń przyspieszających deglobalizację.",
-      "Covid-19 to tylko jedno z wydarzeń przyspieszających deglobalizację.",
-      "Materiał wymienia konkretne wydarzenia przyspieszające deglobalizację."
-    ]
-  },
-  {
-    "id": 56,
-    "category": "Podmioty gospodarki światowej",
-    "question": "Kiedy przedsiębiorstwo krajowe staje się podmiotem gospodarki światowej?",
-    "options": [
-      "Gdy w związku ze swoją działalnością gospodarczą nawiązuje znaczące międzynarodowe stosunki gospodarcze z innymi podmiotami",
-      "Gdy działa tylko na rynku krajowym",
-      "Gdy nie ma żadnych kontaktów z zagranicą",
-      "Gdy jest małym przedsiębiorstwem lokalnym"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Przedsiębiorstwa krajowe stają się podmiotami gospodarki światowej, gdy w związku ze swoją działalnością gospodarczą nawiązują znaczące pod względem charakteru, znaczenia, zakresu międzynarodowe stosunki gospodarcze z innymi podmiotami.",
-    "rationales": [
-      "To dokładny warunek z materiału - nawiązanie znaczących stosunków międzynarodowych.",
-      "Działanie tylko na rynku krajowym nie czyni przedsiębiorstwa podmiotem gospodarki światowej.",
-      "Brak kontaktów z zagranicą wyklucza bycie podmiotem gospodarki światowej.",
-      "Wielkość przedsiębiorstwa nie jest decydująca - ważne są międzynarodowe stosunki gospodarcze."
-    ]
-  },
-  {
-    "id": 57,
-    "category": "Międzynarodowy Fundusz Walutowy",
-    "question": "Ile krajów jest obecnie członkami MFW?",
-    "options": [
-      "190",
-      "189",
-      "164",
-      "36"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Liczba członków MFW to 190. Polska znalazła się wśród krajów założycielskich MFW, jednak w 1950 r. wystąpiła z niego i przystąpiła ponownie.",
-    "rationales": [
-      "To dokładna liczba członków MFW z materiału - 190.",
-      "189 to liczba członków Banku Światowego, nie MFW.",
-      "164 to liczba członków WTO, nie MFW.",
-      "36 to liczba członków OECD, nie MFW."
-    ]
-  },
-  {
-    "id": 58,
-    "category": "Bank Światowy",
-    "question": "Ile krajów jest obecnie członkami Banku Światowego?",
-    "options": [
-      "189",
-      "190",
-      "164",
-      "36"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Liczba członków Banku Światowego to 189 krajów. Polska była wśród państw-założycieli Banku, jednak w 1950 r. wypowiedziała członkostwo, a do umowy ponownie przystąpiła w 1986 roku.",
-    "rationales": [
-      "To dokładna liczba członków Banku Światowego z materiału - 189.",
-      "190 to liczba członków MFW, nie Banku Światowego.",
-      "164 to liczba członków WTO, nie Banku Światowego.",
-      "36 to liczba członków OECD, nie Banku Światowego."
-    ]
-  },
-  {
-    "id": 59,
-    "category": "WTO",
-    "question": "Ile państw należy obecnie do WTO?",
-    "options": [
-      "164",
-      "189",
-      "190",
-      "36"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Do WTO należy 164 państwa, w tym Polska. Członkiem WTO może zostać każde państwo lub 'odrębne terytorium celne posiadające pełną autonomię w prowadzeniu swych zewnętrznych stosunków handlowych'.",
-    "rationales": [
-      "To dokładna liczba członków WTO z materiału - 164.",
-      "189 to liczba członków Banku Światowego, nie WTO.",
-      "190 to liczba członków MFW, nie WTO.",
-      "36 to liczba członków OECD, nie WTO."
-    ]
-  },
-  {
-    "id": 60,
-    "category": "OECD",
-    "question": "Ile krajów jest obecnie członkami OECD?",
-    "options": [
-      "36",
-      "164",
-      "189",
-      "190"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "OECD ma obecnie 36 członków, Polska od 1996 roku. OECD powstała na mocy Konwencji Paryskiej z 14.12.1960 r., działalność rozpoczęła 30.04.1961 r.",
-    "rationales": [
-      "To dokładna liczba członków OECD z materiału - 36.",
-      "164 to liczba członków WTO, nie OECD.",
-      "189 to liczba członków Banku Światowego, nie OECD.",
-      "190 to liczba członków MFW, nie OECD."
-    ]
-  },
-  {
-    "id": 61,
-    "category": "Handel zagraniczny i międzynarodowy",
-    "question": "Co to jest eksport?",
-    "options": [
-      "Sprzedaż i wywóz za granicę dóbr i usług wytworzonych w danym kraju",
-      "Zakup i przywóz do danego kraju dóbr i usług wytworzonych poza jego granicami",
-      "Tylko handel wewnętrzny w obrębie kraju",
-      "Tylko handel surowcami"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Eksport to sprzedaż i wywóz za granicę dóbr i usług wytworzonych w danym kraju.",
-    "rationales": [
-      "To dokładna definicja eksportu z materiału.",
-      "To definicja importu, nie eksportu.",
-      "Eksport dotyczy handlu z zagranicą, nie wewnętrznego.",
-      "Eksport dotyczy wszystkich dóbr i usług, nie tylko surowców."
-    ]
-  },
-  {
-    "id": 62,
-    "category": "Handel zagraniczny i międzynarodowy",
-    "question": "Co to jest import?",
-    "options": [
-      "Zakup i przywóz do danego kraju dóbr i usług wytworzonych poza jego granicami",
-      "Sprzedaż i wywóz za granicę dóbr i usług wytworzonych w danym kraju",
-      "Tylko handel wewnętrzny",
-      "Tylko handel usługami"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Import to zakup i przywóz do danego kraju dóbr i usług wytworzonych poza jego granicami. Analiza polskiego eksportu i importu to handel zagraniczny naszego kraju.",
-    "rationales": [
-      "To dokładna definicja importu z materiału.",
-      "To definicja eksportu, nie importu.",
-      "Import dotyczy handlu z zagranicą, nie wewnętrznego.",
-      "Import dotyczy zarówno dóbr, jak i usług, nie tylko usług."
-    ]
-  },
-  {
-    "id": 63,
-    "category": "Przyczyny importu i eksportu",
-    "question": "Która z poniższych jest przyczyną importu związana z warunkami naturalnymi?",
-    "options": [
-      "Brak określonych towarów z powodu warunków naturalnych (zasoby) lub klimatycznych",
-      "Nadwyżki produkcyjne w kraju",
-      "Chęć uzyskania dewiz",
-      "Kreacja nowych miejsc pracy"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Przyczyny rozwoju importu obejmują trwały brak określonych towarów, który nie może być nigdy usunięty - występowanie importu niezbędnego z powodu warunków naturalnych (zasoby) lub warunków klimatycznych.",
-    "rationales": [
-      "To przyczyna importu wymieniona w materiale - warunki naturalne i klimatyczne.",
-      "Nadwyżki produkcyjne są przyczyną eksportu, nie importu.",
-      "Chęć uzyskania dewiz jest przyczyną eksportu, nie importu.",
-      "Kreacja miejsc pracy jest przyczyną eksportu, nie importu."
-    ]
-  },
-  {
-    "id": 64,
-    "category": "Przyczyny importu i eksportu",
-    "question": "Która z poniższych jest przyczyną eksportu związana z uzyskaniem dewiz?",
-    "options": [
-      "Chęć uzyskania dewiz",
-      "Brak towarów w kraju eksportującym",
-      "Zamknięcie rynków zagranicznych",
-      "Brak możliwości produkcji"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Przyczyny eksportu to m.in.: zbyt duże nadwyżki produkcyjne, chęć uzyskania dewiz, kreacja nowych miejsc pracy, kooperacja zaopatrzeniowa, obowiązywanie określonych umów handlowych.",
-    "rationales": [
-      "Chęć uzyskania dewiz jest wymieniona w materiale jako przyczyna eksportu.",
-      "Brak towarów w kraju byłby przyczyną importu, nie eksportu.",
-      "Zamknięcie rynków zagranicznych utrudnia eksport, nie jest jego przyczyną.",
-      "Brak możliwości produkcji uniemożliwia eksport, nie jest jego przyczyną."
-    ]
-  },
-  {
-    "id": 65,
-    "category": "Teorie przedklasyczne",
-    "question": "Który filozof najpełniej ujął zasady dogmatu słusznej ceny w XIII wieku?",
-    "options": [
-      "Św. Tomasz z Akwinu",
-      "Adam Smith",
-      "David Ricardo",
-      "John Maynard Keynes"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Zasady dogmatu słusznej ceny w XIII w. najpełniej ujął św. Tomasz z Akwinu. Dogmat głosi, że towar ma być sprzedany po słusznej cenie – nie wyższej oraz nie niższej, podyktowanej kosztami jego wytworzenia.",
-    "rationales": [
-      "To dokładna informacja z materiału - św. Tomasz z Akwinu w XIII wieku.",
-      "Adam Smith żył w XVIII wieku i był przedstawicielem teorii klasycznej.",
-      "David Ricardo żył w XVIII-XIX wieku i był przedstawicielem teorii klasycznej.",
-      "John Maynard Keynes żył w XX wieku i był przedstawicielem ekonomii keynesowskiej."
-    ]
-  },
-  {
-    "id": 66,
-    "category": "Teorie klasyczne",
-    "question": "Który ekonomista jest autorem teorii kosztów absolutnych?",
-    "options": [
-      "Adam Smith",
-      "David Ricardo",
-      "Heckscher i Ohlin",
-      "Paul Samuelson"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Teoria kosztów absolutnych została sformułowana przez Adama Smitha. Zakłada ona, że kraje specjalizują się w produkcji towarów, w których mają absolutną przewagę kosztową.",
-    "rationales": [
-      "Adam Smith jest autorem teorii kosztów absolutnych.",
-      "David Ricardo jest autorem teorii kosztów komparatywnych, nie absolutnych.",
-      "Heckscher i Ohlin są autorami teorii obfitości zasobów (H-O), nie kosztów absolutnych.",
-      "Paul Samuelson jest autorem teorematu wyrównania się cen czynników produkcji, nie teorii kosztów absolutnych."
-    ]
-  },
-  {
-    "id": 67,
-    "category": "Teorie klasyczne",
-    "question": "Który ekonomista jest autorem teorii kosztów komparatywnych (względnych)?",
-    "options": [
-      "David Ricardo",
-      "Adam Smith",
-      "Heckscher i Ohlin",
-      "Paul Samuelson"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Teoria kosztów komparatywnych (względnych) została sformułowana przez Davida Ricarda. Głosi ona, że wymiana międzynarodowa jest możliwa również wtedy, gdy dany kraj ma przewagę w kosztach wszystkich produktów - ważne są koszty względne.",
-    "rationales": [
-      "David Ricardo jest autorem teorii kosztów komparatywnych.",
-      "Adam Smith jest autorem teorii kosztów absolutnych, nie komparatywnych.",
-      "Heckscher i Ohlin są autorami teorii obfitości zasobów (H-O), nie kosztów komparatywnych.",
-      "Paul Samuelson jest autorem teorematu wyrównania się cen czynników produkcji, nie teorii kosztów komparatywnych."
-    ]
-  },
-  {
-    "id": 68,
-    "category": "Teorie neoklasyczne",
-    "question": "Który ekonomista jest autorem teorematu wyrównania się cen czynników produkcji?",
-    "options": [
-      "Paul Samuelson",
-      "Heckscher i Ohlin",
-      "David Ricardo",
-      "Adam Smith"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Teoremat wyrównania się cen czynników produkcji został sformułowany przez P. Samuelsona. Mówi on, że specjalizacja krajów może mieć wpływ na ceny czynników produkcji, prowadząc do wyrównywania się cen czynników produkcji między krajami.",
-    "rationales": [
-      "Paul Samuelson jest autorem teorematu wyrównania się cen czynników produkcji.",
-      "Heckscher i Ohlin są autorami teorii obfitości zasobów (H-O), nie teorematu Samuelsona.",
-      "David Ricardo jest autorem teorii kosztów komparatywnych, nie teorematu Samuelsona.",
-      "Adam Smith jest autorem teorii kosztów absolutnych, nie teorematu Samuelsona."
-    ]
-  },
-  {
-    "id": 69,
-    "category": "Teorie współczesne",
-    "question": "Co to jest teoria przewag konkurencyjnych Portera (Diamond Model)?",
-    "options": [
-      "Przewaga kraju wynika z czterech powiązanych czynników: czynniki produkcji, warunki popytu, branże pokrewne i wspierające, strategia i struktura firm",
-      "Przewaga wynika tylko z taniej siły roboczej",
-      "Przewaga wynika tylko z zasobów naturalnych",
-      "Przewaga wynika tylko z wielkości kraju"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Teoria przewag konkurencyjnych Portera (Diamond Model) głosi, że przewaga kraju wynika z czterech powiązanych czynników tworzących 'diament': czynniki produkcji (jakość kapitału ludzkiego, technologie, infrastruktura), warunki popytu (wymagający rynek krajowy), branże pokrewne i wspierające (sieć dostawców), strategia, struktura i rywalizacja firm (konkurencja wewnętrzna).",
-    "rationales": [
-      "To dokładna definicja teorii Portera z materiału - cztery czynniki tworzące diament.",
-      "Tania siła robocza to tylko jeden z możliwych czynników produkcji, nie cała teoria.",
-      "Zasoby naturalne to tylko jeden z możliwych czynników produkcji, nie cała teoria.",
-      "Wielkość kraju nie jest kluczowym czynnikiem w teorii Portera."
-    ]
-  },
-  {
-    "id": 70,
-    "category": "Protekcjonizm vs wolny handel",
-    "question": "Który z poniższych jest argumentem ekonomicznym na rzecz protekcjonizmu?",
-    "options": [
-      "Ochrona nowo powstających gałęzi przemysłu",
-      "Korzyści wynikające ze specjalizacji międzygałęziowej",
-      "Korzyści skali produkcji",
-      "Obniżenie stopy inflacji"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Argumenty na rzecz protekcjonizmu o charakterze ekonomicznym to m.in.: ochrona nowo powstających gałęzi przemysłu, groźba zniszczenia rynku krajowego, ochrona bilansu płatniczego, ochrona zatrudnienia i dochodów, przeciwdziałanie zakłóceniom na rynkach czynników produkcji, bezpieczeństwo ekonomiczne państwa.",
-    "rationales": [
-      "Ochrona nowo powstających gałęzi przemysłu jest wymieniona w materiale jako argument za protekcjonizmem.",
-      "Korzyści ze specjalizacji to argument za wolnym handlem, nie protekcjonizmem.",
-      "Korzyści skali to argument za wolnym handlem, nie protekcjonizmem.",
-      "Obniżenie stopy inflacji to argument za wolnym handlem, nie protekcjonizmem."
-    ]
-  },
-  {
-    "id": 71,
-    "category": "Protekcjonizm vs wolny handel",
-    "question": "Który z poniższych jest argumentem ekonomicznym na rzecz wolnego handlu?",
-    "options": [
-      "Korzyści wynikające ze specjalizacji międzygałęziowej",
-      "Ochrona nowo powstających gałęzi przemysłu",
-      "Groźba zniszczenia rynku krajowego",
-      "Ochrona bilansu płatniczego"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Argumenty na rzecz swobody handlu o charakterze ekonomicznym to m.in.: korzyści wynikające ze specjalizacji międzygałęziowej, korzyści skali produkcji, korzyści ze wzrostu konkurencji, pobudzenie ekspansji inwestycji kapitałowych i technologicznych, obniżenie stopy inflacji.",
-    "rationales": [
-      "Korzyści ze specjalizacji to argument za wolnym handlem wymieniony w materiale.",
-      "Ochrona nowo powstających gałęzi to argument za protekcjonizmem, nie wolnym handlem.",
-      "Groźba zniszczenia rynku krajowego to argument za protekcjonizmem, nie wolnym handlem.",
-      "Ochrona bilansu płatniczego to argument za protekcjonizmem, nie wolnym handlem."
-    ]
-  },
-  {
-    "id": 72,
-    "category": "Cło",
-    "question": "Jakie są rodzaje ceł ze względu na sposób traktowania partnera?",
-    "options": [
-      "Preferencyjne, antydumpingowe lub wyrównawcze, odwetowe (retorsyjne), prohibicyjne",
-      "Tylko importowe",
-      "Tylko eksportowe",
-      "Tylko tranzytowe"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Rodzaje ceł ze względu na sposób traktowania partnera to: preferencyjne, antydumpingowe lub wyrównawcze, odwetowe (retorsyjne), prohibicyjne.",
-    "rationales": [
-      "To kompletna lista rodzajów ceł ze względu na sposób traktowania partnera z materiału.",
-      "Importowe to rodzaj z punktu widzenia ruchu towarów, nie sposób traktowania partnera.",
-      "Eksportowe to rodzaj z punktu widzenia ruchu towarów, nie sposób traktowania partnera.",
-      "Tranzytowe to rodzaj z punktu widzenia ruchu towarów, nie sposób traktowania partnera."
-    ]
-  },
-  {
-    "id": 73,
-    "category": "Cło",
-    "question": "Jakie są rodzaje ceł ze względu na ekonomiczny charakter cła?",
-    "options": [
-      "Fiskalne i ochronne (protekcyjne)",
-      "Tylko importowe",
-      "Tylko eksportowe",
-      "Tylko preferencyjne"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Rodzaje ceł ze względu na ekonomiczny charakter cła to: fiskalne (głównie dla dochodów budżetu) oraz ochronne (protekcyjne - chroniące produkcję krajową).",
-    "rationales": [
-      "To kompletna lista rodzajów ceł ze względu na ekonomiczny charakter z materiału.",
-      "Importowe to rodzaj z punktu widzenia ruchu towarów, nie ekonomiczny charakter.",
-      "Eksportowe to rodzaj z punktu widzenia ruchu towarów, nie ekonomiczny charakter.",
-      "Preferencyjne to rodzaj ze względu na sposób traktowania partnera, nie ekonomiczny charakter."
-    ]
-  },
-  {
-    "id": 74,
-    "category": "Bezpośrednie inwestycje zagraniczne",
-    "question": "Jaki jest minimalny udział w spółce wymagany, aby inwestycja została uznana za bezpośrednią według OECD i MFW?",
-    "options": [
-      "10%",
-      "25%",
-      "50%",
-      "75%"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Według OECD i MFW inwestycja może być uznana za bezpośrednią, jeśli w jej wyniku udział inwestora w spółce jest nie mniejszy niż 10% (zakup 10% pakietu akcji lub udziałów) – oczywiście niezbędne jest też posiadanie kontroli nad spółką.",
-    "rationales": [
-      "To dokładna informacja z materiału - minimum 10% udziału.",
-      "25% to zbyt wysoki próg - materiał mówi o 10%.",
-      "50% to zbyt wysoki próg - materiał mówi o 10%.",
-      "75% to zbyt wysoki próg - materiał mówi o 10%."
-    ]
-  },
-  {
-    "id": 75,
-    "category": "Bezpośrednie inwestycje zagraniczne",
-    "question": "Które z poniższych są motywami bezpośrednich inwestycji zagranicznych?",
-    "options": [
-      "Zaopatrzeniowe, rynkowe, kosztowe, polityczne, strategiczne",
-      "Tylko zaopatrzeniowe",
-      "Tylko rynkowe",
-      "Tylko kosztowe"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Motywy BIZ (bezpośrednie inwestycje zagraniczne) - przyczyny, które powodują, że przedsiębiorstwo podejmuje działalność poza granicami kraju, w którym ma siedzibę: zaopatrzeniowe, rynkowe, kosztowe, polityczne, strategiczne.",
-    "rationales": [
-      "To kompletna lista motywów BIZ z materiału.",
-      "Zaopatrzeniowe to tylko jeden z motywów BIZ.",
-      "Rynkowe to tylko jeden z motywów BIZ.",
-      "Kosztowe to tylko jeden z motywów BIZ."
-    ]
-  },
-  {
-    "id": 76,
-    "category": "Migracje",
-    "question": "Które z poniższych procesów sprzyjają migracjom?",
-    "options": [
-      "Postęp w transporcie, nowoczesne systemy mediów, środki przekazu, łączności i technologie informacyjne",
-      "Brak transportu",
-      "Izolacja technologiczna",
-      "Brak komunikacji"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Procesom migracyjnym sprzyjają: postęp w transporcie, nowoczesne systemy mediów, środki przekazu, łączności i technologie informacyjne.",
-    "rationales": [
-      "To kompletna lista procesów sprzyjających migracjom z materiału.",
-      "Brak transportu utrudnia migracje, nie sprzyja im.",
-      "Izolacja technologiczna utrudnia migracje, nie sprzyja im.",
-      "Brak komunikacji utrudnia migracje, nie sprzyja im."
+      "Przepływy kapitałowe to tylko część bilansu płatniczego.",
+      "To dokładna definicja bilansu płatniczego z materiału źródłowego."
     ]
   },
   {
     "id": 77,
-    "category": "Kurs walutowy",
-    "question": "Jakie są funkcje kursu walutowego?",
+    "category": "Teorie handlu - krytyka",
+    "question": "Które z poniższych są wymienione w materiale jako krytyka teorii tradycyjnych?",
     "options": [
-      "Cenotwórcza, informacyjna, alokacyjna",
-      "Tylko cenotwórcza",
-      "Tylko informacyjna",
-      "Tylko alokacyjna"
+      "Tylko założenie wolnego handlu",
+      "Tylko założenia doskonałej konkurencji",
+      "Tylko brak wymiaru środowiskowego",
+      "Założenie wolnego handlu, minimalizacja roli państwa, redukcja czynników produkcji, założenia doskonałej konkurencji, brak wymiaru środowiskowego i społecznego"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Funkcje kursu walutowego to: cenotwórcza, informacyjna, alokacyjna.",
+    "correctAnswerIndex": 3,
+    "explanation": "Krytyka teorii tradycyjnych: Założenie wolnego handlu – brak barier, ceł i subsydiów w praktyce dzisiaj mamy protekcjonizm, wojny handlowe oraz sankcje; Minimalizacji roli państwa; Redukcja czynników produkcji; Założenia doskonałej konkurencji; Brak wymiaru środowiskowego i społecznego dzisiaj istotne są normy ESG, zrównoważony rozwój, emisja CO2, prawa pracownicze itp.",
     "rationales": [
-      "To kompletna lista funkcji kursu walutowego z materiału.",
-      "Cenotwórcza to tylko jedna z funkcji kursu walutowego.",
-      "Informacyjna to tylko jedna z funkcji kursu walutowego.",
-      "Alokacyjna to tylko jedna z funkcji kursu walutowego."
+      "To tylko jeden z elementów krytyki, nie wszystkie.",
+      "To tylko jeden z elementów krytyki, nie wszystkie.",
+      "To tylko jeden z elementów krytyki, nie wszystkie.",
+      "To kompletna lista elementów krytyki teorii tradycyjnych z materiału źródłowego."
     ]
   },
   {
     "id": 78,
-    "category": "Kurs walutowy",
-    "question": "Co to jest kurs płynny?",
+    "category": "Teorie handlu - neoczynnikowe",
+    "question": "Które z poniższych są teoriami neoczynnikowymi wymienionymi w materiale?",
     "options": [
-      "Kurs, który nie jest ustalony przez państwo, ceny walut kształtują się swobodnie na rynku walutowym pod wpływem podaży i popytu",
-      "Kurs ustalony przez państwo w sztywnych granicach",
-      "Kurs, który nie zmienia się w ogóle",
-      "Kurs tylko dla eksportu"
+      "Tylko teoria trójczynnikowa",
+      "Tylko teoria wewnętrznej złożoności",
+      "Tylko teoria wieloczynnikowa",
+      "Teoria trójczynnikowa, teoria wewnętrznej złożoności czynników - pracy i kapitału, teoria wieloczynnikowa"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Kurs płynny to kurs, który nie jest ustalony przez państwo, ceny walut kształtują się swobodnie na rynku walutowym pod wpływem podaży i popytu.",
+    "correctAnswerIndex": 3,
+    "explanation": "Teorie neoczynnikowe: Teoria trójczynnikowa, Teoria wewnętrznej złożoności czynników - pracy i kapitału, Teoria wieloczynnikowa.",
     "rationales": [
-      "To dokładna definicja kursu płynnego z materiału.",
-      "Kurs ustalony przez państwo w sztywnych granicach to kurs stały, nie płynny.",
-      "Kurs płynny może się zmieniać, nie jest stały.",
-      "Kurs płynny dotyczy wszystkich transakcji, nie tylko eksportu."
+      "To tylko jedna z teorii neoczynnikowych, nie wszystkie.",
+      "To tylko jedna z teorii neoczynnikowych, nie wszystkie.",
+      "To tylko jedna z teorii neoczynnikowych, nie wszystkie.",
+      "To kompletna lista teorii neoczynnikowych z materiału źródłowego."
     ]
   },
   {
     "id": 79,
-    "category": "Kurs walutowy",
-    "question": "Co to jest kurs stały?",
+    "category": "Teorie handlu - popytowo-podażowe",
+    "question": "Która teoria popytowo-podażowa jest wymieniona w materiale jako ważna na egzaminie?",
     "options": [
-      "Kurs, który waha się w określonych granicach w stosunku do jednej waluty lub koszyka walut",
-      "Kurs, który nie zmienia się w ogóle",
-      "Kurs kształtujący się swobodnie na rynku",
-      "Kurs tylko dla importu"
+      "Teoria nakładających się popytów – podobieństwa preferencji Lindera",
+      "Teoria zróżnicowania produktów",
+      "Teoria wieloczynnikowa",
+      "Teoria wewnątrzgałęziowa (Grubiel i Lloyd)"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Kurs stały to kurs, który waha się w określonych granicach w stosunku do jednej waluty lub koszyka walut.",
+    "correctAnswerIndex": 3,
+    "explanation": "Teoria wewnątrzgałęziowy - na egzaminie!! (Grubiel i Lloyd).",
     "rationales": [
-      "To dokładna definicja kursu stałego z materiału.",
-      "Kurs stały może wahać się w granicach, nie jest całkowicie niezmienny.",
-      "Kurs kształtujący się swobodnie na rynku to kurs płynny, nie stały.",
-      "Kurs stały dotyczy wszystkich transakcji, nie tylko importu."
+      "To teoria popytowo-podażowa, ale nie oznaczona jako ważna na egzaminie.",
+      "To teoria popytowo-podażowa, ale nie oznaczona jako ważna na egzaminie.",
+      "To teoria neoczynnikowa, nie popytowo-podażowa.",
+      "To dokładna informacja z materiału źródłowego - teoria wewnątrzgałęziowa oznaczona jako ważna na egzaminie."
     ]
   },
   {
     "id": 80,
-    "category": "Bilans płatniczy",
-    "question": "Która instytucja jest odpowiedzialna za publikację bilansu płatniczego w Polsce?",
+    "category": "Polityka walutowa",
+    "question": "Które z poniższych są celami polityki walutowej wymienionymi w materiale?",
     "options": [
-      "NBP (Narodowy Bank Polski)",
-      "MFW",
-      "Bank Światowy",
-      "WTO"
+      "Tylko stworzenie korzystnych warunków wymiany",
+      "Tylko osiągnięcie optymalnego poziomu kursu",
+      "Tylko zapobieganie wzrostowi deficytu",
+      "Stworzenie korzystnych warunków wymiany w handlu międzynarodowym dla krajowych przedsiębiorców, zapobieganie wzrostowi deficytu w bilansie płatniczym oraz gwałtownym i znacznym zmianom kursu waluty krajowej, osiągnięcie optymalnego poziomu kursu walutowego"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "NBP (Narodowy Bank Polski) jest odpowiedzialny za publikację bilansu płatniczego w Polsce. Bilans płatniczy to zestawienie wszystkich transakcji dokonywanych między rezydentami a resztą świata w danym okresie.",
+    "correctAnswerIndex": 3,
+    "explanation": "Cele polityki walutowej: Stworzenie korzystnych warunków wymiany w handlu międzynarodowym dla krajowych przedsiębiorców; Zapobieganie wzrostowi deficytu w bilansie płatniczym oraz gwałtownym i znacznym zmianom kursu waluty krajowej; Osiągnięcie optymalnego poziomu kursu walutowego z punktu widzenia potrzeb gospodarki krajowej i balansu płatniczego.",
     "rationales": [
-      "NBP jest odpowiedzialny za publikację bilansu płatniczego w Polsce.",
-      "MFW to międzynarodowa instytucja finansowa, nie publikuje bilansu płatniczego Polski.",
-      "Bank Światowy to międzynarodowa instytucja, nie publikuje bilansu płatniczego Polski.",
-      "WTO to organizacja handlowa, nie publikuje bilansu płatniczego."
+      "To tylko jeden z celów, nie wszystkie.",
+      "To tylko jeden z celów, nie wszystkie.",
+      "To tylko jeden z celów, nie wszystkie.",
+      "To kompletna lista celów polityki walutowej z materiału źródłowego."
     ]
   }
 ]
